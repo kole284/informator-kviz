@@ -19,6 +19,7 @@ type QuizQuestion = {
 };
 
 type LoadStatus = "loading" | "ready" | "error";
+type QuestionOrder = "random" | "sequential";
 
 const QUESTION_FILE_GROUPS = {
   Biologija: [
@@ -87,7 +88,11 @@ function shuffleArray<T>(items: T[]) {
   return shuffled;
 }
 
-function createRound(sourceQuestions: QuizQuestion[]) {
+function createRound(sourceQuestions: QuizQuestion[], order: QuestionOrder) {
+  if (order === "sequential") {
+    return [...sourceQuestions].sort((left, right) => left.id - right.id);
+  }
+
   return shuffleArray(sourceQuestions);
 }
 
@@ -107,6 +112,8 @@ export function QuizGame() {
   const [score, setScore] = useState(0);
   const [status, setStatus] = useState<LoadStatus>("loading");
   const [errorMessage, setErrorMessage] = useState("");
+  const [questionOrder, setQuestionOrder] =
+    useState<QuestionOrder>("random");
 
   useEffect(() => {
     let cancelled = false;
@@ -258,7 +265,7 @@ export function QuizGame() {
       return;
     }
 
-    setQuestions(createRound(filteredQuestions));
+    setQuestions(createRound(filteredQuestions, questionOrder));
     setCurrentIndex(0);
     setSelectedAnswers([]);
     setTextAnswer("");
@@ -273,7 +280,7 @@ export function QuizGame() {
     );
 
     setSelectedCategory(category);
-    setQuestions(createRound(filteredQuestions));
+    setQuestions(createRound(filteredQuestions, questionOrder));
     setCurrentIndex(0);
     setSelectedAnswers([]);
     setTextAnswer("");
@@ -409,6 +416,38 @@ export function QuizGame() {
               Prvo biraš oblast, pa podkategoriju i pitanja.
             </p>
           </header>
+
+          <div className="rounded-[1.5rem] border border-white/10 bg-slate-950/55 p-3 shadow-xl shadow-slate-950/25 backdrop-blur sm:flex sm:items-center sm:justify-between sm:gap-4 sm:p-4">
+            <p className="text-xs uppercase tracking-[0.2em] text-slate-400">
+              Redosled pitanja
+            </p>
+            <div className="mt-3 grid grid-cols-2 gap-2 rounded-full border border-white/10 bg-white/5 p-1 sm:mt-0 sm:w-72">
+              <button
+                type="button"
+                aria-pressed={questionOrder === "random"}
+                onClick={() => setQuestionOrder("random")}
+                className={`h-9 rounded-full px-4 text-sm font-semibold transition-colors ${
+                  questionOrder === "random"
+                    ? "bg-cyan-300 text-slate-950"
+                    : "text-slate-300 hover:bg-white/10 hover:text-white"
+                }`}
+              >
+                Nasumično
+              </button>
+              <button
+                type="button"
+                aria-pressed={questionOrder === "sequential"}
+                onClick={() => setQuestionOrder("sequential")}
+                className={`h-9 rounded-full px-4 text-sm font-semibold transition-colors ${
+                  questionOrder === "sequential"
+                    ? "bg-cyan-300 text-slate-950"
+                    : "text-slate-300 hover:bg-white/10 hover:text-white"
+                }`}
+              >
+                Redom
+              </button>
+            </div>
+          </div>
 
           <div className="grid gap-2 sm:grid-cols-2">
             {SUBJECTS.map((subject) => {
@@ -552,7 +591,9 @@ export function QuizGame() {
           </div>
 
           <p className="max-w-2xl text-sm leading-7 text-slate-300 sm:text-base">
-            Pitanja se nasumično raspoređuju pri svakom novom pokretanju.
+            {questionOrder === "random"
+              ? "Pitanja su bila nasumično raspoređena."
+              : "Pitanja su išla redom po rednom broju."}
           </p>
 
           <div className="flex flex-wrap gap-3">
