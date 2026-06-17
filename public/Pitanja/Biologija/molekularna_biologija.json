@@ -1,0 +1,2349 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Po broju molekula DNK somatske celije u G2 fazi su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iste kao i zrele polne celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iste kao spermatide i primarne polocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iste kao primarne ovocite"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iste kao primarne spermatocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Raspored kodona GAC-UGC-ACU odredjuje (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "isti raspored aminokiselina samo kod svih eukariota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "isti raspored aminokiselina kod svih zivih bica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nema znacaja za raspored aminokiselina u polipeptidnom lancu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "isti raspored aminokiselina samo kod visih organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Po broju molekula DNK somatske celije u G2 fazi su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iste kao Sertolijeve celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iste kao primarni ovociti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iste kao spermatide i primarne polocite"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iste kao sekundarne polocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Po broju molekula DNK somatske celije u G1 periodu su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iste kao Sertolijeve celije u G2 fazi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iste kao spermatide"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iste kao ovotide"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iste kao somatske celije pre replikacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Replikacija molekula DNK je u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "S periodu interfaze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "G1 periodu interfaze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "G2 periodu interfaze"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jedru kada dodye do maksimalne spiralizacije DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "translacija je proces sinteze tRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "translacija se desava u citoplazmi na polizomima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "translacija se odvija samo u mitohondrijama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "translacija je prepisivanje sifre sa iRNK na polipeptidni lanac"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kodon se nalazi na iRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kodon je triplet dezoksinukleotida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "postoji 61 funkcionalan kodon"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kodoni se nalaze na tRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Antikodon je triplet nukleotida na tRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "antikodon je triplet nukleotida na iRNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "antikodon se nalazi na rRNK"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "postoje 64 funkcionalna antikodona"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Stop kodoni su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "AUG, UAA, UAG"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "UAA, UAG, UGA"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kodoni koji ne vezu nijednu aminokiselinu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nalaze se na kraju tRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ima ukupno 64 funkcionalna kodona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kodoni su komplementarni antikodonima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kodoni su komplementarni genetickoj sifri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kodoni nisu komplementarni antikodonima"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Transkripcija je (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prepis sifre sa DNK na iRNK po principu komplementarnosti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prepis sifre sa DNK na iRNK po principu 3 nukleotida - 1 aminokiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "na polizomima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sinteza svih vrsta RNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "replikacija je proces slican translaciji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "replikacija je u pocetku slicna transkripciji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "replikacija se odvija u jedru i katalise je vise enzima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod eukariota replikacija pocinje samo na jednom mestu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "replikacija - transkripcija - translacija oznacava centralnu dogmu molekularne biologije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "od 64 kodona 3 su nefunkcionalna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ukupno ima 20 razlicitih kodona za 20 aminokiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "startni kodon za prokariote i eukariote je UAG"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sintetisana rRNK u jedru odmah je spremna za translaciju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sintetisana iRNK u jedru pre translacije mora da se obradi, da se iseku introni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sintetisana tRNK u jedru odmah dobija oblik lista deteline"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tRNK je najkraci lanac RNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tRNK je krajnje specificna i razlikuje se kod svih grupa organizama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tRNK ima samo oko 700 nukleotida"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "rRNK je po kolicini najvise zastupljena u celiji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rRNK ima ulogu da gradi ribozome"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rRNK prenosi informaciju od iRNK do proteina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "rRNK ucestvuje u izgradnji samo velike subjedinice ribozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "replikacija je u G2 periodu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sinteza proteina je u sintetickom periodu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sinteza proteina je najintenzivnija u predsintetickom periodu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sinteza proteina je intenzivna u G2 periodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veze izmedju nukleotida u jednom lancu ostvaruju se preko organskih baza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veze izmedju nukleotida u jednom lancu ostvaruju se preko fosforne kiseline i secera i vrlo su slabe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "veze izmedju nukleotida u jednom lancu vrlo su jake"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleotidi jednog lanca vezani su vodonicnim vezama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodonicne veze izmedju dva lanca su vrlo jake"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodonicne veze izmedju dva lanca su vrlo slabe"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Paralelnost dva lanca DNK obezbedjuje se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "komplementarnim vezivanjem jednog purina sa pirimidinom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodonicnim vezama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fosfodiestarskim vezama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u molekulu DNK kolicina adenina i guanina su iste"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u molekulu DNK kolicina adenina i timina su iste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u molekulu DNK kolicina citozina i timina su iste"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u molekulu RNK kolicina uracila i adenina su iste"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u molekulu RNK uracil je komplementaran adeninu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "molekuli DNK poseduju samo purinske baze"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleozidi sadrze secer i fosfornu kiselinu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleozidi sadrze bazu i secer pentozu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleozidi sadrze bazu i fosfornu kiselinu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleotidi imaju ulogu u prenosu energije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleotidi imaju ulogu kao biokatalizatori"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleotidi se ukljucuju u proces transdukcije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "U procesu translacije energiju daje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ATP"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "GTP"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svi nukleotid trifosfati"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "U procesu transkripcije energija se dobija od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ATP"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "GTP"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleotid trifosfata"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koliko tipova nukleotida ima u molekulu DNK prokariota:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koliko ukupno ima tipova nukleotida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4 tipa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8 tipova"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4 ili 8 tipova zavisno da li su celije prokarioti ili eukarioti."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "misicne i nervne celije dva organizma iste vrste geneticki se razlikuju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "misicne i nervne celije dva organizma iste vrste geneticki se ne razlikuju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geni za sintezu insulina nalaze se i u nervnim celijama"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u molekulu DNK kolicina uracila je manja od kolicine adenina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vezivanje purina za pirimidine odredjuje konstantan razmak izmedju polinukleotidnih lanaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u molekulu DNK ima isto citozina koliko i guanina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nasledna osnova virusa je molekul DNK ili RNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "DNK virusa moze biti jednolancana ili dvolancana"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nasledna osnova bakterija moze biti DNK ili RNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nasledna osnova prokariota je dupli linearni lanac DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "za DNK bakterija nisu vezani histoni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "DNK bakterija je dupli kruzni lanac za koga su vezani histoni"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nasledna osnova sisara je dupla dvolancana DNK slobodna od histona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nasledna osnova svih kicmenjaka je dupla DNK za koju su vezani histoni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za naslednu osnovu prokariota i eukariota vezani su histoni"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Antitela imaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2 teska i 2 laka polipeptidna lanca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2 teska i 4 laka polipeptidna lanca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "teska i 4 laka polipeptidna lanca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako neki antigen dospe u organizam umnozavace se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vrlo razlicite B celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "B celije koje sintetisu antitela na prisutni antigen"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "B celije koje imaju C i V gen za dati antigen"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koja od navedenih materija je razlicita po kolicini i strukturi u raznim celijama embriona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "proteini"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iRNK"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Osnovne komponente u sastavu nukleotida su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "azotna baza, pentozni secer, sumporna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "azotna baza, heksozni secer, pirofosfat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "azotna baza, pentozni secer, fosfat"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "geni za sintezu insulina nalaze se i u celijama mozga"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "geni za sintezu tripsina nalaze se samo u celijama endokrinog pankreasa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geni za sintezu insulina nalaze se samo u tkivu endokrinog i egzokrinog pankreasa"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Genetski kod nalazi se na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "molekulu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "molekulu iRNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u tripletima baza na tRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "triplet AUA prdstavlja start kodon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "triplet AUG predstavlja start kodon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "triplet UGG predstavlja start kodon"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kodirajuci segmenti u eukariotskim genima nazivaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "introni"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "egzoni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mutoni"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prokariotski ribozomi su krupniji od eukariotskih"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prokariotski ribozomi imaju konstantu sedimentacije 60 S"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ribozomi prokariota imaju konstantu sedimentacije oko 70 S"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koje medju navedenim aminokiselinama imaju samo jedan kodon (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metionin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "arginin i leucin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metionin i triptofan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "valin i prolin"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno. Koji od navedenih enzima ucestvuju u repliakciji DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "DNK ligaza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "himotripsin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "DNaza I"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno.",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "eukariotski geni sadrze introne i egzone"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo kod visih eukariota javljaju se geni sa egzonima i intronima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geni prokariota sadrze samo introne"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno. Kojim hemijskim vezama su povezane aminokiseline u proteinima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fosfodiestarskim"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glikozidnim"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "peptidnim"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tioetarskim"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno. Kojim hemijskim vezama su povezani nukleotidi u DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etarskim"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "peptidnim"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fosfodiestarskim"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno.",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mutacije u DNK uvek menjaju redosled aminokiselina u odgovarajucem poplipeptidu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mutacije struktrnih gena uvek menjaju redosled aminokiselina u polipeptidu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mutacije unutar egzona uvek menjaju redosled aminokiselina u odgovarajucem segmentu polipeptidnog lanca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan od odgovora nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Prva aminokiselina koja se vezuje u polipeptidnom lancu kod eukariota je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "formilovani metionin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metionin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedna ili druga, avisno da li su beskicmenjaci ili kicmenjaci"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kodon se nalazi na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tRNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rRNK"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kodon je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "komplementaran antikodonu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nije komplementaran antikodonu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "komplementaran DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koje od navedenih baza ulaze u sastav DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hipoksantin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "guanin, uracil"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin, adenin"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno.\nTripleti nukleotida u DNK i antikodonu razlikuju se samo po:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1 nukleotidu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po svim nukleotidima i oni su komplementarni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nijedna tvrdnja nije tacna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "triplet ribonukleotida na tRNK naziva se antikodon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "triplet nukleotida na iRNK naziva se kodon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "triplet nukleotida na rRNK naziva se kodon"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "transkripcija se odvija u citoplazmi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "translacija se odvija u citoplazmi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "replikacija se odigrava u jedru"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "translacija je proces sinteze tRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "translacija je sinteza proteina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "replikacija postoji i u mitohondrijama"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno.\nPosle I mejoticke deobe novonastale celije imaju u odnosu na telesne celije po S perioda interfaze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istu kolicinu DNK kao i telesne celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dvostruko vecu kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "upola manju kolicinu DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Tetraploidne celije posle S perioda u odnosu na diploidne celije pre S perioda imaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "8 puta vecu kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4 puta vecu kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "istu kolicinu DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Posle I mejoticke deobe celije prokariota imaju (Okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "duplo manju kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "istu kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nijedan od odgovora nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Molekuli DNK prokariota posle II mejoze imaju (Okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cetiri puta manju kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "duplo manju kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kod sisara posle zavrsene mejoze celije imaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4 puta manju kolicinu DNK od spermatogonija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "duplo manju kolicinu DNK od spermatogonija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kolicina DNK u celijama primarnih polocita i sekundarnih oocita je ista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kolicina DNK manja je kod primarnih oocita nego kod sekundarnih polocita"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kolicina DNK ista je kod sekundarnih polocita i ootida."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Bar-ovo telo je gradjeno od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fakultativnog heterohromatina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svih tipova heterohromatina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "X hromozom sisara kod muzjaka sadrzi (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fakultativni heterohromatin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "euhromatin i heterohromatin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sadrzi nijedan tip hromatina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kod inverzije hromozoma kolicina DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ostaje nepromenjena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "se smanjuje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "se povecava"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kod translokacije hromozoma u jednoj celiji kolicina DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "se smanjuje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ostaje ista"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "povecava se"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kod Down-ovog sindroma kolicina DNK u odnosu na normalne celije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjuje se"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povecava se"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ostaje ista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kod Turner-ovog sindroma kolicina DNK u odnosu na normalne celije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjuje se"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povecava se"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ostaje ista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Nosioci translokacija i inverzija hromozoma u odnosu na kolicinu DNK su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "balansirani"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nebalansirani"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mnogo izmenjeni"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kolicina DNK u jednoj istoj celiji kod tetrada u odnosu na bivalente je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "duplo veca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ista"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "duplo manja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kolicina DNK u istim celijama:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ista je u stadijumu zigotena kao i u stadijumu pahitena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veca je u diplotenu nego u zigotenu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "najveca je u dijakinezi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Broj nukleotida u molekulu DNK kod virusa iznosi oko:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedan milion"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vise miliona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oko 100.000"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Broj nukleotida u molekulu DNK coveka je oko:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "7 milijardi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "7 miliona parova"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "10 miliona parova"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Broj molekula DNK kod iste vrste organizma u spermatogonijama i oogonijama istog perioda celijskog ciklusa je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "isti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veci u spermatogonijama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "veci u oogonijama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Broj molekula DNK kod istog organizma u ovogoniji u odnosu na sekundarne oocite je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "duplo manji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "duplo veci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "isti"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Broj molekula DNK u spermatogoniji u odnosu na spermatozoid je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "isti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4 puta veci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2 puta manji"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako jedan gen ima 300 nukleotida koliko ce priblizno da ima aminokiselina protein pod kontrolom ovog gena?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "100"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako gen ima 900 nukleotida protein koji nastaje pod njegovom kontrolom ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "priblizno isti broj aminokiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tri puta manji broj aminokiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tri puta veci broj aminokiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Informacione RNK u odnosu na broj nukleotida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve su iste"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jako se razlikuju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slicne su kao tRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Po broju nukleotida najmanje su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tRNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rRNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iRNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleotidi primarno isntetisane iRNK svi se prepisuju na proteine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ne prepisuju se samo start i stop kodon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prepisuju se samo egzoni"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Primarna tRNK sintetisana u jedru u odnosu na tRNK u citoplazmi po broju nukleotida je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "manja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Primarno sintetisana rRNK u jedru u odnosu na rRNK u ribozomima po broju nukleotida je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "manja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koliko najvise kodona moze da kodira jednu aminokiselinu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Kada se jave zamene nukleotida na DNK:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "obavezno dolazi do mutacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ne javi se uvek mutacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "javi se mutacija ako je zamenjen poslednji nukleotid u tripletu."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako polinukleotidni lanac DNK sadrzi 40% adenina koliko ce timina sadr zati njegov komplementarni lanac?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "40%"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako u odredjenom fragmentu jednostrukog molekula DNK ima 36% molekula citozina, koliko ce biti molekula uracila u suprotnom lancu?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "0"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako u odredjenom fragmentu iRNK ima 116 molekula uracila koliko ce biti molekula timina na tRNK?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "0"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ako na jednoj iRNK ima 50% molekula adenina koliko molekula timina ima gen koji kontrolise sintezu ove iRNK?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "50%"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Triploidna celija u odnosu na celiju sa trizomijom ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istu kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manju kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vecu kolicinu DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Celija sa trizomijom u odnosu na celiju koja ima jednu tetrazomiju i jednu monozomiju ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istu kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manju kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vecu kolicinu DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Celija posle S perioda u odnosu na celiju u G1 periodu interfaze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ima istu kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ima manju kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ima vecu kolicinu DNK."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Hromozom sa delecijom u odnosu na normalni ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istu kolicinu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manju kolicinu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vecu kolicinu DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Molekuli iRNK koji postaju direktno u transkripciji imaju u odnosu na iRNK u translaciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istu kolicinu nukleotida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manju kolicinu nukleotida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vecu kolicinu nukleotida"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "postoji samo jedan kodon inicijacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "postoje 3 kodona inicijacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "postoji veliki broj kodona inicijacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Molekule DNK grade:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "5 tipova nukleotida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4 tipa nukleotida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "8 tipova nukleotida"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "U izgradnji polipeptida ucestvuje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "64 razlicite aminokiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "20 razlicitih aminokiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "61 funkcionalna aminokiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Transportne RNK izgradjene su od priblizno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "40-60 nukleotida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "70-80 nukleotida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "70 parova nukleotida"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Koje od navedenih RNK cine najveci deo jedarceta:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "d",
+        "tekst": "tRNK"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "iRNK"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "rRNK"
+      },
+      {
+        "oznaka": "g",
+        "tekst": "sve u priblizno istim kolicinama"
+      }
+    ],
+    "tacan_odgovor": [
+      "f"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Molekularna biologija",
+    "pitanje": "Ribozomalne RNK koje se koriste za sintezu proteina pocinju da se sintetisu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jos u jajnoj celiji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kad se ukaze potreba za sintezom proteina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za vreme transkripcije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "za vreme translacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  }
+]

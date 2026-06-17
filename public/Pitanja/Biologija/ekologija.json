@@ -1,0 +1,2994 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Ekologija",
+    "pitanje": "Idioekologija i sinekologija (sinteticka ekologija se razlikuju po tome sto (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedna proucava biljke, a druga zivotinje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedna analiticki proucava staniste, a druga sinteticki samo bioticke faktore"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sinekologija proucava odredjenu vrstu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "idioekologija proucava odredjenu vrstu, a sinekologija populacije, biocenoze i ekosisteme"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "jedna proucava biljna stanista, a druga zivotinje i geosferu"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "sinekologija proucava odredjenu vrstu, a idioekologija populacije, biocenoze i ekosisteme"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Ekologija",
+    "pitanje": "Unutar odredjenog biotopa ekoloski uslovi su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veoma raznoliki i dinamicki"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "relativno ujednaceni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "potpuno isti i sinhronizovani"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zavisno od biotopa isti su ili razliciti"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "zavisno od biocenoze su isti ili razliciti"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zavisno od bioma isti ili razliciti"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Ekologija",
+    "pitanje": "U sistemu A B C D E F okruzite slovo pod kojim je naveden naziv organizma odredjenih karakteristika:",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "euritermnost A B C D E F - kompleksno funkcionalno strukturno jedinstvo nezive i zive prirode, odnosno biotopa i biocenoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stenotermnost A B C D E F - ishrana raznolikom hranom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stenofagnost A B C D E F - siroka podnosljivost promena temperatura"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "eurifagnost A B C D E F - podnosljivost uskih granica temperaturnih variranja"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ekosistem A B C D E F - skup morfo-fizioloskih prilagodjenosti jedne vrste usaglasenih sa odgovarajucim uslovima zivotne sredine"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotna forma A B C D E F - ishrana ogranicenom vrstom hrane"
+      }
+    ],
+    "tacan_odgovor": [
+      "a-E",
+      "b-D",
+      "c-A",
+      "d-B",
+      "e-F",
+      "f-C"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Ekologija",
+    "pitanje": "Areal jedne vrste je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prostor zajednicke ekoloske nise"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ceo prostor biosfere"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prostor u okviru odredjenog dela stanista gde pojedini clanovi ili manje grupe clanova populacije jedne vrste ispoljavaju svoje svakodnevne aktivnosti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prostor vrsta koje su filogenetski srodne iako su geografski vrlo udaljene"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "prostor klase ili reda zivotinja koje naseljavaju jedan biotop i filogenetski su udaljene"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "prostor klase ili familije zivotinja koje naseljavaju jedan biotop i filogenetski su udaljene"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Ekologija",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. sukcesija je smenjivanje jednog ekosistema drugim u funkciji vremena\n2. populacija je grupa jedinki iste vrste koja nastanjuje odredjeni prostor i pripada odredjenoj biosferi\n3. populacija je grupa jedinki razlicitih vrsta koje pripadaju istoj biocenozi\n4. populacija je grupa jedinki iste vrste koje se medjusobno razmnozavaju i naseljavaju neki ekoloski ili topografski ogranicen prostor\n5. populacija je grupa jedinki koja naseljava odredjeni ekosistem\n6. zivotna forma je skup morfo-fizioloskih prilagodjenosti jedne vrste usaglasenih sa odgovarajucim uslovima sredine, a ekoloska nisa je specificni akcioni prostor jedne vrste\n7. zivotna forma je skup morfo-fizioloskih prilagodjenosti jedne vrste usaglasenih sa odgovarajucim uslovima sredine, a ekoloska nisa je prostorna, troficka i hiperprostorna nisa",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "3, 5, 7"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "1, 4, 6, 7"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "5, 6, 7"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "4, 5, 7"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "2, 6, 7"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "3, 4, 5"
+      }
+    ],
+    "tacan_odgovor": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Ekologija",
+    "pitanje": "Populacija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "grupa razlicitih organizama koji nastanjuju jedan biotop"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "grupa jedinki iste vrste koja nastanjuje razlicita stanista"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "grupa jedinki iste vrste koje se medjusobno razmnozavaju i naseljavaju neki ekoloski ili topografski ogranicen prostor"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "grupa jedinki koja naseljava odredjeni ekosistem"
+      },
+      {
+        "oznaka": "5",
+        "tekst": "skup adaptivnih karakteristika jedne organske vrste usaglasenih sa konkretnim uslovima sredine, a ekoloska nisa je skup ekoloskih mogucnosti koje koristi odredjena vrsta"
+      },
+      {
+        "oznaka": "6",
+        "tekst": "skup adaptivnih karakteristika jedne organske vrste usaglasenih sa konkretnim uslovima sredine, a ekoloska nisa je skup ekoloskih zahteva koje koristi odredjena vrsta"
+      }
+    ],
+    "tacan_odgovor": [
+      "3"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekosistem je sistem viseg reda koji izgraduju biotop i biocenoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bentosi su zivotinjske vrste pustinjskog ekosistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zona povrsinski slojeva vode udaljenih od obale se zove profundalna zona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zona dubljih slojeva jezerske vode zove se profundalna zona"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nekton su zivotinjske vrste koje lebde na povrsini vode"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Ekologija",
+    "pitanje": "U sistemu A B C D okruzite slovo pod kojim je naveden naziv organizma odredjenih karakteristika:",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "euritermnost A B C D - Ishrana ogranicenom vrstom hrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stenotermnost A B C D - Ishrana raznolikom hranom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stenofagnost A B C D - Siroka podnosljivost promena temperature"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "eurifagnost A B C D - Podnosljivost uskih granica temperaturnih variranja"
+      }
+    ],
+    "tacan_odgovor": [
+      "a-C",
+      "b-D",
+      "c-A",
+      "d-B"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekoloska sukcesija je smenjivanje jednog ekosistema drugim u funkciji vremena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ekoloska specijacija je kompeticija medu razlicitim vrstama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekoloska sukcesija je alelopatski nastanak novih vrsta"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ekoloska sukcesija je geografski determinizam postanka novih vrsta"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ekoloska sukcesija je smenjivanje jedne organske vrste drugom funkciji vremena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Ekologija",
+    "pitanje": "Skup morfo-fizioloskih prilagodjenosti jedne organske vrste usaglasenih sa odgovarajucim uslovima zivotne sredine naziva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zivotna zajednica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "abundancija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zivotna forma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ekoloska valenca"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "limatizacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekosistem je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "skup biljnih i zivotinjskih vrsta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kompleksno strukturno-funkcionalno jedinstvo zive i nezive prirode, odnosno biotopa i biocenoze sa svim tipovima odnosa medu njima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geografski prostor sa svim faktorima sredine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jedinstvo zive i nezive prirode vodenih stanista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Ekologija",
+    "pitanje": "Vrsta je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "grupa razlicitih organizama koji nastanjuju jedan biotop"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "grupa jedinki iste klase, koja nastanjuje razlicita stanista"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "sistematska kategorija koju cini veci broj populacija, koje su zajednickog porekla, genetski su srodne, cije se jedinke medjusobno razmnozavaju i naseljavaju neki ekoloski ili topografski ogranicen prostor, a reproduktivno su izolovane od jedinki iz populacija drugih vrsta"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "grupe jedinki koje nastanjuju odredjeni prostor i pripadaju odredjenoj biocenozi"
+      },
+      {
+        "oznaka": "5",
+        "tekst": "sistematska kategorija koju cini veci broj prostorno bliskih populacija jednog biotopa, koje su zajednickog porekla, genetski su srodne i medjusobno reproduktivno izolovane"
+      }
+    ],
+    "tacan_odgovor": [
+      "3"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekosistem je kompleksno strukturno-funkcionalno jedinstvo zive i nezive prirode, odnosno biotopa i biocenoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bentos su zivotinjske vrste livadskog ekosistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "saprofitski lanci ishrane zapocinju biljnim organizmima, nastavljaju se sitnim i zavrsavaju krupnijim zivotinjama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zofagi su organizmi koji se hrane uginulom i raspadnutom organskom materijom"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "saprofitski lanci ishrane se pruzaju od nezive materije ka mikroorganizmima"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Ekologija",
+    "pitanje": "Demekologija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekologija ekosistema"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ekologija bioma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekologija coveka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ekologija populacija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ekologija lisajeva, gljiva i biljaka"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "ekologija zivotinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Ekologija",
+    "pitanje": "Biomi su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "celine viseg ranga koje cini vise integrisanih ekosistema i predela u okviru odredjenih klimatskih oblasti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biocenoza u okviru odredjenih klimatskih oblasti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biosfera u okviru odredjenih klimatskih oblasti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biotopa u okviru odredjenih klimatskih oblasti"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biogeografskih regiona u okviru odredjenih klimatskih oblasti"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Ekologija",
+    "pitanje": "Predeli su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biotopa i biocenoza, odnosno ekosistema"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "celine viseg ranga koje cini vise integrisanih ekosistema i bioma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "celine viseg ranga koje cini vise integrisanih ekosistema i biogeografskih regiona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biotopa i bioma"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "celine viseg ranga koje cini vise integrisanih biocenoza i bioma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tri osnovne oblasti zivota (biociklusi) su: slana voda (mora i okeani), kopnena slatka voda (potoci, reke, jezera i bar i kopno, odnosno suvozemni predeli"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "biome cine: vise listopadnih suma, vise cetinarskih suma, vise stepa, tajge i tundre"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekosistem je zitiste, severna strana proplanka sa livadom, sumom i oranicom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biome cine: slana voda (mora i okeani), slatka voda (potoci, reke, jezera i bar i kopno, odnosno suvozemni predeli"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "biogrefske regione (tri osnovne oblasti zivot cine: vise listopadnih suma, vise cetinarskih suma, vise stepa, tajge i tundre"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Ekologija",
+    "pitanje": "Granicne tacke nekog ekoloskog faktora su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pesimum, optimum i maksimum"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pesimum, optimum i minimum"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pesimum, minimum i maksimum"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "minimum, optimum i maksimum"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "pesimum, optimum, minimum i maksimum"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloske faktore mozemo svrstati u dve grupe i to (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bioticke i abioticke, mada se u novije vreme od biotickih kao posebni izdvajaju antropogeni faktori"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "klimatske i orografske (relje, mada se u novije vreme od klimatskih kao posebni izdvajaju antropogeni faktori"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "klimatske i edafske (zemljist, mada se u novije vreme od klimatskih kao posebni izdvajaju antropogeni faktori"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "abioticke i klimatske, mada se u novije vreme od abiotickih kao posebni izdvajaju antropogeni faktori"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "edafske i abioticke, mada se u novije vreme od abiotickih kao posebne izdvajaju antropogeni faktori"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloski faktori i njihova podela (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bioticki faktori obuhvataju uticaj biljaka na zivotinje, uticaj coveka na biljke, uticaj klime na biljke i uticaj zivotinja na biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u bioticke faktore ubrajamo fitogene, antropogene, orografske i zoogene"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bioticki faktori obuhvataju komplekse medjusobnih dejstava svih zivih organizama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "najpovoljnije dejstvo ekoloskih faktora na aktivnosti organizama oznacen je kao pesimum"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "abioticki faktori cine skup faktora spoljasnje sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloski faktori i njihova podela (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "edafski ekoloski faktori odnose se na reljef zemljista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "abioticki faktori obuhvataju hemijske, fizicke i klimatske"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dejstvo biotickih faktora je iskljucivo direktno (neposredno)"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "limitirajuci ekoloski faktor najmanje odstupa od optimalne vrednosti po svom intezitetu delovanja"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "antropogeni faktor spada u grupu biotickih ekoloskih faktora"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "e"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sposobnost adaptacije vrste na odredjeni opseg dejstva faktora sredine zove se ekoloska valenca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizmi sa sirokom ekoloskom valencom spadaju u grupu stenovalentnih organizama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizmi sa uskom ekoloskom valencom spadaju u grupu stenovalentnih organizama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Ekoloska valenca moze da se nazove i ekoloska plasticnost vrste"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Klimatski faktori obuhvataju nadmorsku visinu, svetlost, temperaturu, vlaznost i vetar"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Ekologija",
+    "pitanje": "Bioticki faktori podrazumevaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jednosmerni odnos na relaciji: biljka-biljka, biljka-zivotinja i biljka covek"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povratni odnos na relaciji: biljka-biljka, biljka-zivotinja, zivotinja-zivotinja, zivotinja-covek, covek-biljka i covek-covek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jednosmerni odnos na relaciji: biljka-biljka, biljka-zivotinja, zivotinja-zivotinja, zivotinja-covek, covek-biljka i covek-covek"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo povratne odnose na relaciji: biljka-biljka, biljka-zivotinja, zivotinja-zivotinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Ekologija",
+    "pitanje": "Abioticki faktori su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "neutralizam, vlaznost, komensalizam i nadmorska visina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jednosmerna dejstva na relaciji biljka i biljka, biljka i zivotinja i biljka i covek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "edafski, antropogeni i hemijski"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "edafski (zemljist, orografski (reljef, nadmorska visina, nagib teren i klimatski"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "edafski, komensalizam i klimatski"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "hemijski i fizicki sastav zemljista, temperatura, vlaznost i nadmorska visina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d",
+      "f"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Ekologija",
+    "pitanje": "Prema karakteru prilagodjenosti na razlicite uslove zivota u pojedinim delovima slatkovodnih ekosistema razlikujemo pet velikih grupa zivotinja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne, kserofilne, termofilne, mezofilne i neuston"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "termofilne, mezofilne, poikilotermne, perifiton i hidrofite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bentos, perifiton, plankton, nekton i neuston"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "termofobne i higrofilne, plankton, nekton, i neuston"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "homeotermne, kserofilne, plankton, nekton, i neuston"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "termofilne i termofobne, homeotermne, mezofilne i kserofilne"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Ekologija",
+    "pitanje": "Neuston predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne i kserofilne biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizme koji zive na samoj povrsini vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizme koji zive na dnu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biljne i zivotinjske organizme koji zive pricvrsceni za plutajuce predmete u vodi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "organizme koji lebde i pasivno se krecu u vodi"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotinjske organizme koji se aktivno krecu kroz vodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Ekologija",
+    "pitanje": "Nekton predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne i hidrofobne biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizme koji zive na samoj povrsini vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizme koji zive na dnu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biljne i zivotinjske organizme koji zive pricvrsceni za plutajuce predmete u vodi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "organizme koji lebde i pasivno se krecu u vodi"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotinjske organizme koji se aktivno krecu kroz vodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "f"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Ekologija",
+    "pitanje": "Plankton predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne i kserofilne biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizme koji zive na samoj povrsini vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizme koji zive na dnu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biljne i zivotinjske organizme koji zive pricvrsceni za plutajuce predmete u vodi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "organizme koji lebde i pasivno se krecu u vodi"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotinjske organizme koji se aktivno krecu kroz vodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Ekologija",
+    "pitanje": "Perifiton predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne i kserofilne biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizme koji zive na samoj povrsini vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizme koji zive na dnu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biljne i zivotinjske organizme koji zive pricvrsceni za plutajuce predmete u vodi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "organizme koji lebde i pasivno se krecu u vodi"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotinjske organizme koji se aktivno krecu kroz vodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Ekologija",
+    "pitanje": "Bentos predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "higrofilne i kserofilne biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizme koji zive na samoj povrsini vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizme koji zive na dnu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biljne i zivotinjske organizme koji zive pricvrsceni za plutajuce predmete u vodi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "organizme koji lebde i pasivno se krecu u vodi"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "zivotinjske organizme koji se aktivno krecu kroz vodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tropske vlazne sume predstavljaju biocenozu i pripadaju limnitickoj oblasti zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "profundal je zona osvetljene vode uz jezersku obalu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tropske vlazne sume predstavljaju biom i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tropske vlazne sume predstavljaju biotop i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "profundal je zona dubljih slojeva jezerske vode"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "tropske vlazne sume predstavljaju biocenozu i pripadaju suvozemnoj oblasti zivota"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tropske vlazne sume predstavljaju biocenozu i pripadaju limnitickoj oblasti zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "litoral je zona osvetljene vode uz jezersku obalu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tropske vlazne sume predstavljaju biom i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tropske vlazne sume predstavljaju biotop i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "litoral je zona dubljih slojeva jezerske vode"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "tropske vlazne sume predstavljaju biocenozu i pripadaju suvozemnoj oblasti zivota"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tropske vlazne sume predstavljaju biocenozu i pripadaju litoralnoj oblasti zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "profundal je zona povrsinskih slojeva vode udaljenih od obale"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sikare i zimzelene sume predstavljaju biom i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sikare i zimzelene sume predstavljaju biotop i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "profundal je zona dubljih slojeva jezerske vode"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "limnion je zona vode uz jezersku obalu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sikare i zimzelene sume predstavljaju biocenozu i pripadaju litoralnoj oblasti zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "limnion je zona vode uz jezersku obalu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sikare i zimzelene sume predstavljaju biom i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sikare i zimzelene sume predstavljaju biotop i pripadaju suvozemnoj oblasti zivota"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "litoral je zona dubljih slojeva jezerske vode"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "profundal je zona vode uz jezersku obalu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endodinamicki faktori su faktori koji deluju van odredjenog ekosistema"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "egzodinamicki faktori su unutrasnji faktori koji su uslovljeni uzajamnim odnosima i faktorima poreklom iz samog ekosistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "endodinamicki faktori su unutrasnji faktori, kao sto je uticaj izmenjene klime"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "endodinamicki faktori su unutrasnji faktori, koji su uslovljeni uzajamnim odnosima i faktorima poreklom iz samog ekosistema"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "egzodinamicki faktori su spoljasnji faktori"
+      }
+    ],
+    "tacan_odgovor": [
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endodinamicki faktori su faktori, koji su poreklom iz jednog ekositema i u njemu deluju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "egzodinamicki faktori su unutrasni faktori koji su uslovljeni uzajamnim odnosima i faktorima poreklom iz samog ekosistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "egzodinamicki faktori su spoljasnji faktori, kao sto je uticaj promenljivih uslova zemljista"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "endodinamicki faktori su unutrasnji faktori, kao sto je uticaj promenljivih uslova zemljista"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "endodinamicki faktori su unutrasni faktori, koji su uslovljeni uzajamnim odnosima i faktorima poreklom iz samog ekosistema"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "endodinamicki faktori su spoljasnji faktori, kao sto su raznovrsni uticaji coveka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku neorganskih materija koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku za organizam jedino dostupnih natrijumskih soli ugljenih hidrata, masti i belancevina koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku ugljenih hidrata, masti i belancevina koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku neorganskih materija (ugljenih hidrata, masti i belancevim koje stvaraju proizvodjaci"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku neorganskih materija koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca neorganskih materija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju proizvodjaci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca neorganskih materija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "bruto primarni produktivitet je ukupna brzina akumulacije energije procesu fotoisinteze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "neto primarnog produktiviteta je ukupna kolicina organske materije koja je, u vidu hrane, dostupna sledecim trofickim stupnjevima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca neorganskih materija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "bruto primarnog produktiviteta je ukupna brzina akumulacije energije u procesu fotosinteze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku organskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "neto primarnog produktiviteta je ukupna kolicina organske materije koja je, u vidu hrane, dostupna sledecim stupnjevima potrosaca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "bruto primarnog produktiviteta je ukupna brzina akumulacije energije u procesu fotosinteze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedno od osnovnih svojstava ekosistema je je neprekidna razmena meterije i energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedno od osnovnih svojstava biotopa je je neprekidna razmena meterije i energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedno od osnovnih svojstava ekosistema je je neprekidna razmena samo energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jedno od osnovnih svojstava biocenoze je neprekidna razmena meterije i energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "bruto primarnog produktiviteta je ukupna brzina akumulacije energije u procesu fotosinteze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energije na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni produktivitet ekosistema je brzina kojom se energija gomila pri fotosintezi ili hemisintezi u obliku neorganskih materija koje stvaraju potrosaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "neto primarnog produktiviteta je ukupna kolicina organske materije koja je, u vidu hrane, dostupna sledecim trofickim stupnjevima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarni produktivitet je brzina kojom se stvaraju rezerve energija na nivou potrosaca i razlagaca neorganskih materija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "bruto primarnog produktiviteta je ukupna brzina akumulacije energije u procesu fotosinteze i hemosinteze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedno od osnovnih svojstava ekosistema je neprekidna razmena samo meterije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedno od osnovnih svojstava biotopa je neprekidna razmena meterije energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedno od osnovnih svojstava ekosistema je neprekidna razmena samo energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jedno od osnovnih svojstava biocenoze je neprekidna razmena meterije i energije izmedju nezive i zive komponente"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sekundarni produktivitet ekosistema je brzina kojom se stvaraju rezerve energije na nivou potrosaca i razlagaca organskih materija"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "jedno od osnovnih svojstava ekosistema je neprekidna razmena meterije i energije izmedju nezive i zive komponente"
+      }
+    ],
+    "tacan_odgovor": [
+      "e",
+      "f"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedan lanac ishrane u jezeru je sastavljen od proizvodjaca (planktonske alge), potrosaca I reda (planktonski racici), potrosaca II reda (riba ukljev, potrosaca III reda (grge, potrosaca IV reda (stuk i potrosaca V reda (caplj"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedan lanac ishrane u jezeru je sastavljen od potrosaca I reda (planktonske alge), proizvodjaca (planktonski racici), potrosaca I reda. (racici), potrosaca II reda (riba ukljev, potrosaca II reda (grge), potrosaca IV reda (stuk i potrosaca V reda (caplj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u zivotnoj zajednici sume jedan od mogucih lanaca ishrane moze biti: biljni vas, pauk, ptica pevacica, ptica grabljivica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "u zivotnoj zajednici sume jedan od mogucih lanaca ishrane moze biti: biljni vas, ptica pevacica, pauk, ptica grabljivica"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "parazitski lanac ishrane podrazumeva slucajeve u kojima jedna parazitska vrsta predstavlja predatora za neku drugu koja je plen"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "saprofitski lanac ishrane se pruza od mrtve materije ka mikroorganizmima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lanac grabljivica zapocinje jednom parazitskom vrstom, a zavrsava razlicitim mikroorganizmima koji razlazu organske ostatke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "saprofitski lanac ishrane zapocinje biljnim organizmima, nastavlja se sitnijim a zavrsava krupnijim zivotinjama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "lanac grabljivica zapocinje biljnim organizmima, nastavlja se sitnijim a zavrsava krupnijim zivotinjama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "grupe vrsta u zivotnoj zajednici sa slicnom ulogom i slicnim razmerama ekoloske nise cine esnafe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "grupe vrsta u zivotnoj zajednici sa slicnom ulogom i slicnim razmerama ekoloske nise nazivaju se biohore"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "grupe vrsta u zivotnoj zajednici sa slicnom ulogom i slicnim razmerama ekoloske nise cine ekoloski ekvivalentne vrste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi slicni tipovi zivotnih stanista sacinjavaju vise ekoloske kategorije nazvane biohore"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vrste koje zauzimaju iste ili slicne ekoloske nise u razlicitim geografskim regionima sveta se nazivaju ekoloski ekvivalentnim vrstama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "grupe vrsta u zivotnoj zajednici sa slicnom ulogom i slicnim razmerama ekoloske nise nazivaju se esnafe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "grupe vrsta u zivotnoj zajednici sa slicnom ulogom i slicnim razmerama ekoloske nise cine ekoloski ekvivalentne vrste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vrste koje zauzimaju iste ili slicne ekoloske nise u razlicitim geografskim regionima sveta se nazivaju esnafe"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "strukturu populacije cine elementi populacije kao sto su: biotop, biocenoza, formalni i funkcionalni elementi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "strukturu populacije cine elementi populacije kao sto su: gustina, habitus, konstitucija populacije i ponasanje clanova populacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "strukturu populacije cine elementi populacije kao sto su: gustina, habitus, uzrasna i polna struktura, konstitucija populacije, sposobnost prezivljavanja i ponasanje clanova populacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "natalitet je produkcija novih clanova populacije, koji se razmnozavanjem pridodaju vec postojecim"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ekoloski natalitet je produkcija novih clanova populacije, koji se razmnozavanjem pridodaju vec postojecim"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekoloski natalitet je odgovarajuca vrednost produkcija novih clanova, koja se ostvaruje pod konkretnim uslovima zivotne sredine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "natalitet je odgovarajuca vrednost produkcija novih clanova, koja se ostvaruje pod konkretnim uslovima zivotne sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Ekologija",
+    "pitanje": "Poikilotermne zivotinje su (okruzite broj pod kojim se nalaze tacni odgovori):\na) zivotinje cija se telesna temperatura potpuno izjednacuje sa temperaturom sredine\nb) zivotinje kod kojih se uprkos promeni temperature spoljasnje sredine temperatura tela ne menja\nc) zivotinje cija telesna temperatura zavisi direktno od temperature sredine i podlozna je promenama u istom smislu kao i temperatura sredine\nd) zivotinje cija se telesna temperatura smanjuje pri porastu temperature sredine\ne) zivotinje cija temperatura raste sa porastom temperature sredine, a opada sa opadanjem temperature sredine",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "a, c"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "b, d, e"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "c, d"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "c, e"
+      },
+      {
+        "oznaka": "5",
+        "tekst": "a, b, d"
+      }
+    ],
+    "tacan_odgovor": [
+      "4"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Ekologija",
+    "pitanje": "U homeotermne zivotinje spadaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ptice i gusteri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe i zabe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptice i zabe"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sisari i ptice"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sisari i ribe"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Ekologija",
+    "pitanje": "Centar za termoregulaciju nalazi se u (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "malom mozgu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hipotalamicnoj oblasti medumozga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kori velikog mozga"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "produzenoj mozdini"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Ekologija",
+    "pitanje": "Teritorijalnost je poseban vid organizovanog drustvenog ponasanja koje (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dovodi do prenamnozavanja jedinki"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "smanjuje mogucnosti odrzavanja i reprodukcije jedinki"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dovodi do neekonomicne potrosnje energije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ogranicava prekomerno namnozavanje, smanjuje parazitiranost i pojavu epizootija i dovodi do uspostavljanja odredjenog socijalnog sistema"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Ekologija",
+    "pitanje": "Da bi vestacki ekosistem mogao da funkcionise, neophodno je da se u njemu obezbedi (okruzite broj pod kojim su tacni odgovori):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "produkcija organske materije (fotosintez"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kruzenje materije i proticanje energije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "razlaganje materije do osnovnih sastojaka (posebno mineral"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dovoljno svetla"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Ekologija",
+    "pitanje": "Jonizujuce zracenje deluje na naslednu osnovu (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zbirnim dejstvom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "postoji donji prag delovanja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ista doza izaziva deset puta jaci efekat kod odraslih nego kod embriona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ima sto puta manji efekat na jedro nego na citoplazmu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloska valenca predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "granice tolerancije neke vrste na nepovoljne faktore spoljasnje sredine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "granice kolebanja ekoloskih faktora u kojima je moguc opstanak neke vrste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "maksimalne vrednosti ekoloskih faktora do kojih je moguc opstanak neke vrste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "skup morfoloskih i fizioloskih osobina koje omogucavaju opstanak neke vrste"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Ekologija",
+    "pitanje": "Hipertermija predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "karakteristiku homeoterma kada temperatura tela pocinje da raste zajedno sa temperaturom sredinom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "karakteristiku homeoterma kada temperatura tela pocinje da opada zajedno sa temperaturom sredinom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "karakteristiku poikioterma kada temperatura tela pocinje da raste zajedno sa temperaturom sredinom"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Ekologija",
+    "pitanje": "Zona termogeneze predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zonu fizicke termoregulacije organizma koja proizvodi dopunsku toplotu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zonu hemijske termoregulacije organizma koja proizvodi dopunsku toplotu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zonu u kojoj temperatura pocinje da raste zajedno sa temperaturom sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Ekologija",
+    "pitanje": "Bazalni metabolizam (osnovni energetski promet) je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "najmanja vrednost energetskog prometa za homeoterma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "najmanja vrednost energetskog prometa za poikiloterma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "najveca vrednost energetskog prometa za homeoterma i poikiloterma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "najveca vrednost energetskog prometa za poikiloterma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Ekologija",
+    "pitanje": "Fizicka termoregulacija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "najmanja vrednost energetskog prometa za homeoterma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "najveca vrednost energetskog prometa za homeoterma i poikiloterma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "regulacija odavanja toplote zracenjem, kondukcijom, konvekcijom i toplotom isparavanja"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zona termolize u kojoj proizvodnja SO2 opada"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Ekologija",
+    "pitanje": "Sisari koji imaju razvijenu hemijsku, a nemaju fizicku termoregulaciju su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kljunari i torbari"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "visi sisari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kljunari i visi sisari"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "visi sisari i torbari"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Ekologija",
+    "pitanje": "Fizioloski odgovor organizma na promene pojedinih klimatskih faktora u sredini izazvane eksperimentalno u laboratoriji naziva se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adaptacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aklimacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "klimatizacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Ekologija",
+    "pitanje": "Endogeni ritam je bioritam koji je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "direktno izazvan nekim spoljasnjim ciniocem i deo je nasledne osnove"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "deo nasledne osnove vrste i nije direktno izazvan nekim spoljasnjim ciniocem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nezavistan je od nasledne osnove vrste i spoljasnih cinilaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Ekologija",
+    "pitanje": "Alohorija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vrsta oprasivanja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nacin prodiranja polenove cevi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rasprostiranje semena i plodova"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nacin razmnozavanja kod algi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "zajednica biljaka i zivotinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloska valenca predstavlja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "minimalne vrednosti cinilaca spoljasnje sredine pri kojima je moguc opstanak neke vrste"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "granice tolerancije neke vrste na nepovoljne faktore spoljne sredine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "granice kolebanja faktora spoljasnje sredine pri kojima je moguc opstanak neke vrste"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Ekologija",
+    "pitanje": "Pod populacijom kao bioloskim sistemom podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "grupa jedinki iste vrste koja zivi na odredjenom prostoru i istovremeno povezana odnosima razmnozavanja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "privremeno ili trajno organizovan sistem veceg broja jedinki"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "skup svih jedinki iste zivotne forme u nekoj biocenozi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "grupa jedinki razlicite vrste koja zivi istovremeno na odredjenom prostoru"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Ekologija",
+    "pitanje": "Zivotna forma je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "izmenjen opsti izgled neke vrste u specificnim uslovima spoljasnje sredine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "skup morfoloskih i fizioloskih osobina kojima se jedinke pojedinih vrsta medjusobno odlikuju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nacin zivota nekih vrsta u odredjenim biotopima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mesto i uloga neke vrste u kvantitativnoj strukturi biocenoze"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Ekologija",
+    "pitanje": "Areal aktivnosti je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ogranicen prostor u kom jedinke populacije obavljaju svoju zivotnu aktivnost"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povrsina ili oblast na Zemlji koju naseljava neka biljna ili zivotinjska vrsta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prostor u kome su jedinke populacije povezane odnosima razmnozavanja"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "povrsina ili oblast na Zemlji na kojoj biljne i zivotinjske vrste stupaju u medjusobne odnose"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Ekologija",
+    "pitanje": "Primarni proizvodjaci su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve biljke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo zelene biljke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zelene biljke i autotrofne bakterije i Fitoflagelata medu Protozoama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zelene biljke, autrofne bakterije i sve jednocelijske zivotinje"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Ekologija",
+    "pitanje": "Biotop je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "biocenza na odredjenom prostoru"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "eo naseljenog prostora na Zemlji u okviru kojeg se odredjena vrsta razvija i razmnozava"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "deo naseljenog prostora sa specificnim komleksom zivotnih uslova"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vrhunsko jedinstvo zive i nezive prirode na Zemlji"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Ekologija",
+    "pitanje": "Zaokruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekosistem je sistem viseg reda koji izgradjuju prozimajuci se biotop i biocenoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "cenobionti su zivotinjske vrste ekosistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "komleks ekoloskih faktora koji deluju na ziva bica u ekosistemu nazivaju se reakcijom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uzajamni odnosi zivih bica u ekosistemu nazivaju se akcijom"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Ekologija",
+    "pitanje": "Koja je prosecna dubinska granica do koje se prostiru zelene biljke (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "100 m"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "150 m"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "200 m"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "250 m"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Ekologija",
+    "pitanje": "Najveci procenat stetnih materija oko 90% dospeva u organizam preko (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vode za pice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iz vazduha"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iz svih navedenih izvora dolazi do podjednakih kolicina oko 33%"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Ekologija",
+    "pitanje": "Koja je od navedenih osoba najmanje ugrozena bukom (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bibliotekar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "radnik na aerodromu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rok muzicar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vozac motorcikla"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Ekologija",
+    "pitanje": "Koji stepen jacine buke moze da izazove smrt (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "120 dB"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "150 dB"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "170 dB"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "210 dB"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Ekologija",
+    "pitanje": "Koje od navedenih materija mogu dospeti u organizam coveka i izazvati odredjene poremetaje ako se covek pretezno hrani hranom zivotinjskog porekla (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pesticidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "antibiotici"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bakterijski toksini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve navedene stetne materije"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "materije pod b i c"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Ekologija",
+    "pitanje": "Koje se od navedenih bolesti mogu dobiti preko zagadjene vode (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kolera"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tifus"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zutica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dizenterija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve navedene bolesti"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ostecenje ozonskog sloja u atmosferi zahvata samo odredjene eografske sirine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ova ostecenja su najvise tokom letnjih meseci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ostecenja ozonskog omotaca smanjuju temperaturu na Zemlji"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ostecenja ozonskog omotaca povecavaju opasnost od UV zracenja"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Ekologija",
+    "pitanje": "Biogeohemijski ciklus ugljenika podrazumeva kruzenja C - atoma ili ugljenu kroz (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "atmosferu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zemljiste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ziva bica"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve navedene sredine i ziva bica"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Ekologija",
+    "pitanje": "Koje je od navedenih zagadjenja u velikim gradovima najstetnije po coveka (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "otpadne vode"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izduvni gasovi motornih vozila i dim fabrickih postrojenja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "buka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kosmicka radijacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "jonizujuce zracenje najace deluje na visoko diferencirane celije"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "jonizujuce zracenje najace deluje na celije koje se dele"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "talasi kratke talasne duzine izazivaju vece ostcenje nego oni vece talasne duzine"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "radiotalasi ostecuju samo povrsinska tkiva"
+      }
+    ],
+    "tacan_odgovor": [
+      "2"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Ekologija",
+    "pitanje": "Ekoloski faktori su povezani, uzajamno se menjaju, kao celina deluju na organizam i dele se na (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fizicke i hemijske"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "abioticke i bioticke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "klimatske i antropogene"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "edafske i organografske"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "ekoloski faktori kao neophodni uslovi zivota postaju limitirajuci faktori kada su nedovoljno prisutni, potpuno odsutni, ili preterano zastupljeni"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "ekoloski faktori kada su nedovoljno prisutni, ili potpuno odsutni, ne uticu na opstanak i uspeh organizma u spoljasnjoj sredini"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "limitirajuci faktori ne uslovljavaju opstanak i uspeh organizma na odredjenom mestu iako su svi uslovi spoljasnje sredine povoljni, odnosno blizu optimalnog delovanja"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Ekologija",
+    "pitanje": "Modifikacije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "kratkotrajne pojave morfoloskih i fizioloskih promena osobina kod organizama pod uticajem nasledne osnove"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "kratkotrajne pojave morfoloskih i fizioloskih promena osobina kod organizama pod uticajem uslova spolasnje sredine"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "dugotrajne pojave morfoloskih i fizioloskih promena osobina kod organizma pod uticajem nasledne osnove"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "svi odgovori su tacni"
+      }
+    ],
+    "tacan_odgovor": [
+      "2"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Ekologija",
+    "pitanje": "Bioticki faktori obuhvataju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "uticaje koje odredjeni organizam vrsi na druga ziva bica na istom stanistu ili ih prima od drugih organizama"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "klimatske, edafske i orografske faktore"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "sve fizicko hemijske uslove spoljasnje sredine"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "tacni su odgovori pod 2 i 3"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Ekologija",
+    "pitanje": "U eurivalentne organizme koji opstaju u uslovima sirokog variranja ekloskih faktora spadaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pingvin i korali"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pastrmke i termalne alge"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tigar, americka puma, dvogrba kamila i beli bor"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Ekologija",
+    "pitanje": "U stenivalentne organizme, cija je ekoloska valenca uska spadaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pingvin i korali"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pastrmke i termalne alge"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tigar i beli bor"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tacni su odgovori pod a i b"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "eurivalentni organizmi opstaju u uslovima sirokog variranja ekoloskih faktora"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "eurivalentni organizmi imaju usku ekolosku valencu"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "stenivalentni organizmi opstaju u uslovima sirokog variranja ekloskih faktora"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "fizioloska duzina zivota je srednji izraz duzine zivota u najpovoljnijim uslovima"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "srednji izraz duzine zivota u najpovoljnijim uslovima je ekoloska duzina zivota"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "fizioloska duzina zivota izrazava srednju duzinu zivota u odredjenim ekoloskim okolnostima"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "relativna zastupljenost populacija u zajednici je homogena disperzija"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "relativna zastupljenost populacija u zajednici je relativna abundantnost"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "relativna zastupljenost populacija u zajednici oznacava se kao dominanta"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "tacni su odgovori pod 1 i 3"
+      }
+    ],
+    "tacan_odgovor": [
+      "3"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "gustina populacije je broj jedinki izrazen na jedinici povrsine ili zapremine"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "gustina populacije nije grupno svojstvo i moze se izraziti na nivou jedinke"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "gustina populacija kao diskretne jedinice nije promenljiva"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "jedinke u populaciji ostvaruju odredjeni raspored u prostoru koji moze biti slucajan, uniforman ili grupni"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati slucajan raspored organizama"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati grupni raspored organizama"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati uniformni raspored organizama"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati slucajan raspored organizama"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati grupni raspored organizama"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "u ujednacenoj povoljnoj sredini moze se ocekivati uniformni raspored organizama"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "u ujednacenoj oskudnoj sredini moze se ocekivati slucajan raspored organizama"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "zivotinje se okupljaju oko mesta gde najlakse zadovoljavaju svoje potrebe sto dovodi do grupnog rasporeda organizama"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "3"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "u uslovima eksponencijalnog rastenja broj najmladjih jedinki u populaciji daleko premasuje broj jedinki starijeg uzrasta pa se tako uspostavlja uzrasna struktura koja se naziva stacionarna struktura"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "u uslovima eksponencijalnog rastenja broj najmladjih jedinki u populaciji daleko premasuje broj jedinki starijeg uzrasta pa se tako uspostavlja uzrasna struktura koja se naziva stabilna struktura"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "u uslovima kada se populacija priblizava brojnosti kada rastenje prestaje starije jedinke ce biti zastupljene u sve vecem broju tako da se uspostavlja stabilna struktura"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "2"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "u uslovima eksponencijalnog rastenja broj najmladjih jedinki u populaciji daleko premasuje broj jedinki starijeg uzrasta pa se tako uspostavlja uzrasna struktura koja se naziva stacionarna struktura"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "u uslovima kada se populacija priblizava brojnosti kada rastenje prestaje starije jedinke ce biti zastupljene u sve vecem broju tako da se uspostavlja stabilna struktura"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "u uslovima kada se populacija priblizava brojnosti kada rastenje prestaje starije jedinke ce biti zastupljene u sve vecem broju tako da se uspostavlja stacionarna struktura"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "3"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "kontinuirani sistem pracenja stanja spoljasnje sredine oznacen je kao monitoring sistem"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "monitoring sistem sproveden u sirokom opsegu nije regulisan medjudrzavnim konvencijama"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "ziva bica koja se uzimaju kao bioindikatori svojim prisustvom, odsustvom i ponasanjem ukazuju na kratkotrajno delovanje zagadjujucih materija"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "tacni su odgovori pod 2 i 3"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "hemijski monitoring prate kvantitativne promene hemijskog sastava spoljasnje sredine"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "monitoring sistem sproveden u sirokom opsegu nije regulisan medjudrzavnim konvencijama"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "ziva bica koja se uzimaju kao bioindikatori svojim prisustvom, odsustvom i ponasanjem ukazuju na kratkotrajno delovanje zagadjujucih materija"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "tacni su odgovori pod 2 i 3"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Ekologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "1",
+        "tekst": "negativne zravstvene i geneticke efekte imaju razlicite hemijske materije kao sto su teski metali ziva, olovo, cink i bakar"
+      },
+      {
+        "oznaka": "2",
+        "tekst": "negativne zravstvene i geneticke efekte nemaju fenol izopren fozalon"
+      },
+      {
+        "oznaka": "3",
+        "tekst": "dejstvo zagadjujucih materija na organizam je dobro ispitano"
+      },
+      {
+        "oznaka": "4",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "1"
+    ]
+  }
+]

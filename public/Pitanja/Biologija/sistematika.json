@@ -1,0 +1,2487 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Sistematika",
+    "pitanje": "Navedite dve sistematske kategorije vise od familije:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Red, klasa (ordo, classis)"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Sistematika",
+    "pitanje": "Navedite dve sistematske kategorije vise od klase:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Razdeo, carstvo (phyllum, regnum)"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Sistematika",
+    "pitanje": "Navedite dve sistematske kategorije vise od roda:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Familija, red (familia, ordo)"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Sistematika",
+    "pitanje": "Navedite dve sistematske kategorije vise od vrste:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Rod, familija (genus, familia)"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Sistematika",
+    "pitanje": "Navedite dve sistematske kategorije vise od reda:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "klasa (classis), razdeo (phyllum)"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Sistematika",
+    "pitanje": "Koje od sledecih zivotinja spadaju u Diploblastica (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kengur"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sunjer"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "koral"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metilj"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Sistematika",
+    "pitanje": "Koje od sledecih zivotinja spadaju u Triploblastica (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "meduza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zglavkari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnati crvi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mis"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Sistematika",
+    "pitanje": "U Amniota spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zabe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sisari"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Sistematika",
+    "pitanje": "U Anamnia spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primati"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodozemci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih organizama spadaju u Chordata (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Tunicata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zglavkari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sisari"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih organizama spadaju u Protostomia (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kisna glista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "covek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bodljokosci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih zivotinja spadaju u Deuterostomia (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bodljokosci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "covek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zglavkari"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mekusci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Sistematika",
+    "pitanje": "U Mollusca spadaju sledece klase (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glavonosci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "puzevi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gliste"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Sistematika",
+    "pitanje": "Triploblastica su zivotinje sa klicinim listovima (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trofoblast, ektoderm i endoderm"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ektoderm, endoderm i mezoderm"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "periblast, endoblast i trofoblast"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Sistematika",
+    "pitanje": "Diploblastica su zivotinje sa klicinim listovima (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektoderm i endoderm"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mezoderm i ektoderm"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "endoderm i mezoderm"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Sistematika",
+    "pitanje": "U zglavkare spadaju sledece zivotinje (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "recni rak"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "buba svaba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stenica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Tunicata"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Sistematika",
+    "pitanje": "U insekte spadaju sledece zivotinje (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pauk"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krpelj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "biljna vas"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "stonoga"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Sistematika",
+    "pitanje": "U krpelje spadaju sledece zivotinje (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sugarac"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stonoga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "skorpija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Sistematika",
+    "pitanje": "Koja od navedenih kola spadaju u Deuterostomia (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bodljokosci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Chordata"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mekusci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Sistematika",
+    "pitanje": "Koja od navedenih kola pripadaju u Protostomia (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mekusci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bodljokosci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnati crvi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Sistematika",
+    "pitanje": "Opste odlike sisara karakteristicne samo za njih su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cetvorodelno srce"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dijafragma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diferencirani zubi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "funkcionalni bubreg metanefros"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Sistematika",
+    "pitanje": "Opste odlike ptica karakteristicne samo za njih su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cetvorodelno srce"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "funkcionalan samo jedan aortin luk"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dijafragma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pneumatske kosti"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "kljun"
+      }
+    ],
+    "tacan_odgovor": [
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Sistematika",
+    "pitanje": "Karakteristike vodozemaca specificne samo za njih su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "funkcionalni bubreg mesonefros"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "funkcionalna dva aortina luka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "trodelno srce"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prisustvo jednocelijskih koznih zlezda"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Sistematika",
+    "pitanje": "U Chordata spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "plastasi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kolouste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gusteri"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Sistematika",
+    "pitanje": "U phullum Chordata spadaju sledeci subphullum-i (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kicmenjaci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "plastasi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Nemertini"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Sistematika",
+    "pitanje": "U Protozoa spadaju sledece klase (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Spongia"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Porifera"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Ciliata"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Rhizopoda"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Sistematika",
+    "pitanje": "U dupljare pripadaju (okruziti tacne odgovor):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "meduza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "korali"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polipi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pijavice"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Sistematika",
+    "pitanje": "Sporozoa su prazivoinje (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "koje se krecu trepljama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "koje se krecu bicevima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "koje se krecu pseudopodijama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ne poseduju nikakve organele za kretanje"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Sistematika",
+    "pitanje": "U pljosnate crve pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Nemertini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metilj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pantljicara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "decija glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Sistematika",
+    "pitanje": "Medju sisarima su najprimitivniji (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bodljokosci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slepi misevi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kitovi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "papkari"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Sistematika",
+    "pitanje": "Svi sisari (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "imaju posteljicu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nemaju posteljicu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "imaju sva cetiri embrionalna omotaca."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Sistematika",
+    "pitanje": "Sisari imaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "telolecitnu jajnu celiju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oligolecitnu jajnu celiju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolecitnu jajnu celiju"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Sistematika",
+    "pitanje": "Sisari su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Amniota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Anamniota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Protostomia"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Deuterostomia"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Sistematika",
+    "pitanje": "Koje od navedenih zibotinja pripadaju papkarima (okruziti tacne odgovore):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "konj"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zebra"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "govece"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "koza"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Sistematika",
+    "pitanje": "Vodozemci su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Amniota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Anamniota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Protostomoa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Deuterostomia"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Sistematika",
+    "pitanje": "Trepljaši su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iskljucivo paraziti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "uglavnom slobodno ziveci, a manji broj su paraziti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obicno zive u simbiozi i koriste sisarima."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Sistematika",
+    "pitanje": "Najprostiji kicmenjaci su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amfioksus"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kolouste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "plastasi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Sistematika",
+    "pitanje": "Najprostije Chordata su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "plastasi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kruznouste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ribe"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Sistematika",
+    "pitanje": "Nemertini pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pljosnatim crvima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkastim crvima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prstenastim crvima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "bodljokoscima"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Sistematika",
+    "pitanje": "Metilj i pantlicara pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istom kolu (tipu)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "istoj klasi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "istom redu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemaju nikakve veze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Sistematika",
+    "pitanje": "U valjkaste crve spada (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kisna glista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "decija glista"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metilj"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Sistematika",
+    "pitanje": "U pljosnate crve spada (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pijavica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pantlicara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metilj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "decija glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Sistematika",
+    "pitanje": "U prstenaste crve spada (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pijavica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "decija glista"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vocni crv"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi crvi insekata"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Sistematika",
+    "pitanje": "Mekuscima pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sipe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "morski krastavci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "skoljke"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "gliste"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Sistematika",
+    "pitanje": "U bodljokošce spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "plastasi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Bivalvia"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "morske zvezde"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "morski krastavci"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Sistematika",
+    "pitanje": "Medju zglavkarima su najbrojniji (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pauci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stonoge"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "rakovi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Sistematika",
+    "pitanje": "Sugarac spada u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekte"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krpelje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rakove"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Sistematika",
+    "pitanje": "Krpelj spada u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekte"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "paukolike zivotinje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rakove"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Sistematika",
+    "pitanje": "Stitasta vas spada u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "paukove"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "insekte"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rakove"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "stonoge"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Sistematika",
+    "pitanje": "Izazivac dizenterije spada u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bakterije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "viruse"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prazivoinje"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Sistematika",
+    "pitanje": "Larva morskog jeza zove se (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pilidium"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "planula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pluteus"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Sistematika",
+    "pitanje": "Larva Annelida zove se (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trohofora"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pluteus"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "planula"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Sistematika",
+    "pitanje": "Larva rakova zove se (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trohofora"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zoea"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "planula"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Sistematika",
+    "pitanje": "Larva dupljara zove se (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "planula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zoea"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "trohofora"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Sistematika",
+    "pitanje": "Okruziti tacnu recenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve Triploblastica su celomske zivotinje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sve Triploblastica nisu celomske zivotinje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sve Diploblastica su celomske zivotinje"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Sistematika",
+    "pitanje": "Na osnovu mesta gde zive Protozoa mogu biti (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "morske"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slatkovodne"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "parazitske"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve tvrdnje su tacne"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih nacina reprodukcije je karakteristican za Sporozoa (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "multipna deoba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pupljenje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amitoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Sistematika",
+    "pitanje": "Konjugacija kao reprodukcija je prisutna kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Ciliata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Sporozoa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metilja"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Sistematika",
+    "pitanje": "Amitoza kao nacin reprodukcije srece se kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Rhizopoda"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Turbellaria"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Coelenterata"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Sistematika",
+    "pitanje": "Bazalna telasca se srecu kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Ciliata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bicara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Rhizopoda"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Sporozoa"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Sistematika",
+    "pitanje": "Kontraktilna vakuola kao organela prisutna je kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "protozoa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sundjera"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dupljara"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Sistematika",
+    "pitanje": "Pupljenje kao nacin reprodukcije prisutno je kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sundjera"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Rhizopoda"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zglavkara"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Sistematika",
+    "pitanje": "Goldzijev aparat kao organela srece se kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bakterija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Nemertina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zglavkara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "coveka"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih kicmenjaka imaju najrazvijeniju potkoznu muskulaturu (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sisari"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gmizavci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ptice"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih kicmenjaka imaju funkcionalan mesonefros (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve Anamnia"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodozemci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ptice"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Sistematika",
+    "pitanje": "U Protozoa spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Sporozoa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Rhizopoda"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Turbellaria"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Ciliata"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Sistematika",
+    "pitanje": "Pljosnati crvi u odnosu na valjkaste crve su (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "evolutivno razvijeniji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "evolutivno prostiji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "na istom stepenu evolutivnog razvoja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Sistematika",
+    "pitanje": "Svilena buba spada u (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekte"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pauke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stonoge"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Sistematika",
+    "pitanje": "U Hexapoda spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mravi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "muve"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pauci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Sistematika",
+    "pitanje": "Uzrocnik malarije spada u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zarnjake"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Procaryota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Sporozoa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trepljaše"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Sistematika",
+    "pitanje": "Sisari imaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endoskelet"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "egzoskelet"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne poseduju kozni skelet"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "skelet im je mezodermalnog porekla."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Sistematika",
+    "pitanje": "U sisare spadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "delfin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slepi mis"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jez"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "slepo kuce"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "covecija ribica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Sistematika",
+    "pitanje": "Binarnu nomenklaturu dao je (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Kivije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Lamark"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Karl Line"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Sistematika",
+    "pitanje": "Prema binomnoj nomenklaturi naucni naziv vrste ukljucuje dve reci i to (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prva se odnosi na ime reda, a druga na ime familije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prva se odnosi na ime roda, a druga na neku osobinu koja blize odredjuje vrstu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prva na ime podvrste, a druga na ime vrste"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Sistematika",
+    "pitanje": "Istoj vrsti pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pas i macka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pas i vuk"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pas i kojot"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedna od navedenih"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Sistematika",
+    "pitanje": "Razlicitim vrstama ali istoj familiji pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "konj i magarac"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konj i mazga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zebra i konj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zirafa i konj"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Sistematika",
+    "pitanje": "Razlicitim vrstama ali istom redu pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "govece i konj"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovca i govece"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konj i slon"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "koza i ovca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Sistematika",
+    "pitanje": "Prema filogenetskoj srodnosti nilski konj je najbliži (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "konju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "govecetu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svinji"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Sistematika",
+    "pitanje": "Prema filogenetskoj srodnosti nosorog je najbliži (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "konju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svinji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "govecetu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Sistematika",
+    "pitanje": "Prema filogenetskoj srodnosti pceli je najbliža (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svilena buba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pauk"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stonoga"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Sistematika",
+    "pitanje": "Istom redu pripadaju sledece domace zivotinje (okruziti koj):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ovca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pas"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "govece"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "koza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Sistematika",
+    "pitanje": "Prema filogenetskoj srodnosti macka je bliza (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lavu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "psu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sakalu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Sistematika",
+    "pitanje": "Istom tipu ali razlicitim klasama pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stonoga i pcela"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pauk i krpelj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rak i mokrica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Sistematika",
+    "pitanje": "Istom tipu kao i skoljka pripadaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "puzevi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glavonosci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "morski bodljokosci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih kicmenjaka imaju embrionalne omotace (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zabe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zmije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "papkari"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Sistematika",
+    "pitanje": "Koji od navedenih kicmenjaka nemaju embrionalne omotace (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zabe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krokodili"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kokos ka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Sistematika",
+    "pitanje": "Kisna glista pripada tipu (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mekusaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnatih crva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijednom od navedenih"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Sistematika",
+    "pitanje": "Medicinska pijavica pripada tipu (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mekusaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnatih crva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prstenastih crva"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Sistematika",
+    "pitanje": "Morski jez i covek pripadaju zajednickoj kategoriji koja se zove (okruziti tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Deuterostomia"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Protostomia"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne pripadaju nijednoj od navedenih grupa"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Sistematika",
+    "pitanje": "Dupljari imaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bilateralnu simetriju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "radijalnu simetriju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "asimetricni su"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Sistematika",
+    "pitanje": "Bilateralnu simetriju imaju (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svi beskicmenjaci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dupljari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bodljokosci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kicmenjaci"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Sistematika",
+    "pitanje": "Od ptica evolutivno su mladji (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bubojedi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ljiljci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gusteri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krokodili"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Sistematika",
+    "pitanje": "Od zglavkara evolutivno su primitivniji (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mekusci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Acrania"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "plastasi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Craniota"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Sistematika",
+    "pitanje": "Medju crvima evolutivno su najprimitivniji (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pljosnati crvi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkasti crvi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prstenasti crvi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Sistematika",
+    "pitanje": "Meduza i polip (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "predstavljaju istu vrstu a razlicite razvojne stadijume"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "predstavljaju dve razlicite vrste ali pripadaju dupljari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "su razlicite vrste i samo meduza pripada dupljarima"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Sistematika",
+    "pitanje": "Askon je poseban tip gradje koji pripada (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dupljarima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sundjerima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "crvima"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Sistematika",
+    "pitanje": "Sikon je poseban tip gradje koji se javlja kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sundjera"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Sistematika",
+    "pitanje": "Sve beskicmenjake karakterise (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homonomna segmentacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heteronomna segmentacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nemaju uopste segmentaciju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan od navedenih odgovora nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Sistematika",
+    "pitanje": "Homonomna segmentacija je najbolje izrazena kod (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stonoge"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kisne gliste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zglavkara"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Sistematika",
+    "pitanje": "Sve insekte i pauke karakterise (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tri para ekstremiteta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "cetiri para ekstremiteta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "promenljiv broj ekstremiteta"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  }
+]

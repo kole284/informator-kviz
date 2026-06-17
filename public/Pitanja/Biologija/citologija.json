@@ -1,0 +1,2334 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. Centrozom je organela prisutna u svim životinjskim ćelijama i ćelijama algi, a ima ulogu u formiranju deobnog vretena i deobi ćelije.\n2. Centrozom je citomembranozna organela zastupljena samo kod životinja.\n3. Mitohondrije su organele za disanje i karakteristične su za sve tipove ćelija.\n4. Endoplazmatični retikulum je membranozna organela karakteristična samo za eukariotske ćelije i ima ulogu u agregaciji proteina sa lipidima i ugljenim hidratima.\n5. Goldži sistem je citomembranozna organela karakteristična za sve tipove ćelija.\n6. Ribozomi su univerzalne organele prisutne u ćelijama pro i Eucaryota.\n7. Endoplazmatični retikulum je amembranozna organela koja ima funkciju u agregaciji proteina sa lipidima i ugljenim hidratima.",
+    "tip": "kombinovani izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 4, 5"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "1, 4, 7"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 5, 7"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "4, 6, 7"
+      }
+    ],
+    "tacan_odgovor": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. Fagocitoza je proces uzimanja tečnih i gasovitih supstanci iz spoljašnje sredine dinamičnim promenama ćelijske membrane.\n2. Pinocitoza je proces uzimanja tečnosti iz spoljašnje sredine.\n3. Fagocitoza je oblik egzocitoze kojom se uzimaju čvrste čestice iz spoljašnje sredine dinamičnim promenama ćelijske membrane.\n4. Pinocitoza je proces uzimanja hranljivih čestica iz spoljašnje sredine obrazovanjem pseudopodija.\n5. Fagocitoza je oblik endocitoze ćelije.\n6. Pinocitoza je oblik endocitoze ćelije.",
+    "tip": "kombinovani izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 2, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "3, 5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 5, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. Organelu centrozom sadrže samo ćelije sisara.\n2. Ribozomi se nalaze na endoplazmatičnom retikulumu.\n3. Organele sa membranom su: Goldži sistem, mikrotubuli, mitohondrije i plastidi.\n4. Organelu centrozom sadrže ćelije životinja, nižih biljaka i čoveka.\n5. Organelu centrozom sadrže ćelije ptica, gmizavaca, aplacentalnih sisara i čoveka.\n6. Lizozomi, mikrotubule i ribozomi nalaze se u ćelijama viših Procaryota i svih Eucaryota.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 2, 5"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 4, 5"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 5, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 2, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori. Organele građene od citoplazmatične membrane su:\n1. plastidi i mitohondrije\n2. endoplazmatični retikulum i centriole\n3. lizozomi i vakuole\n4. Goldži sistem i centrozomi\n5. endoplazmatični retikulum i mitohondrije\n6. Goldži sistem i ribozomi",
+    "tip": "kombinovani izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 2"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 3"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "1, 3, 5"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "3, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 3, 5"
+      }
+    ],
+    "tacan_odgovor": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. Centrozomi su organele karakteristične samo za ćelije Eucaryota.\n2. Organela Goldži kompleks karakteristična je samo za ćelije nižih organizama.\n3. Organela Goldži kompleks karakteristična je samo za životinjske ćelije.\n4. Lizozomi su organele karakteristične samo za ćelije biljaka.\n5. Organela Goldži kompleks karakteristična je za sve ćelije Eucaryota.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 5"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "1, 4"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 4"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "3, 5"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "2, 5"
+      }
+    ],
+    "tacan_odgovor": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. Lizozomi su citoplazmatične organele bez membrane i imaju ulogu u varenju.\n2. Centrozom je citomembranozna organela koja ima ulogu u deobi ćelije.\n3. Mitohondrije su organele za disanje i karakteristične su za sve tipove ćelija.\n4. Endoplazmatični retikulum je membranozna organela karakteristična samo za eukariotske ćelije.\n5. Ribozomi su univerzalne amembranozne organele karakteristične za sve tipove ćelija.\n6. Centrozom je organela prisutna u svim životinjskim ćelijama i ćelijama algi i ima ulogu u deobi ćelije.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 4, 5"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "3, 4, 5"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 5, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 3, 4"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "4, 5, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "E"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Citologija",
+    "pitanje": "Zaokružite slovo pod kojim se nalaze tačni odgovori:\n1. AGranulirani endoplazmatični retikulum se nalazi jedino u ćelijama koje intenzivno sintetišu proteine.\n2. Granulirani endoplazmatični retikulum je dobro razvijen u ćelijama koje intenzivno sintetišu proteine.\n3. AGranulirani endoplazmatični retikulum je dobro razvijen u ćelijama tkiva koja vrše intenzivnu sintezu masnih materija.\n4. AGranulirani endoplazmatični retikulum je dobro razvijen samo u ćelijama koje intenzivno sintetišu ugljene hidrate i izvesne količine proteina.\n5. Granulirani endoplazmatični retikulum nalazimo u svim ćelijama koje sintetišu proteine.\n6. Granulirani endoplazmatični retikulum se karakteristično nalazi samo u ćelijama u kojima se vrši sinteza masnih materija.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 2, 3"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "1, 3, 4"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 3, 5"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "2, 5, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite slovo pod kojim se nalaze tačni odgovori:\n1. Lizozomi su organele koje poseduju dvostruku membranu.\n2. Lizozomi učestvuju u izgradnji hranljivih vakuola jednoćelijskih organizama.\n3. Lizozomi imaju ulogu u pinocitozi.\n4. Lizozomi poseduju jednu membranu.\n5. Lizozomi sadrže hidrolitičke enzime.\n6. Lizozomi imaju značajnu ulogu u sintezi proteina.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 2, 3"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 3, 4"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "2, 4, 5"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "4, 5"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "3, 5, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite slovo pod kojim se nalaze tačni odgovori:\n1. Da bi otpočela sinteza proteina potrebno je da se vežu ribozomi u kompleks sa informacionom RNK.\n2. Za sintezu proteina nisu neophodni ribozomi.\n3. Ribozomi su organele koje se nalaze u ćelijama svih nižih i viših organizama.\n4. Ribozomi nisu neophodni ćelijama nekih biljaka.\n5. Ribozomi zajedno sa informacionom RNK na površini endoplazmatičnog retikuluma grade granulirani endoplazmatični retikulum.\n6. Ribozomi su mnogobrojniji u ćelijama sa intenzivnom sintezom masti i ugljenih hidrata.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 3, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 3, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "1, 3, 5"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 3, 5"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite slovo pod kojim se nalaze tačni odgovori:\n1. Mikrotubulinska vlakna deobnog vretena isključivo se vezuju za centromeru hromozoma.\n2. Mikrotubuli imaju funkciju pri kretanju hromozoma tokom ćelijske deobe.\n3. Mikrotubuli učestvuju u obrazovanju treplji i bičeva.\n4. Mikrotubuli su membranozne organele.\n5. Mikrotubuli učestvuju u formiranju treplji, ali ne i deobnog vretena.\n6. Vlakna deobnog vretena vezuju se za centromeru hromozoma, ali postoje i ona koja se pružaju kontinuirano od jednog do drugog pola ne vezujući se za hromozom.",
+    "tip": "kombinovani_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "2, 3, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 3, 4"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "1, 2, 4"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "3, 4, 5"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "2, 4, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Bakterije ne poseduju membranozne organele."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Kod viših organizama nasledni materijal se nalazi u ćelijskom jedru."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Kod bakterija postoje sve ćelijske organele."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Kod bakterija se nasledni materijal nalazi u ćelijskom jedru."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Bakterije imaju oformljeno jedro kao posebnu ćelijsku organelu."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Kod bakterija nasledni materijal se nalazi u citoplazmi i zove se nukleoid."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "f"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Mitohondrije su ćelijske organele koje poseduju dve membrane, od kojih unutrašnja gradi brojne invaginacije – kriste."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Mitohondrije su organele koje poseduju jednu membranu."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Mitohondrije su organele koje se nalaze kod svih ćelijskih organizama."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Mitohondrije se ne nalaze kod modrozelenih algi."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Spermatozoidi ne poseduju mitohondrije."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Mitohondrije su smeštene u osnovi repa spermatozoida."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d",
+      "f"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Goldži kompleks nastaje od delova spoljašnje ćelijske membrane."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Goldži kompleks nastaje od delova endoplazmatičnog retikuluma sa kojim je povezan."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Od Goldži kompleksa se odvajaju membranozni elementi od kojih će se formirati lizozomi."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Goldži kompleks je dobro razvijen u žlezdanim i sekretornim ćelijama."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Goldži kompleks učestvuje u formiranju akrozoma spermatozoida."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Goldži kompleks ima važnu funkciju u ćelijskom disanju i proizvodnji energije."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Jedro ćelije je okruženo jednom membranom."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Na membrani jedra se nalaze jedrove pore."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Jedro je okruženo dvema membranama."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Između jedrovih membrana je prostor koji se naziva perinuklearni prostor."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Između membrana koje okružuju jedro nema nikakvog prostora, već su one čvrsto međusobno spojene."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Jedrove pore imaju funkciju u transportu makromolekula."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Ribozomi su kompaktne ćelijske organele koje nemaju posebnih podjedinica – subjedinica."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Ribozom se sastoji iz jedne manje i jedne veće subjedinice."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Ribozomi nižih organizama (Procaryota) razlikuju se po sedimentacionoj konstanti od ribozoma viših organizama (Eucaryota)."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Ribozomi svih organizama su iste sedimentacione konstante i istog sastava podjedinica."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Sedimentacione konstante velike i male subjedinice ribozoma razlikuju se kod Pro- i Eucaryota."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Hloroplasti se nalaze u ćelijama bakterija i modrozelenih algi i svih ostalih biljaka."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Hloroplasti se ne nalaze kod bakterija i modrozelenih algi."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Hloroplasti poseduju dve membrane od kojih unutrašnja gradi evaginacije i obrazuje grane i tilakoide hloroplasta."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Hloroplasti poseduju samo jednu membranu na čijoj površini se nalazi pigment hlorofil."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Hloroplaste uopšte nemaju biljke koje žive na tamnim i senovitim mestima."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Hloroplasti su prema endosimbiotskoj hipotezi nastali simbiozom ćelija koje su posedovale sposobnost fotosinteze sa prvobitnim ćelijama bez ove sposobnosti."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "f"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Ćelijska membrana je propustljiva za sve supstance."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Ćelijsku membranu karakteriše selektivna propustljivost – semipermeabilnost."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Osnovnu jedinicu građe ćelijske membrane čine dva sloja lipida i proteini koji su u njih uronjeni."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Osnovna jedinica građe plazmatične membrane ista je i kod spoljašnje i kod unutrašnjih membranoznih struktura."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Plazma membrana se suštinski razlikuje po svojoj osnovnoj jedinici građe u odnosu na položaj unutar ćelije."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Osim dva sloja lipida i proteina u sastav ćelijske membrane mogu se uključiti i druge komponente kao što su glikoproteini i glikolipidi."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Na unutrašnjoj membrani mitohondrija vrši se sinteza polisaharida."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Na unutrašnjoj membrani mitohondrija nalaze se enzimi respiratornog lanca."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "U matriksu mitohondrija odvija se beta oksidacija masnih kiselina."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Na unutrašnjoj membrani mitohondrija nalazi se pigment hlorofil."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "U matriksu mitohondrija odvija se Krebsov ciklus."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "U matriksu mitohondrija odvija se intenzivna sinteza ugljenih hidrata."
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "e"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Mitohondrije imaju sopstvenu DNK i sopstvene ribozome koji podsećaju na ribozome Procaryota."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Mitohondrije imaju sposobnost razmnožavanja deobom."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Hloroplasti imaju sopstvenu DNK i sopstvene ribozome slične onima kod Procaryota."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Mitohondrije nemaju sposobnost razmnožavanja deobom."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Hloroplasti imaju važnu ulogu u sintezi proteina."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Osnovna i najznačajnija uloga hloroplasta je u fotosintezi."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "U sastav ribozoma ulaze specifične ribozomalne RNK."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Prekursorske ribozomalne RNK nakon procesa sinteze podležu procesu obradivanja putem koga zadobijaju konačni oblik."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Ribozomi su organele koje poseduju sopstvenu membranu."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Svaka subjedinica ribozoma poseduje posebnu membranu."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Ribozomalne RNK nakon sinteze ne podležu nikakvoj obradi već direktno, intaktne, ulaze u sastav ribozoma."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "Ribozomi ne poseduju nikakve lipoproteinske membranozne omotače."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "f"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Citologija",
+    "pitanje": "Koji organizmi nemaju oformljeno jedro?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Prokarioti"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Citologija",
+    "pitanje": "Koje organele se nalaze kod bakterija?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Ribozomi"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Citologija",
+    "pitanje": "Koje organele ne poseduju modrozelene alge?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Sve membranozne organele (jedro, mitohondrije, plastide, ER, Goldži aparat...), osim ribozoma koje poseduju."
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Citologija",
+    "pitanje": "Iz kojih elemenata se sastoji osnovna jedinica građe citoplazmatične membrane?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Dva sloja lipida sa u njih uronjenim proteinima."
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Citologija",
+    "pitanje": "Navedite dvomembranozne organele ćelije.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Mitohondrije i plastidi (hloroplasti)."
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Citologija",
+    "pitanje": "Kako se naziva prostor između membrana jedra?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Perinuklearni prostor."
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Citologija",
+    "pitanje": "Šta je to granulirani endoplazmatični retikulum i u kojim ćelijama je dobro razvijen?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Endoplazmatični retikulum sa ribozomima na površini; dobro je razvijen u ćelijama koje intenzivno sintetišu proteine."
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Citologija",
+    "pitanje": "Za koje ćelije i tkiva je karakterističan agranulirani – glatki endoplazmatični retikulum?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Za ćelije koje intenzivno sintetišu masti (lipide) i steroide."
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Citologija",
+    "pitanje": "Šta sadrže lizozomi i koja im je osnovna funkcija?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Sadrže hidrolitičke enzime; osnovna funkcija je intracelularno varenje."
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Citologija",
+    "pitanje": "U čemu se razlikuju ribozomi Procaryota i Eucaryota?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "U sedimentacionim konstantama i veličini subjedinica."
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Citologija",
+    "pitanje": "Opišite građu mitohondrija.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Dvomembranozne organele; unutrašnja membrana gradi kriste, sadrže matriks, sopstvenu DNK, RNK i ribozome."
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Citologija",
+    "pitanje": "Koja je osnovna funkcija mitohondrija?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Ćelijsko disanje i proizvodnja energije (ATP)."
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Citologija",
+    "pitanje": "Na osnovu čega se smatra mogućom simbiotska hipoteza o nastanku mitohondrija i hloroplasta?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Imaju sopstvenu DNK. Imaju sopstvene ribozome prokariotskog tipa. Razmnožavaju se deobom. Poseduju dvostruku membranu."
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Citologija",
+    "pitanje": "Koja je osnovna funkcija Goldži kompleksa i u kojim ćelijama i tkivima je ovaj aparat dobro razvijen?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Modifikacija, agregacija, pakovanje i usmeravanje makromolekula; dobro je razvijen u sekretornim i žlezdanim ćelijama."
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Citologija",
+    "pitanje": "Šta je to endocitoza?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Unošenje supstanci u ćeliju iz spoljašnje sredine dinamičkim promenama ćelijske membrane."
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Citologija",
+    "pitanje": "Šta je to pinocitoza?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Unošenje tečnosti iz spoljašnje sredine dinamičkim promenama ćelijske membrane."
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Citologija",
+    "pitanje": "Koja je funkcija centrozoma u ćeliji?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Formiranje deobnog vretena tokom ćelijske deobe."
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Citologija",
+    "pitanje": "Navedi razlike koje se javljaju u mitozi biljnih i životinjskih ćelija.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Životinjske ćelije imaju astere i centrozom. Biljne ćelije nemaju astere. Citokineza se odvija obrazovanjem fragmoplasta kod biljaka, a usecanjem membrane kod životinja."
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Citologija",
+    "pitanje": "Koje su amembranozne organele u ćeliji?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Ribozomi, mikrotubule, mikrofilamenti, centrozom (centrioli)."
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Citologija",
+    "pitanje": "Šta su treplje i bičevi i kako se formiraju?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Lokomotorne organele ćelije; formiraju se od bazalnih tela sličnih centriolama."
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi se sastoje iz dve subjedinice",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "DA"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Citologija",
+    "pitanje": "Granulirani endoplazmatični retikulum nema nikakvu funkciju u sintezi proteina",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "NE"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Citologija",
+    "pitanje": "Goldži kompleks nije uopšte razvijen u sekretornim ćelijama",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "NE"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Citologija",
+    "pitanje": "Glatki endoplazmatični retikulum je razvijen u ćelijama u kojima se sintetišu masti",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "DA"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi Procaryota se razlikuju od ribozoma Eucaryota",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "DA"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Citologija",
+    "pitanje": "Goldži kompleks i mitohondrije su dvomembranozne organele",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "NE"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Citologija",
+    "pitanje": "Dvomembranozne organele su mitohondrije i hloroplasti",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "DA"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Citologija",
+    "pitanje": "Jedro je okruženo jednom prostom membranom",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "NE"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Citologija",
+    "pitanje": "Lizozomi su amembranozne organele",
+    "tip": "da_ne",
+    "opcije": [
+      {
+        "oznaka": "DA",
+        "tekst": "DA"
+      },
+      {
+        "oznaka": "NE",
+        "tekst": "NE"
+      }
+    ],
+    "tacan_odgovor": [
+      "NE"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Citologija",
+    "pitanje": "Od faza mitoze najduže traju (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "profaza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metafaza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anafaza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "telofaza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Citologija",
+    "pitanje": "Maksimalna spiralizacija hromozoma se postiže u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "profazi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metafazi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anafazi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "telofazi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Citologija",
+    "pitanje": "Deobno vreteno je potpuno formirano u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "profazi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metafazi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anafazi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "telofazi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Citologija",
+    "pitanje": "Citokineza kod ćelija biljaka počinje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ubiranjem sa periferija prema sredini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ide od sredine ka periferiji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "počinje na periferiji i na sredini"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Citologija",
+    "pitanje": "Jedarce u procesu ćelijske deobe nestaje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "na početku profaze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "na kraju profaze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u metafazi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Citologija",
+    "pitanje": "Mitohondrije su organele karakteristične za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "za sve tipove ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "za sve ćelije Eucaryota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo za više Eucaryota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo za sisare"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi su organele karakteristične za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve tipove ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Procaryota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Eucaryota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "organizme gde je intenzivna sinteza proteina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Citologija",
+    "pitanje": "Membrane endoplazmatičnog retikuluma (EPR) (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "imaju istu građu kao membrane ćelije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "znatno se razlikuju po građi od membrana ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne sadrže molekule lipida samo molekule proteina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Citologija",
+    "pitanje": "Endoplazmatični retikulum (EPR) nalazi se (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u svim ćelijama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo u ćelijama Procaryota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo u ćelijama Eucaryota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo u ćelijama viših organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Citologija",
+    "pitanje": "Okružiti organele koje poseduju membranu (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "centrozom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mikrotubuli"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Goldži sistem"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mitohondrije"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Citologija",
+    "pitanje": "Okružiti organele koje poseduju dve membrane (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mitohondrije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "plastidi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "EPR"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Goldži sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Citologija",
+    "pitanje": "Pokretni oblici bakterija su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "koke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "streptokoke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stafilokoke"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "bacili"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Citologija",
+    "pitanje": "Lizozomi su organele koje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sadrže hidrolitičke enzime"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "imaju ulogu u varenju hrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mogu biti primarni i sekundarni"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Citologija",
+    "pitanje": "\"Jedro\" Procaryota naziva se (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleotid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleozid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleoid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nukleolus"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Citologija",
+    "pitanje": "Jedarce sadrži (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "DNK, RNK i proteine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "DNK i proteine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "RNK i proteine"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite tačne rečenice (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedro poseduje dve lipoproteinske membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "membrane jedra su iste građe kao i membrane ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "membrane jedra ne sadrže molekule lipida"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Citologija",
+    "pitanje": "Ćelijsku membranu karakteriše (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "selektivna propustljivost"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "propustljivost samo za molekule rastvorljive u vodi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "propustljivost samo za proteine i nukleinske kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Citologija",
+    "pitanje": "Kroz membranu jedra u citoplazmu izlaze (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proteini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razni tipovi RNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo energetski molekuli"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Citologija",
+    "pitanje": "U matriksu mitohondrija nalaze se (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "male količine DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mali ribozomi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "enzimi za fotosintezu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Citologija",
+    "pitanje": "Glikokaliks predstavljaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "polisaharidne lance na površini membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polisaharidne lance u EPR-u"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polisaharidne lance u mitohondrijama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Citologija",
+    "pitanje": "Procaryota se dele (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endomitozom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "amitozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mitozom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vrlo retko mejozom"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite tačnu rečenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mitoza kod biljaka je astralna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mitoza kod životinja je anastralna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mitoza kod životinja je astralna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tačan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi Eucaryota (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nalaze se na membrani mitohondrija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nalaze se na EPR-u"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nalaze se na spoljašnjoj membrani jedra"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi kod Procaryota nalaze se (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "na EPR-u"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slobodno u citoplazmi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uz membranu centrozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Citologija",
+    "pitanje": "Ćelije Procaryota (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ne poseduju nijednu membranoznu organelu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "poseduju mitohondrije i ribozome"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "poseduju EPR i ribozome"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo ribozomi 70S"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Citologija",
+    "pitanje": "Čije ćelije od navedenih organizama ne poseduju centrozom (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alge"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mahovine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "biljke golosemenice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Protozoa"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite tačnu rečenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mitohondrije bakterija poseduju dve membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mitohondrije bakterija poseduju jednu membranu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mitohondrije amebe imaju dve membrane slično kao mitohondrije kod čoveka"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Citologija",
+    "pitanje": "Okružite tačnu rečenicu (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mitohondrije vode poreklo od ćelija Procaryota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "plastidi vode poreklo od ćelija Procaryota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "lizozomi su postali od mitohondrija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedna nije tačna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Citologija",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedarce sadrži membranu slične građe kao membrana jedra"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedarce ima samo jednu membranu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedarce nema membranu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Citologija",
+    "pitanje": "Koje od bolesti izazivaju bakterije (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "crveni vetar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svinjska kuga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slinavku i šap"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "grip"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Citologija",
+    "pitanje": "Mikrotubule su organele (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "koji učestvuju u građi deobnog vretena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sadrže membrane koje obrazuju za vezivanje za hromozome"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za sintezu proteina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Citologija",
+    "pitanje": "Polizomi su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "grupe ribozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "grupe lizozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "grupe peroksizoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Citologija",
+    "pitanje": "Hloroplasti su organele (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "koje imaju dve membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sadrže tilakoid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tokom svetle faze fotosinteze stvara ATP"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Citologija",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "virusi mogu da žive slobodno u prirodi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "virusi su obavezno ćelijski paraziti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nasledna osnova virusa je RNK"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nasledna osnova virusa je RNK ili DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Citologija",
+    "pitanje": "Kapsid virusa izgrađen je od (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lipida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "proteina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ugljenih hidrata"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svih organskih molekula"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Citologija",
+    "pitanje": "Koje od navedenih bolesti izazivaju virusi (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svinjsku kugu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slinavku i šap"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tuberkulozu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tifus"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Citologija",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sitnije čestice od virusa su prioni, a građeni su samo od nukleinskih kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prioni su građeni samo od proteina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "viroidi su paraziti biljaka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "virusi su najsitnije čestice koje izazivaju bolest"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Citologija",
+    "pitanje": "Procaryota mogu imati sledeće načine ishrane (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hemoautotrofi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heterotrofi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "autotrofi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi načini ishrane"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Citologija",
+    "pitanje": "Ćelijska membrana građena je od (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dva sloja molekula lipida i dva sloja proteina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jednog sloja lipida i dva sloja proteina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dva sloja lipida i u njima uronjenih proteina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Citologija",
+    "pitanje": "Za koji tip permeabiliteta je potrebna energija (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "za difuziju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "za osmozu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za endocitozu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "za pinocitozu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Citologija",
+    "pitanje": "Šta predstavlja fiziološki rastvor:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "0,9% NaCl"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Citologija",
+    "pitanje": "Joni Na+ i K+ prolaze kroz membranu (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "difuzijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "osmozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pinocitozom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aktivnim transportom"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Citologija",
+    "pitanje": "Koje od navedenih organela sadrže DNK (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lizozomi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "EPR"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mitohondrije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "plastidi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Citologija",
+    "pitanje": "Koji od navedenih proizvoda u ćeliji postaju pod kontrolom gena (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "enzimi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lipidi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ugljeni hidrati"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nukleinske kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Citologija",
+    "pitanje": "Koja od navedenih organela sadrži najviše različitih endoenzima (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mikrotubule"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "EPR"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "peroksizomi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "lizozomi"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Citologija",
+    "pitanje": "Mitoza je deoba slična (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prvoj mejozi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "amitozi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "drugoj mejozi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Citologija",
+    "pitanje": "Koju vrstu rRNK sadrži mala subjedinica ribozoma kod Procaryota (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "16 S"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "18 S"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "28 S"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "45 S"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Citologija",
+    "pitanje": "Ribozomi postaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "od endoplazmatičnog retikuluma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pod kontrolom mitohondrija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pod kontrolom DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Citologija",
+    "pitanje": "U izgradnji deobnog vretena učestvuje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Goldži sistem i endoplazmatični retikulum"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mikrotubuli i centrozomi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "lizozomi i centrozomi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Citologija",
+    "pitanje": "U celularne oblike ubrajamo (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Procaryota i Eucaryota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "viruse, virione i prione"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rikecije, hlamidije i viruse"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Citologija",
+    "pitanje": "Plazmodezme su (okružiti tačan odgovor):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "niti plazme pomoću kojih ćelije dolaze u međusobni kontakt"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "otvori na ćelijskom zidu biljaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mikrotubularni sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  }
+]

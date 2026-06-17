@@ -1,0 +1,2682 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Fiziologija",
+    "pitanje": "Receptori su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "čulne ćelije čija je uloga u obezbeđivanju informacija o stanju u unutrašnjoj i spoljašnjoj sredini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "čulne ćelije čija je uloga u regulisanju termoregulacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "čulne ćelije čija je uloga u regulisanju akcionog potencijala"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nisko diferencirane ćelije čija uloga nije proučena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Fiziologija",
+    "pitanje": "Nervne ćelije imaju ulogu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "provodnika (konduktora)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u lučenju hormona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kohabitaciji"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "regulisanju ravnoteže"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Fiziologija",
+    "pitanje": "Neuroni se dele na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tanke i debele"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kratke i dugačke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aferentne i eferentne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "osetljive i neosetljive"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Fiziologija",
+    "pitanje": "Refleksni luk se sastoji od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "receptora, vegetativnog nervnog sistema, (VNS), nerva, receptora"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kičmene moždine, glatkog mišića, poprečnoprugastog mišića, (CNS- centralnog nervnog sistema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "receptora, senzitivnog neurona, motornog neurona, efektora"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "receptora, VNS-a, motornog neurona, efektora"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Fiziologija",
+    "pitanje": "Nadražaj je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "način kako nerv reaguje na promene"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sve što menja funkciju neurona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "osetljivost neurona na spoljašnje promene"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svaka promena u spoljnoj sredini na koju receptor reaguje"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Fiziologija",
+    "pitanje": "Prag draži je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "napon na koji ćelija reaguje pomeranjem"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "promena potencijala citoplazme"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "najmanja promena na koju receptor može da reaguje"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uslov za diferencijaciju ćelija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Fiziologija",
+    "pitanje": "Fotoreceptorni deo oka je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mrežnjača"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zenica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "beonjača"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "očni kapak"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Fiziologija",
+    "pitanje": "Receptori se dele na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "male i velike"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "čulne ćelije i specijalizovane nervne završetke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hemijske i fizičke"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nisko i visoko osetljive"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Fiziologija",
+    "pitanje": "Receptori za bol su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Vater-Pačinijeva telašca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "eferentni nervi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slobodni nervni završeci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "demijelinizovani nervi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Fiziologija",
+    "pitanje": "Fiziološka dispozicija receptora je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fiziološko nadraživanje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fiziološka dispozicija za nenadraživost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "specijalizovanost za adekvatne draži"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sposobnost za nadražaj"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Fiziologija",
+    "pitanje": "Baroreceptori su receptori koji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "reaguju na povećanje krvnog pritiska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "reaguju na povećanje barometarskog pritiska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "reaguju na povećanje telesne temperature"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "reaguju na smanjenje natrijuma u krvi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Fiziologija",
+    "pitanje": "Nervni impuls je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "put kojim se prostire draž"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "način aktivacije receptora"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarni glasnik"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prostiruća reakcija nervne ćelije na efikasnu draž"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Fiziologija",
+    "pitanje": "Ovojnica živca se zove:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "miolema"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "neurilema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "perilema"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dura mater"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Fiziologija",
+    "pitanje": "Živac (nerv) je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "građen od tela nervnih ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "skup miolema"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "skup neurilema"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "skup aksona"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Fiziologija",
+    "pitanje": "Akcioni potencijal je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "na početku veći, a na kraju manji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "raste duž nervnog vlakna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "opada duž nervnog vlakna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iste veličine duž nervnog vlakna"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Fiziologija",
+    "pitanje": "Veličina akcionog potencijala je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "uvek ista kada se dostigne prag nadražaja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veća što je nadražaj jači"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "raste sa nadražajem pa onda opada"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "progresivno raste duž nervnog vlakna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Fiziologija",
+    "pitanje": "Funkcija malog mozga je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u njemu je centar za disanje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vrši regulaciju održavanja ravnoteže"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "reguliše rad žlezda"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pokreće očne kapke"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Fiziologija",
+    "pitanje": "Uzrok polarizovanosti nervne ćelije je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "selektivna propustljivost ćelijske membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polarizacija organizma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polarizacija organa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kretanje citoplazme"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Fiziologija",
+    "pitanje": "Hipopolarizacija je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjenje polarnosti između ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "smanjenje nadražljivosti ćelija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "smanjenje potencijalne razlike između spoljašnjosti i unutrašnjosti ćelijske membrane"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "smanjenje afiniteta ćelija za hormone"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Fiziologija",
+    "pitanje": "Unutrašnjost nervne ćelije je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "elektropozitivna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "elektronegativna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "elektroneutralna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mešovito naelektrisana"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Fiziologija",
+    "pitanje": "Prosečna brzina prostiranja nervnog impulsa je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "30 m/s"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1 m/s"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "200 m/s"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,1m/s"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Fiziologija",
+    "pitanje": "Što je veći nadražaj to je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veća frekvenca akcionih potencijala"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veći akcioni potencijal"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "manji akcioni potencijal"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "manja frekvencija akcionih potencijala"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Fiziologija",
+    "pitanje": "Poprečnoprugasti mišići su inervisani:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vegetativnim nervnim sistemom (VNS)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kombinovano autonomno i somatski"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nisu inervisani"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "voljno"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Fiziologija",
+    "pitanje": "Latentni period je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vreme od nadražaja do početka mišićne kontrakcije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vreme od pripreme pa do stvaranja nadražaja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vreme od nadražaja pa do završetka mišićne kontrakcije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vreme od početka pa do kraja mišićne kontrakcije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Fiziologija",
+    "pitanje": "Latinski naziv međumozga je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Encefalon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Diencefalon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Limbička kora"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Mesencefalon"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Fiziologija",
+    "pitanje": "Seksualna funkcija je pod kontrolom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "velikog mozga"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "međumozga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "malog mozga"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "produžene moždine"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Fiziologija",
+    "pitanje": "Između dve nervne ćelije se nalazi:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "voda"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "acetilholin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sinaptička pukotina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "oni su u kontaktu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Fiziologija",
+    "pitanje": "Glatke mišiće inerviše:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "VNS (simpatikus i parasimpatikus)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "somatski nervni sistem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mešovito"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "autonomno su inervisani"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Fiziologija",
+    "pitanje": "Impuls provodni sistem srca se sastoji od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dve pretkomore i dve komore"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "SA čvora, AV čvora i Hisovog snopa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "leve strane srčanih arterija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "desne strane srčanih arterija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Fiziologija",
+    "pitanje": "Vagus deluje na rad srca tako što ga:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ubrzava"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "varira"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slabi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "usporava"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Fiziologija",
+    "pitanje": "Endokrine žlezde luče svoje produkte:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u kanale"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u organe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u krv"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "u centralni nervni sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Fiziologija",
+    "pitanje": "Nervni centar je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "grupa nervnih ćelija koje regulišu nervnu funkciju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mesto gde je aktivnost neurona najveća"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "centar gde se stvara ATP"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "centralno mesto u neuronu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Fiziologija",
+    "pitanje": "Aktivni transport natrijuma i hlora kroz epitelne ćelije u bubrezima kontroliše hormon:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kortizol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldosteron"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "antidiuretički hormon"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "angiotenzin"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Fiziologija",
+    "pitanje": "Apsorpcija svarene hrane kod kičmenjaka vrši se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prednjem crevu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "srednjem crevu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zadnjem crevu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prednjem i srednjem crevu"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Fiziologija",
+    "pitanje": "Bazalni metabolizam je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "količina toplote oslobođena pri sagorevanju mešovite hrane, na sobnoj temperaturi i pri srednje teškom radu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "minimalni energetski promet organizma na temperaturi termičke neutralnosti, meren 12 časova nakon uzimanja hrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "energetska vrednost hrane izražena u kalorijama oslobođene toplote"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Fiziologija",
+    "pitanje": "Kakva je uloga semipermeabilne membrane:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "da spreči ulazak vode i mineralnih materija u ćeliju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "da spreči izlazak vode i hemijskih jedinjenja sintetisanih u ćeliji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "da neke supstance propušta, a neke zadržava, kako bi se održavao relativno stalan intracelularni sastav"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Fiziologija",
+    "pitanje": "U oksidoredukcionim procesima energija se deponuje u obliku posebnih jedinjenja:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glikoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "adenozin monofosfata (AMP)"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "adenozin trifosfata (ATP)"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "adenozina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Fiziologija",
+    "pitanje": "Odgovor ćelija na hormone zavisi od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "receptora na membrani svih ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "količine enzima u svim ćelijama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "receptora na membrani ili u citoplazmi ćelija koje odgovaraju na hormone"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centralna sinapsa je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sinapsa koja se stvara u CNS u"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sinapsa koja se stvara između mišića i neurona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sinapsa koja se stvara između dva mišića"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Fiziologija",
+    "pitanje": "U ventro-medijalnim jedrima hipotalamusa nalazi se centar za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sitost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ravnotežu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pamćenje"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "uriniranje"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Fiziologija",
+    "pitanje": "Gonadotropni aktivni faktori se luče u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gonadama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hipotalamusu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hipofizi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nadbubregu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Fiziologija",
+    "pitanje": "Sredinom prve polovine seksualnog ciklusa žene dostiže se u krvi visoka koncentracija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estrogena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "progesterona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "estrogena i progesterona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "progesterona i kortizola"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Fiziologija",
+    "pitanje": "Želudačni sok sadrži fermente:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "labferment, insulin, amilazu i pepsin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lipazu, pepsin i labferment"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tripsin, himotripsin i labferment"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "lipazu i amilazu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Fiziologija",
+    "pitanje": "Odbrana organizma vrši se sintezom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "antitela i antigena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "antitela i imunogena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "antigena i imunogena"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "antitela"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "imunogena"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Fiziologija",
+    "pitanje": "Na koji način se vrši ostvarivanje osmotskog homeostazisa kod životinja:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "regulacijom uzimanja vode iz organa za varenje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojačanim ili smanjenim intenzitetom znojenja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pomoću mehanizma za reapsorpciju vode u bubrezima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "delovanjem enzima koji menjaju osmotski pritisak"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Fiziologija",
+    "pitanje": "Vrhunski metabolizam se ostvaruje na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "donjoj kritičnoj temperaturi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gornjoj kritičnoj temperaturi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "smrtonosnoj temperaturi u hipotermiji"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "temperaturi termičke neutralnosti"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Fiziologija",
+    "pitanje": "Supstance koje unete u organizam izazivaju stvaranje antitela, nazivaju se antigeni. Po svojoj strukturi uglavnom (99%) su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lipidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ugljeni hidrati"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vitamini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "proteini"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Fiziologija",
+    "pitanje": "Pankreasni sok sadrži sledeće fermente:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proteolitičke fermente, amilazu, maltazu i lipazu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pepsin i labferment"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "saharazu i laktazu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "polipeptidaze i dipeptidaze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Fiziologija",
+    "pitanje": "Tetanus mišića se može izazvati:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mehaničkom stimulacijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stimulacijama velike amplitude"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stimulacijama niske frekvencije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "električnim stimulacijama visoke frekvencije"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Fiziologija",
+    "pitanje": "Hipotalamus luči:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hipertalamične faktore"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "seksualne hormone"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gonadotropne aktivne faktore"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldosteron"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Fiziologija",
+    "pitanje": "Hormoni prednjeg režnja hipofize regulišu rad:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "testisa, ovarijuma bubrega i pankreasa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "štitaste žlezde, timusa, pankreasa, ovarijuma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nadbubrežne žlezde, testisa, ovarijuma, rasta mlečne žlezde, štitaste žlezde"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jetre i slezine"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Fiziologija",
+    "pitanje": "Naelektrisanost membrane neurona sa spoljašnje i unutrašnje strane je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spolja negativna a unutra pozitivna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spolja pozitivna uz prisustvo kalijuma na spoljnjem delu membrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "unutra negativna a spolja pozitivna uz prisustvo natrijuma spolja a kalijuma unutra"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "izjednačena naelektrisanost spolja i unutra"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Fiziologija",
+    "pitanje": "Refleksni luk je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mesto gde se ostvarute veza između većeg broja neurona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervni put kojim se ostvaruje refleksna reakcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "reakcija organizma na određeni nadražaj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "način reakcije nervne ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centar za sitost se nalazi u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hipotalamusu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hipofizi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "produženoj moždini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "malom mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centar za disanje nalazi se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kori velikog mozga"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "malom mozgu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "međumozgu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "produženoj moždini"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centar za rad srca nalazi se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "produženoj moždini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "malom mozgu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kičmenoj moždini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "velikom mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Fiziologija",
+    "pitanje": "Plućna arterija (a. pulmonalis) kod sisara nosi (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oksigenisanu krv"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bogatu kiseonikom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dezoksigenisanu krv"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "obe vrste krvi istovremeno"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Fiziologija",
+    "pitanje": "Antitela su u većini:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proteini u (99%), slučajeva, zatim nukleinske kiseline, polisaharidi i lipidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gamaglobulini"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Fiziologija",
+    "pitanje": "U alergijskim procesima organizma u većoj količini luči se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hemoglobin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "histidin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "histamin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "alergen"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Fiziologija",
+    "pitanje": "Tokom metabolizma amonijak nastaje od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ugljenih hidrata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lipida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "proteina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svih materija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Fiziologija",
+    "pitanje": "Krajnji produkt glikolize je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "SO₂ i N₂O"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oksalsirćetna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sirćetna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pirogrožđana kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Fiziologija",
+    "pitanje": "Glikoliza se odigrava u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "citoplazmi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "matriksu mitohondrija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ribozomima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "peroksizomima"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Fiziologija",
+    "pitanje": "U anaerobnoj fazi ćelijskog disanja nastaju molekuli:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mlečne kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "linolne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "proteina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pirogrožđane kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Fiziologija",
+    "pitanje": "Alergija se javlja kod ljudi koji su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "isključivo slabo imunizovani"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veoma jako imunizovani"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nisu imunizovani"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Fiziologija",
+    "pitanje": "Za osnovne fiziološke funkcije ćelije ključnu ulogu imaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lipopolisaharidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pore na membrani"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "receptori membrane"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "celulozni sloj membrane"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Fiziologija",
+    "pitanje": "U građu proteina ulazi sledeći broj različitih aminokiselina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "20"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "10"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "60"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "80"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Fiziologija",
+    "pitanje": "U katabolizmu se oslobađa sledeći vid energije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mehanička"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hemijska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "električna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve tri"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Fiziologija",
+    "pitanje": "Koje materije razlaže pepsin:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "masti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ugljene hidrate"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "belančevine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve zajedno"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Fiziologija",
+    "pitanje": "Koje materije skladište životinje u jesen:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "belančevine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "masti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ugljene hidrate"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijednu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Fiziologija",
+    "pitanje": "Koja struktura spermatozoida je nosilac genske informacije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "citoplazma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "akrozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rep"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "jedro"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Fiziologija",
+    "pitanje": "Muški polni hormoni su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "progesteron i estrogeni"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ASTN i aldosteron"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "T-3 i T-4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "testosteron i androsteron"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Fiziologija",
+    "pitanje": "U polnom ciklusu žene dolazi do pucanja folikula i oslobađanja jajne ćelije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "desetog do dvanaestog dana"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dvadesetog dana"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prvog dana"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dvadeset osmog dana"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Fiziologija",
+    "pitanje": "Hormon žutog tela je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estrogen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "folikulostimulirajući hormon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "luteotropni hormon"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "progesteron"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Fiziologija",
+    "pitanje": "Kontrakcije materice izaziva hormon:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oksitocin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estrogen"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prostaglandin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "progesteron"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Fiziologija",
+    "pitanje": "Oko u svom sastavu ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jednu komoru"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nijednu komoru"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dve očne komore (prednju i zadnju)"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tri očne komore"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Fiziologija",
+    "pitanje": "Miš u odnosu na žirafu ima vratnih pršljenova:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "isti broj"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manji broj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "veći broj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "manji broj za 4 pršljena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Fiziologija",
+    "pitanje": "U pljuvački se nalazi ferment:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tripsin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "himotripsin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "papain"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mucin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centar za sitost nalazi se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dorzo-lateralnim jedrima hipotalamusa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "medijalnom delu metatalamusa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ventro-medijalnim jedrima hipotalamusa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ventralnom delu epitalamusa"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centar za glad nalazi se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dorzo-lateralnim jedrima hipotalamusa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "medijalnom delu metatalamusa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ventro-lateralnim jedrima hipotalamusa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ventralnom delu epitalamusa"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Fiziologija",
+    "pitanje": "Povreda centra za sitost izaziva:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjeno uzimanje hrane – hipofagiju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "potpuni nestanak apetita – afagiju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "povećano uzimanje hrane – hiperfagiju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ne izaziva nikakvu promenu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Fiziologija",
+    "pitanje": "Povreda centra za glad izaziva:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjeno uzimanje hrane – hipofagiju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povećano uzimanje hrane – hiperfagiju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "potpun nestanak apetita – afagiju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ne izaziva nikakvu promenu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Fiziologija",
+    "pitanje": "Simpatikus deluje na rad srca tako što:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "usporava rad srca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slabi rad srca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ubrzava rad srca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "deluje različito zavisno od centra za rad srca u mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Fiziologija",
+    "pitanje": "Pljuvačka se luči pod uticajem:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "termičkih, hidrostatičkih i psihičkih nadražaja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mehaničkih, hemijskih i termičkih nadražaja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mehaničkih, hemijskih i psihičkih nadražaja"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "termičkih, hemijskih i psihičkih nadražaja"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Fiziologija",
+    "pitanje": "Eritrociti imaju ulogu u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aktiviranju komplementa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alergijskoj reakciji"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "odbrani organizma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "transportu kiseonika"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Fiziologija",
+    "pitanje": "Receptori za temperaturu se dele na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "površinske i duboke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "receptore za toplo i hladno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "male i velike kvržice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "receptore u sluzokoži i receptore dubokog senzibiliteta"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Fiziologija",
+    "pitanje": "Pankreas luči dva hormona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gastrin i sekretin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tripsin i himotripsin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "adrenalin i noradrenalin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "insulin i glikagon"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Fiziologija",
+    "pitanje": "Žuč je proizvod:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jetre"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slezine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pankreasa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "bubrega"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Fiziologija",
+    "pitanje": "U rektumu se vrši resorpcija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proteina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "masti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ugljenih hidrata"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "vode"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Fiziologija",
+    "pitanje": "Eritrociti se razgrađuju u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "plućima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bubrezima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jetri, slezini i koštanoj srži"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Fiziologija",
+    "pitanje": "Centri za disanje su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pneumotaktički i apneustički"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "supraventrikularna jedra"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "retikularna formacija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Amonov rog"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Fiziologija",
+    "pitanje": "U alergijskim procesima organizma u većoj količini luči se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hemoglobin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "histidin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "alergen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tačan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Fiziologija",
+    "pitanje": "Hormoni koji deluju na metabolizam su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gonadotropini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oksitocin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "T-3 i T-4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kortizon"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Fiziologija",
+    "pitanje": "Esencijalnih aminokiselina ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "20"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "15"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "10"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "50"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Fiziologija",
+    "pitanje": "Ćelije srčanog mišića su povezane:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "protoplazmatičnim mostićima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "grade fiziološki sincicijum"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodoničnim vezama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svaka ćelija radi za sebe"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Fiziologija",
+    "pitanje": "Čovek kome je odstranjena žučna kesa ne bi smeo da unosi u organizam mnogo:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proteina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ugljenih hidrata"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vitamina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "masti"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Fiziologija",
+    "pitanje": "Pokretački sistem srca je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "somatski nervni sistem srca SA čvor"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kičmena moždina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "centar u mozgu i primarni vodič"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tireotropni hormon"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Fiziologija",
+    "pitanje": "Naelektrisanost spoljašnje i unutrašnje strane membrane neurona je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spolja negativna a unutra pozitivna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spolja pozitivna, uz prisustvo kalijuma na spoljnjem delu membrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "unutra pozitivna, a spolja negativna uz prisustvo natrijuma spolja a kalijuma unutra"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tačan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Fiziologija",
+    "pitanje": "Leukociti imaju ulogu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "da unište antigene"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "da prenose kiseonik"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "da odnose ugljendioksid iz tkiva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "da ugrađuju hormone u ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Fiziologija",
+    "pitanje": "Normalan oblik hemoglobina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "karboksihemoglobin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "methemoglobin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "cijanhohemoglobin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "oksihemoglobin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Fiziologija",
+    "pitanje": "Uloga slezine je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "razlaže stare eritrocite, i služi kao depo krvi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pomaže u varenju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stvara antigene"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uništava propale leukocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  }
+]

@@ -1,0 +1,2088 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Strukturne aberacije hromozoma su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "monozomije i aneuploidije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "insercije i duplikacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "himerizam i translokacije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "translokacije i inverzije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Promene u broju hromozoma hromozoma susreću se kod sledećih anomalija (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Edwards-ovog sindroma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "poliploidije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Turner-ovog sindroma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Lejen-ovog sindroma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trizomija 13. para hromozoma uslovljava pojavu Edwards-ovog sindroma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "do nepravilnog razdvajanja hromozoma može doći u anafazi I ili II mejoze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aneuploidije su promene u broju genskih lokusa na hromozomu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hromozomske aberacije su jedan od uzroka poremećaja u reprodukciji životinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Azomija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nedostatak jednog somatskog hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nedostatak para hromozoma u kariotipu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "odsustvo somatskih hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "odsustvo polnih hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Poliploidija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "višestruko uvećanje pojedinih parova hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "uvećanje celokupnog seta hromozoma za jednu ili više haploidnih garnitura"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mnogostruko smanjenje pojedinih hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kompletno umnožavanje polnih hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Aneuploidija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "smanjenje broja hromozoma samo u pojedinim grupama autozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "uvećanje kompletnog seta hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uvećanje ili smanjenje kompletnog seta hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uvećanje ili smanjenje broja hromozoma u hromozomskom setu za jedan ili više pojedinačnih hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Monozomija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prisustvo ćelija sa više tipova kariotipa u istom organizmu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nedostatak samo jednog polnog hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nedostatak samo jednog somatskog hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nedostatak jednog somatskog ili polnog hromozoma u okviru jednog para"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Mozaicizam je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prisustvo ćelija različitog kariotipa, a zajedničkog porekla u jednom organizmu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mozaična struktura ćelija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mozaičan raspored hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mozaičan raspored hromatida u kariotipu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Translokacija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "okretanje jednog fragmenta hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gubitak jednog fragmenta hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "razmena fragmenata među hromozomima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "promena rasporeda gena u oikviru istog hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Po broju hromozoma somatske ćelije su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iste kao zrele polne ćelije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iste kao spermatogonije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iste kao oogonije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iste kao spermatide"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Euploidije su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "normalno stanje hromozomskog seta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pravilno umnožavanje celih garnitura hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "smanjenje broja hromozoma za jedan hromozom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uvećanje broja hromozoma za jedan hromozom"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Promene broja hromozoma mogu biti (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "poliploidije i aneuploidije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "poliploidije i transdukcije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aneuploidije i euploidije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "translokacije i inverzije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Promene u broju hromozoma ne sreću se kod sledećih anomalija (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Down-ovog sindroma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Parkinson-ove bolesti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Klinefelter-ovog sindroma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Lejen-ovog sindroma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trizomija 18. para hromozoma nastaje najčešće zbog neodvajanja hromozoma u anafazi mitoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "organizmi lakše podnose monozomije nego trizomije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organizmi lakše podnose trizomije nego monozomije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "numeričke i strukturne aberacije su jedan od uzroka spontanih pobačaja embriona"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koji tip hromozomskih aberacija imaju navedeni sindromi:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Lejen-ov sindrom - delacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Patau sindrom - trizomija 13"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Down-ov sindrom - trizomija 21"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Tuner-ov sindrom - monozomija X hromozoma"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "Phyladelphia hromozom - translokacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "(opisni odgovori upisani u knjizi)"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Recipročna translokacija je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "razmena fragmenata između nehomologih hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razmena fragmenata između hromatida koje su sestre"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "razmena fragmenata između nesestrinskih hromatida"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "razmena kompletnih hromozoma kod dva jednojajna blizanca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Kariotip ovce ima 2n=56 hromozoma. Došlo je do nerazdvajanja polnih hromozoma u I i II mejozi. Koliko će hromozoma imati kariotip životinje posle oplođenja.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "59"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Kariotip ovce ima 2n=56 hromozoma. Došlo je do neodvajanja polnih hromozoma u I mejozi. Dobiće se gameti sa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "28 hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "29 hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "27 hromozoma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dva tipa gameta: sa 29 i 27 hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Šimpanza ima 2n=48 hromozoma. Kolikoće hromozoma imati životinja sa jednom trizomijom i jednom monozomijom?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "48"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Čovek ima 2n=46 hromozoma. Koliko će hromozoma imati jajne ćelije ako bi se javila nulizomija jednog para autozoma?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "22"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Pas ima 2n=78 hromozoma. Koliko će hromozoma imati životinja nastala oplođenjem normalne jajne ćelije sa spermatozoidom koji sadrži dizomiju?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "79"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Konj ima 2n=64 hromozoma. Koliko će imati hromozoma potomak koji nastane oplođenjem jajne ćelije koja je imala monozomiju?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "64"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Od ukupno 1000 jagnjadi 64% su sa recesivnom osobinom. Koliko ima heterozigota?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "32%"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Od ukupno 1000 jagnjadi 64% su sa recesivnom osobinom. Koliko će biti dominantnih homozigota?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "4%"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ako u jednoj populaciji ima 49% recesivnih homozigotnih jedinki, izračunajte procenat dominantnih homozigota?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "9%"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Od ukupno 1000 prasadi 490 su recesivni homozigoti. Koliko ima dominantnih homozigota?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "9% = 90"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u zigotenu dolazi do sparivanja homologih hromozoma i formiranja sinaptičkog kompleksa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tetrade se javljaju u pahitenu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "crossing over počinje u pahitenu mejoze II"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "odvajanje homologih hromozoma je u anafazi I mejoze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "crossing-over ima ulogu u odvajanju homolohih hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "odvajanja homologih hromozoma je u anafazi I mejoze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "odvajanje homologih hromozoma je u anafazi mejoze II"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pahiten je faza profaze mejoze I"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pahiten je stradijum spermatogeneze kada se formiraju bivalenti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pahiten je faza profaze mitoze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u pahitenu počinje crossing-over"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "diploten je stadijum formiranja bivalenata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u diplotenu se završava crossing-over"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u diplotenu ovogeneze nastupa period mirovanja mejotičkog procesa"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leptoten je prvi stadijum profaze I mejoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "leptoten je drugi stadijum profaze mejoze I"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u leptotenu se gubi jedarce i membrana"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Crossing-over je češći:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u spermatogenezi nego u oogenezi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u oogenezi nego u spermatogenezi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "približno je isti u spermatogenezi i oogenezi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Crossing over je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "razmena homologih fragmenata između sestrinskih hromatida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razmena homologih fragmenata između nesestrinskih hromatida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "razmena fragmenata između nehomologih hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Na frakvencu crossing-over-a utiče. (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "udaljenost gena na hromozomu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stadijum pahitena, diplotena i leptotena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sinapsis hromozoma počinje u zigotenu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sinapsis hromozoma je karakterističan za pahiten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sinapsis omogućuje nastanak crossing over-a"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Crossing-over ima ulogu u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "odvajanju sestrinskih hromatida tokom anafaze prve mejoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mapiranju hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rekombinaciji vezanih gena"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "rekombinaciji nevezanih gena"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Prva podfaza profaze mejoze I je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leptoten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pahiten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zigoten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "diploten"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Kod kojih od navedenih životinja muški pol je heterogametan (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zmija, domaća kokoš"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "majmun, slepi miš i krtica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "čovek, vinska mušica, konj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "čovek, krokodil, leptir"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod drozofile pol jedinki zavisi od odnosa X hromozoma i autozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "muški pol kod ćuraka je heterogametan i zavisi od Y hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ženski pol kod ćurki je heterogametan i zavisi od W hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u diferencijaciji pola ptica glavnu ulogu imaju X i Y hromozomi u interakciji sa autozomima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u diferencijaciji pola kod govečeta glavnu ulogu imaju X i Y hromozomi i interakcije sa autozomima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za diferencijaciju pola kod sisara važni su geni samo na X i Y hromozomima"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "genotip je isti u svim embrionalnim ćelijama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "genotip je različit u ćelijama embriona i odraslih jedinki iste vrste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "genom je skup svih gena u somatskoj ćeliji"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "blastomere dobijaju istu količinu naslednog materijala jer se dele mitozom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "blastomere dobijaju duplo manju količinu genetskog materijala jer se dele mejozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "blastomere su stadijumi u procesu oogeneze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ako se pol buduće jedinke determiniše u trenutku oplođenja, to je epigamija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ako na pol buduće jedinke utiču faktori sredine, to je progamni oblik determinacije pola"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ako se pol određuje u trenutku oplođenja, to je singamija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "od polnih hromozoma spermatozoidi poseduju X ili Y hromozom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spermatozoidi poseduju polovinu autozoma i Y hromozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "od polnih hromozoma spermatozoidi poseduju samo Y hromozom"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u jednom istom organizmu sve ćelije imaju iste gene"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ćelije epitelnog i nervnog tkiva istog organizma imaju različite gene"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u ćelijama mozga i pankreasa istog organizma postoje isti geni"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ćelije u kojima je aktivan najveći broj gena jesu (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ćelije embriona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervne ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mišićne ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "regulacija genske aktivnosti kod prokariota objašnjena je teorijom operona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "operon je regulatorni gen koji kontroliše aktivnost gena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "operon je represorni gen koji zaustavlja aktivnost gena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Antitela su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "specifični zaštitni proteini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "molekuli humoralne odbrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "veoma raznovrsni proteini uvek prisutni u krvi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "molekuli čija sinteza nije pod kontrolom gena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iRNK nosi poruku za redosled uključivanja aminokisleina u polipeptide"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rRNK ima ulogu u određivanju rasporeda aminokiselina u polipeptidu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tRNK prenose informaciju od DNK do proteina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tRNK prokariota mogu se koristiti za sintezu proteina čoveka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rRNK su iste kod svih eukariota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tRNK kičmenjaka i beskičmenjaka se razlikuju"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno. Razlike između DNK i RNK su u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veličini molekula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "broju nukleotida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "broju fosfornih grupa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo u purniskim bazama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hromatin se sastoji od DNK i proteina ali sadrži i male količine RNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hromatin sadrži samo despiralizovanu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hromatin sadrži velike količine RNK i DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homozigoti su jedinke koje na nehomologim hromozomima nose iste genske lokuse"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heterozigoti su jedinke koje na nehomologim hromozomima nose različite alele"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "homologi hromozomi nose iste gene"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dominantni alel ispoljava osobinu samo ako se javi kao homozigot"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dominantni alel ispoljava osobinu u homozigotnom i heterozigotnom stanju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "recesivni alel ispoljava osobinu u heterozigotnom stanju"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "najveći broj mutiranih gena su recesivni"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "obično je divlji tip gena u odnosu na mutirani recesivan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "recesivni alel se može ispoljiti u uslovima recesivne homozigotije svih biparentalnih organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aleli su različiti oblici genskih mutacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aleli su različiti oblici jednog istog gena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "genski lokusi su različiti oblici mutacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alelni geni se nalaze u različitim lokusima homologih hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alelni geni se nalaze u istim lokusima homologih hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "postojanje više oblika alela naziva se mutualizam"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aleli u MN sistemu krvnih grupa čoveka su multipni aleli"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "odnos između alela u MN sistemu je kodominantan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geni za alele MN sistema nalaze se na hromozomu G-22"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Rh sistem krvnih grupa ima 2 alela i odnos između njih je kodominantan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u Rh sistemu krvnih grupa odnos među alelima je dominantno-recesivan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aleli za Rh sistem krvnih grupa nalaze se na hromozomu B4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "diferencirane ćelije se brže i češće dele nego nediferencirane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervne ćelije su manje diferencirane od mišićnih ćelija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stepen diferencijacije utiče na brzinu deobe ćelija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homologi hromozomi su morfološki identični"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "homologi hromozomi se razlikuju u sadržaju gena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polni hromozomi mužjaka su identični"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svaku osobinu kontroliše samo jedan par gena gde jedan gen potiče od jednog a drugi od drugog roditelja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heterozigoti su jedinke koje nose različite gene na svojim homologim hromozomima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedan gen može da ima više alelnih oblika"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u ABO sistemu krvnih grupa postoje 4 alela i 4 krvne grupe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aleli za krvne grupoe ABO sistema nalaze se na X hromozomu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "odnos između alela A i B u ABO sistemu je kodominantan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno. Genske mutacije mogu biti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "strukturne i indukovane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "delecije, supstitucije i insercije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tranzicije i transverzije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno. Genske mutacije kod prokariota mogu biti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "numeričke i strukturne"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "non sense i miss sense"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "transdukcije i translacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stadijum tetrada čine 4 hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stadijum tetrada čine 2 homologa hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stadijum tetrada čine 4 hromatide nehomologih hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ako se normalan broj hromozoma u somatskoj ćeliji označi sa 2n, a u polnoj \"n\", koliko hromozoma ima;",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatocita sekundarna n"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zreo gamet n"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatida n"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Konj ima 64 hromozoma. Koliko njegove ćelije imaju bivalenata?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "32"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Goveče ima 60 hromozoma. Koliko ćelije imaju tetrada?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "30"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Geni bakterija raspoređeni su na dva homologa hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bakterije su haploidni organizmi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mužjak pčele je haploidni organizam"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "geni su fragmenti molekula DNK ili RNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "geni prokariota su freagmenti lanca DNK ili RNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geni bakterija su fragmenti lanca DNK"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svi geni eukariota nalaze se isključivo na hromozomima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "geni kičmenjaka sadrže u proseku 500-2000 baznih parova"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svaku osobinu eukariota određuje samo jedan gen"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ako neki organizam ima 2n=48 hromozoma. Koliko tetrada ima u oogenezi?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "24"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Konj ima 64 hromozoma. Koliko tetrada ima u spermatogenezi?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "32"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Goveče ima 60 hromozoma. koliko hromatid aposeduju spermatocite I?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "120"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Goveče ima 60 hromozoma. Koliko molekula DNK poseduju spermatide?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "30"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Goveče ima 60 hromozoma. Koliko hromatida poseduju spermatozoidi?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "30"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u zigotu i prvim blastomerama sinteza makromolekula obavlja se pod kontrolom gena jajne ćelije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tokom embriogeneze smenjuju se funkcionalne grupe gena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u zigotu sinteza makromolekula je pod kontrolom gena od oba roditelja"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "heritabilnost u širem smislu označava odnos gemnetičke i ukupne fenotipske varijanse"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heritabilnost se izračunava po formuli F=G+E"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod poligenih osobina na osobine imaju veliki uticaj faktori sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ako su roditelji slični po određenoj osobini oni će sebi stvarati slično potomstvo ako je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sredinska varijansa za to svojstvo mala, a genetička varijansa velika"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "genetička i sredinska varijansa su male za to svojstvo"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sredinska i genetička varijansa su veliike"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Genofond populacije je skup svih gena:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedinki koje naseljavaju određeni areal"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jedinki iste vrste koje naseljavaju različite areale"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedinki iste vrste u istom arealu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "supstitucije su samo zamene purina sa pirimidinom i obratno, u molekulu DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "transverzije su samene jednog purina sa drugim purinom u molekulu DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tranzicije su zamene pirimidina sa purinom i obrnuto"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "genotip je skup svih gena jedne diploidne ćelije nekog organizma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "genotip je skup svih hromozoma jedne somatske ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kariotip je skup svih hromozoma jedne haploidne ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "genom je skup svih gena jedne haploidne ćelije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "genom je skup gena u spermatozoidu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "genom je skup gena jedne somatske ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliko ima hromozoma u A grupi kariotipa čoveka?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "3 para"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliko parova hromozoma ima u C grupi kariotipa čoveka?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "7"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliko akrocentričnih hromozoma ima kod muške osobe čoveka?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "11"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedan X hromozom interfaznog jedra ženki sisara daje Bar-ovo telo"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Bar-ovo telo je prisutno kod svih kičmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Bar-ovo telo je karakteristično za ptice i sisare"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliko fenotipova ima kod aditivne poligenije ako jednu osobinu kontrolišu 4 para gena",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "5"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koji je odnos fenotipova u F2 generaciji ako jednu osobinu kontroliše dva para gena pri komplementarnom dejstvu?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "9:7"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliki broj Bar-ovih tela postoji kod osobe sa Turner sindromom?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "0"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koliko Bar-ovih tela postoji u ćeliji muškarca sa Klinefelter-ovim sindromom?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koji je odnos fenotipova kod dihibridnog ukrštanja u F2 generaciji pri dominantno recesivnoj interakciji?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "9:3:3:1"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koji je odnos fenotipova prikodominantnoj genskoj interakciji u F2 generaciji monohibridnom ukrštanju?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1:2:1"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Koji je odnos fenotipova kod intermedijarnog ukrštanja u F2 generaciji monohibridnog nasleđivanja?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1:2:1"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Ako su roditelji homozigoti - jedan dominantan, a drugi recesivan, kakvi se potomci očekuju u F1 generaciji?",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "heterozigoti"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Na fenotip utiču:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "samo genotip"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "genotip i faktori sredine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "smo faktori sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Rekombinacije gena prokariota mogu da se jave u 3 oblika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "konjugacija, tranzicija, transverzija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konjugacija, transformacija, transdukcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konjugacija, tranzicija, transdukcija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Rekombinacije kod organizama sa polnim razmnožavanjem mogu da se jave u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "crossing-over-u"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "anafazi mejoze II"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "crossing over-u i leptotenu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "crossing overu i anafazi I mejoze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Opšta genetika",
+    "pitanje": "Metode prenatalne dijagnostike su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amniocenteza i analiza hromozoma iz horionskih resica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "analiza hromozoma iz uterusa."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "analiza hromozoma iz krvi majke."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  }
+]

@@ -1,0 +1,2374 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Embriologija",
+    "pitanje": "Koje od navedenih celija su najvise diferencirane (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatogonije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovum"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarne ovocite"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "spermatide"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatogonije su vise diferencirane od spermatida"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spermatide su manje diferencirane od spermatogonija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primarne spermatocite su vise diferencirane od spermatogonija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ovogonije su u ovogenezi najvise diferencirane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovogonije su vise diferencirane od primarnih oocita"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarne polocite imaju visi stepen diferencijacije od ovocita"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Embriologija",
+    "pitanje": "Koja od navedenih celija neprekidno proizvodi nove zenske polne celije (okruziti sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oogonije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovum"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarne polocite"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarne oocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Embriologija",
+    "pitanje": "Koje od navedenih celija u spermatogenezi proizvode spermatozoide:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Leydigove celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarne polocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Sertolijeve celije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "spermatogonije"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Sertolijeve celije luce progesteron"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Sertolijeve celije imaju troficku ulogu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Sertolijeve celije obezbeduju ishranu sekundarnim ovocitama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Sertolijeve celije ucestvuju u produkciji spermatozida"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Leydigove celije imaju troficku ulogu muskih polnih celija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Leydigove celije proizvode spermatogonije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Leydigove celije imaju troficku ulogu sekundarnih ovocita"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatozoid razlaze enzimima folikularne celije i zonu pelucidu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "liticki enzimi spermatozida smesteni su u akrozomu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatozoidi obrazuju fertilizacionu opnu oko jajne celije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u akrozomu spermatozida nalaze se hidroliticki enzimi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "akrozom jajne celije sadrzi hidrolitike enzime"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kortikalne vezikule nalaze se u glavi spermatozida"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ako jajnu celiju oplode dva spermatozida javljaju se jednojajni blizanci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ako se morula podeli na dva dela nastaju jednojajni blizanci."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ako 2 spermatozida oplode jajnu celiju nastaju dvojajni blizanci"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dvojajni blizanci nastaju ako se 2 jajne celije oplode sa istim spermatozoidin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dvojajni blizanci nastaju ako dva spermatozida oplode dve razlicite jejn celije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dvojajni blizanci su uvek istog pola"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jednojajni blizanci su uvek istog pola"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jednojajni blizanci izuzetno mogu imati razlicit pol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dvojajni blizanci mogu da se razlikuju po polu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "po genotipu, blizi su dvojajni od jednojajnih blizanaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod sisara zenski gameti su pokretni i jednake velicine sa muskim gametima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod ptica zenski gamet je veci od muskog"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sisara zenski gamet je veci i pokretan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "spermatozoidi sisara od polnih hromozoma sadrze samo Y hromozom"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod ptica zenski pol je heterogametan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod sisara zenski pol je homogametan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sisara zenski pol je heterogametan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ako se gameti razlikuju zovu se izogameti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ako se gameti razlikuju zovu se anizogameti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod ptica gameti su izogameti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod sisara gameti su anizogameti"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oplodenje kod sisara je u uterusu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod sisara oplodenje je u jajovodu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sisara oplodenje je u ovarijumu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jajna celija se oplodi kod sisara pre sazrevanja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod sisara jajna celija se oplodi tek kad je zrela"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oplodenje kod ptica je unutrasnje"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ribe imaju uvek spoljasnje oplodenje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod riba oplodenje moze biti spoljasnje i unutrasnje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ribe su najcesce viviparni organizmi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ptice su oviparni organizmi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gmizavci su ovoviviparni organizmi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sisari su oviparni organizmi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "neke ribe mogu da budu viviparne"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Embriologija",
+    "pitanje": "Horionske resice pripadaju tkivu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "embriona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "majke"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "embriona i majke"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Embriologija",
+    "pitanje": "U amnionu se nalazi amnionska tecnost i moze da se koristi za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prenatalnu dijagnozu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "postnatalnu dijagnozu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za odredivanje svih biohemijskih promena u embrionu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Embriologija",
+    "pitanje": "Zigot se deli:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mitozom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mejozom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amitozom"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proces spermatogeneze nije kontinuiran"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u procesu spermatogeneze nastupa pauza izmedju stadijuma diplotena i puberteta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "proces spermatogeneze je kontinuiran"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "proces spermatogeneze pocinje u pubertetu i nije kontinuiran"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proces ovogeneze je kontinuiran i obuhvata faze oplodenja i maturacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovogeneza pocinje jos u embrionalnom stadijumu zenskog deteta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ovogeneza pocinje u pubertetu zenskog deteta"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ovogeneza pocinje u embrionu i pravi pauzu od diplotena do puberteta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "stadijum diplotena je iskljucen u ovogenezi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ovogeneza je kontinuiran proces koji pocinje u pubertetu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "proces ovogeneze karakterise se prisustvom velike frekvence crossingovera"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u oogenezi ne postoji crossing over"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod coveka oogeneza pocinje u pubertetu i zavrsava se u menopauzi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno. Celije u kojima je zavrsena mejoza su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarni polociti i ovotide"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spermatide"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatozoidi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Embriologija",
+    "pitanje": "Proces mejoze pocinje u sledecim celijama:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarnim spermatocitama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarnim spermatocitama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatogonijama"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Embriologija",
+    "pitanje": "Posle telofaze prve mejoze nastaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatide i ovotide"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spermatogonije i oogonije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "haploidne celije ali sa duplom kolicinom DNK po hromozomu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Embriologija",
+    "pitanje": "Posle telofaze druge mejotike deobe nastaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatide"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarne spermatocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarne oocite"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sekundarne polocite"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ootide"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite celije u kojima je zavrsena mejoza:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarne oocite"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarne spermatocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatide i ovotide"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite celije koje nastaju posle telofaze i mejoze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarne oocite i primarne spermatocite"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarne oocite, sekundarne spermatocite i sekundarne polocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarne spermatocite, sekundarne oocite i primarne polocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite celije koje nastaju posle telofaze II mejoze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "spermatide I ootide"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarne spermatocite, sekundarne oocite i sekundarne polocite"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatozoidi i primarne polocite"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "brzina celijskih deoba je veca ukoliko je celija na visom stupnju diferencijacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "definitivno diferencirana celija sporo se deli"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "brzina celijske deobe je obratno srazmerna stepenu diferencijacije celije"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje jajne celije (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod vodozemaca je holoblasticko"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod gmizavaca je holoblasticko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sisara je meroblasticko"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje jajne celije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod vodozemaca je nejednako"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod ptica je potpuno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sisara je nepotpuno"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Embriologija",
+    "pitanje": "Insekti imaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "potpuno brazdanje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povrsinsko brazdanje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nepotpuno jednako brazdanje"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Embriologija",
+    "pitanje": "Tip brazdanja jajne celije gmizavaca i ptica:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "razlikuje se"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "isti je"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "isti je samo kod ptica i visih gmizavaca od kojih ptice vode poreklo"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje jajne celije zabe je :",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "meroblasticko, nepotpuno, povrsinsko"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "potpuno, nejednako, meroblasticko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "holoblasticko"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje kod pcele je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "meroblasticko diskoidalno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "holoblasticko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "povrsinsko"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje kod goveceta je",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "potpuno, holoblasticko"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "povrsinsko, superficijelno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diskoidalno"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Embriologija",
+    "pitanje": "Tip jajne celije kod kokoke:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "centrolecitan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "telolecitan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolecitan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Embriologija",
+    "pitanje": "Tip jajne celije kod svinje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "izolecitan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "homolecitan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polilecitan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Embriologija",
+    "pitanje": "Blastula sisara zove se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "periblastula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "diskoblastula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "blastocist"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Embriologija",
+    "pitanje": "Blastula ptica je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "diskoblastula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "periblastula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "celoblastula"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Embriologija",
+    "pitanje": "U bespolno razmnosavanje spada:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "strobilacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "anizogamija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izogamija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje jajne celije pocinje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "odmah po oplodenju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u stadijumu morule"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u stadijumu gastrule"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Embriologija",
+    "pitanje": "Gastrulacija sisara odvija se u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jajovodu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jajniku"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uterusu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kortikalne vezikule odgovoran su za stvaranje fertilizacione membrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fertilizaciona kupa javlja se na povrsini membrane jajne celije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatozoidi su sposobni za oplodenje odmah po formiranju"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jajna celija ptica razlikuje se po tipu polnih hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jajna celija ptica ima X polne hromozome"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jajne celije ptica su diploidne"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Embriologija",
+    "pitanje": "Muski pol ptica je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homogametan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heterogametan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izogametan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Embriologija",
+    "pitanje": "Muski pol sisara je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homogametan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izogametan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "heterogametan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Embriologija",
+    "pitanje": "Blastoporus je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "otvor blastule"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "otvor gastrule"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "otvor morule"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gastrocel je sekundarna duplja u embrionalnom razvicu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "blastocel je prva duplja koja se javlja u embrionalnom razvicu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gastrocel je izmedju ektoderma i endoderma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Embriologija",
+    "pitanje": "Diferencijacije celija pocinje u:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "moruli"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "blastuli"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gastruli"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Embriologija",
+    "pitanje": "Primarni klicini listovi su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektoderm i endoderm"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endoderm i mezoderm"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ektoderm, endoderm i mezoderm"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Embriologija",
+    "pitanje": "Proces blastulacije kod sisara odvija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "invaginacijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "delaminacijom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "epibolijom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "diferencijacija celija zavisi od proteina sintetisanih u celiji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pocetak diferencijacije zavisi od stanja u moruli"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pocetak diferencijacije je u gastruli"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nervni sistem kicmenjaka razvija se iz primarnog zacetka nervne cevi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervni sistem kicmenjaka slicnog je porekla i gradje kao nervni istem insek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nervna cev kicmenjaka je endodermalnog porekla"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Embriologija",
+    "pitanje": "Culni elementi vode poreklo od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektoderma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endoderma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezoderma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Embriologija",
+    "pitanje": "Organi za varenje kod beskicmenjaka su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kompletno endodermalnog porekla"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endodermalnog i mezodermalnog porekla"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "endodermalnog i ektodermalnog porekla"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Embriologija",
+    "pitanje": "Organi za disanje kod beskicmenjaka uglavnom su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektodermalnog porekla"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endodermalnog porekla"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezodermalnog porekla"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Embriologija",
+    "pitanje": "Organi za disanje kod kicmenjaka su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektodermalnog porekla"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endodermalnog porekla"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezodermalnog porekla"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Embriologija",
+    "pitanje": "Organi za disanje kod puza vode poreklo od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektoderma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "trofoblasta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "periblasta"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Embriologija",
+    "pitanje": "Organi za disanje kod goveceta diferenciraju se od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trofoblasta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endoderma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarnog klicinog lista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "celom je sekundarna telesna duplja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "celom je telesna duplja pljosnatih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "celom je telesna duplja sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Embriologija",
+    "pitanje": "Koje od navedenih zivotinja poseduju celom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zaba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "covek"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kisna glista"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "decja glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Embriologija",
+    "pitanje": "Celom kao telesna duplja u evoluciji prvo se javlja kod:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prstenastih crva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kicmenjaka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Embriologija",
+    "pitanje": "Pseudocelom je telesna duplja karakteristicna za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "valjkaste crve"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prstenaste crve"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnete crve"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite zivotinje koje imaju posteljicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "delfin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kengur"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite zivotinje koje ne poseduju posteljicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kamila"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kljunar"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "diferencijacija tkiva moze biti zavisna i nezavisna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "diferencijacija tkiva pocinje u blastuli"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diferencijacija organa javlja se u gastruli"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "embrionalna indukcija ogranicena je samo na odredjeno vreme embrionalnog razvica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "embrionalna indukcija se javlja kod svakog diferenciranog tkiva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "embrionalna indukcija postoji u celom procesu embrionalnog razvica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prvi induktor u embrionalnom razvicu je hordomezodermalno tkivo"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tkivo koje utice na diferencijaciju drugog tkiva zove se induktor"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "embrionalna indukcija moze biti zavisna i nezavisna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amnion je embrionalni omotac koji obavija embrion"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "u amnionu se sakupljaju produkti metabolizma embriona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u amnionu se nalazi vitelus"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite sta je tacno. Kod telolecitnih jajnih celija blastocel se nalazi izmedju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "blastoderma i vitelusa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ektoderma i endoderma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezoderma i endoderma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Embriologija",
+    "pitanje": "Okruzite zivotinje koje nemaju alantois:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "saran"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "delfin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slepi mis"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Embriologija",
+    "pitanje": "Posteljica se formira od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zida uterusa i horiona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "uterusa i alantoisa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uterusa i zumancetne kese"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Embriologija",
+    "pitanje": "U primarnom folikulu oko jajne celije formira se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedan sloj folikularnih celija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vise slojeva folikularnih celija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "populacija ovogonija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Embriologija",
+    "pitanje": "Ovogonije postaju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tek u pubertetu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jos u embrionu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "posle radjanja embriona"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Embriologija",
+    "pitanje": "Ovulacija je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sazrevanje jajne celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izbacivanje jajne celije iz sekundarnog folikula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izbacivanje jajne celije iz de Graaf-ovog folikula"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Embriologija",
+    "pitanje": "Derivati gastrule su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "blastoporus i gastrocel"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gastrocel, gastrofor i gastroporus"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo primarni klicini listovi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Embriologija",
+    "pitanje": "Jajne celije sisara su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oligolecitne"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mezolecitne"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polilecitne"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Embriologija",
+    "pitanje": "Populacija ovogonija obrazuje se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u polnoj zrelosti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jos u embrionu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "za vreme ovulacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Embriologija",
+    "pitanje": "Jajne celije bodljokozaca su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oligolecitne"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polilecitne"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "telolecitne"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Embriologija",
+    "pitanje": "Anizogamija je pojava:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kada se gameti razlikuju po velicini i pokretljivosti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kada se gameti razlikuju samo po velicini"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kada se gameti nepokretni"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Embriologija",
+    "pitanje": "Brazdanje jajne celije macke pocinje kada:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dospe u uterus"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "se oforme embrionalni omotaci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "se nadje u jajovodu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Embriologija",
+    "pitanje": "Koje od navedenih celija su najmanje diferencirane:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Leydig-ove celije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Sertoli-eve celije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermatogonije"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Embriologija",
+    "pitanje": "Prvi embrionalni omotac sisara je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "trofoblast"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "amnion"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zumancetna kesa"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Embriologija",
+    "pitanje": "Muskulatura kicmenjaka vodi poreklo od:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektoderma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "endoderma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezoderma"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Embriologija",
+    "pitanje": "Embrionalno vezivno tkivo zove se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mezenhim"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "parenhim"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezoderm"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Embriologija",
+    "pitanje": "Blastula mrava je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "periblastula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "diskoblastula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amfiblastula"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Embriologija",
+    "pitanje": "Sekundarni embrionalni list je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mezoderm"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ektoderm"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "trofoblast"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "endoderm"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Embriologija",
+    "pitanje": "Od navedenih tkiva najnizi stepen diferencijacije ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "epitelno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vezivno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "misicno"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Embriologija",
+    "pitanje": "Kako se naziva primarno crevo:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pseudocel"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "enterocel"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gastrocel"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Embriologija",
+    "pitanje": "Ako regenerisani deo dopuni deo tela koji nedostaje takva regeneracija se nazib:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "epimorfoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "morfalaksis"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hipomorfoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Embriologija",
+    "pitanje": "Endotelohorijalna placenta karakteristicna je za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zveri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "papkare"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kopitare"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Embriologija",
+    "pitanje": "Hemohorijalna placenta karakteristicna je za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primate"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "papkare"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kopitare"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Embriologija",
+    "pitanje": "Kod torbara placenta je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "horiovitelinska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zonalna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diskoidalna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "placenta ne postoji"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Embriologija",
+    "pitanje": "Kod goveceta placenta je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kotiledona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zonalna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diskoidalna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  }
+]

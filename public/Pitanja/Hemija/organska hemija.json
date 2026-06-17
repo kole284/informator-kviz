@@ -1,0 +1,8098 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula alkana je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CnH2n"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CnH2n+2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CnH2n+1O"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CnH2n-2"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C5H12:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C6H14:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "8"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trivijalni naziv za 2-metil-2-brompropan je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tercbutil-bromid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izopropil-bromid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekbutil-bromid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "izobutil-bromid"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trivijalni naziv za 2-metil-1-brompropan je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tercbutil-bromid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izopropil-bromid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekbutil-bromid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "izobutil-bromid"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trivijalni naziv za 3-metil-1-brombutan je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "izobutil-bromid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izopentil-bromid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekbutil-bromid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "neopentil-bromid"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Organska hemija",
+    "pitanje": "U 2,3,5-trimetil-heksanu broj sekundarnih C-atoma je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Organska hemija",
+    "pitanje": "U 2,3,5-trimetil-heksanu broj tercijarnih C-atoma je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Organska hemija",
+    "pitanje": "U 2,2,4-trimetil-pentanu broj kvaternarnih C-atoma je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Organska hemija",
+    "pitanje": "U 2,2,3,4-tetrametil-pentanu broj sekundarnih C-atoma je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Organska hemija",
+    "pitanje": "U 2,2,3,4-tetrametil-pentanu broj primarnih C-atoma je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja nema tercijarni C-atom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,2,3-trimetil-butan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,2-dimetil-butan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,3-dimetil-butan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-butan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ima kvaternerni C-atom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3-etil-pentan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,3-dimetil-butan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,2-dimetil-butan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-2-hlor-butan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hlorovanje metana je reakcija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleofilne supstitucije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slobodno-radikalske supstitucije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleofilne adicije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "elektrofilne supstitucije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Organska hemija",
+    "pitanje": "Ugljovodonici molekulske formule C4H10 monohlorovanjem mogu da daju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2 različita monohlorna derivata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3 različita monohlorna derivata"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4 različita monohlorna derivata"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5 različitih monohlornih derivata"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama natrijuma u reakciji sa 0,1 molom metil-jodida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4,6"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,15"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6,9"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko će se litara gasa (normalni uslovi) izdvojiti zagrevanjem 16,4 grama bezvodnog natrijum-acetata sa natrijumhidroksidom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "44,8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4,48"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "22,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula alkena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CnH2n"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CnH2n+2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CnH2n+1O"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CnH2n-2"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula alkina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CnH2n"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CnH2n+2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CnH2n+1O"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CnH2n-2"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera alkena sa molekulskom formulom C5H10:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "12"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "7"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima izomera sa molekulskom formulom C4H8:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Organska hemija",
+    "pitanje": "U kom od navedenih jedinjenja su svi C-atomi sp2 hibridizovani:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3-CH=CH2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "HC≡C-CH2CH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH2=CH-CH=CH2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "HC≡C-CH=CH2"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Organska hemija",
+    "pitanje": "U kom od navedenih jedinjenja su svi C-atomi sp3 hibridizovani:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH(CH3)CH(OH)CH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3COOCH2CH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3COCH2CH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CHO"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trivijalno ime grupe CH2=CH-CH2- je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vinil"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izopropil"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "neopropil"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "alil"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Organska hemija",
+    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,1-dihlor-eten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4,5-dihlor-1-heksin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4,5-dihlor-1-heksen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4,5-dihlor-2-heksen"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Organska hemija",
+    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-2-buten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-butin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-buten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-2-buten"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Organska hemija",
+    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-pentin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-penten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izopren"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1-penten"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od datih alkena najstabilniji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1-buten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-buten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,3-dimetil-2-buten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-buten"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od datih alkena najstabilniji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,4-dimetil-1-penten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-penten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1-penten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-2-penten"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom vode na 2-metil-1-buten nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-2-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-1-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,2-butandiol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-1,2-butandiol"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom vode na 2-metil-propen nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2-propandiol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-propanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-metil-1-propanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propanon"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Organska hemija",
+    "pitanje": "2-metil-3-hlor-butan se može dobiti adicijom HCl na:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3-metil-1-buten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-buten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-metil-1-buten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "izopren"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za alkene su karakteristične reakcije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "elektrofilne supstitucije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "elektrofilne adicije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nukleofilne supstitucije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nukleofilne adicije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji 2-butena sa vodenim rastvorom KMnO4 nastaje jedinjenje molekulske mase:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "58"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "214"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "90"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "74"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja može na sobnoj temperaturi da obezboji rastvor kalijum-permanganata:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-propan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ciklopropan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "propan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propen"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja pokazuje kisele osobine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-pentin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1-penten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-penten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1-pentin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom jednog molekula vode na propin u prisustvu jona žive, dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "propanon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2-propandiol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "propen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1-propanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom viška HCl na propin, dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,3-dihlor-propan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,1-dihlor-propan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,2-dihlor-propan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,2-dihlor-propan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom jednog molekula vode na etin u prisustvu živinih soli, dobija se jedinjenje molekulske mase:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "44"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "76"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "42"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "60"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno litara gasovitog hlorovodonika da bi u reakciji sa propenom dobili 3 grama odgovarajućeg proizvoda:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,70"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "0,10"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,39"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,86"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno litara hlora (normalni uslovi) za potpuno zasićenje 0,5 molova etina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "44,8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4,48"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "22,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od navedenih ugljovodonika zasićen:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C2H4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C5H12"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C3H4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C4H8"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji ___ + HBr → CH3CHBrCH3 reaktant koji nedostaje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH2=CHCH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH≡CCH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2CHO"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CH2OH"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcija broma sa propenom je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "polimerizacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "supstitucija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "adicija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Organska hemija",
+    "pitanje": "Jedinjenje formule CH2=CH-CH=CH-CH3 je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kumulovani dien"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konjugovani dien"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolovani dien"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Organska hemija",
+    "pitanje": "Jedinjenje formule H2C=C=CH-CH2CH3 je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kumulovani dien"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konjugovani dien"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolovani dien"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Organska hemija",
+    "pitanje": "Jedinjenje formule CH2=CH-CH2-CH=CH2 je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kumulovani dien"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konjugovani dien"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolovani dien"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Organska hemija",
+    "pitanje": "„1,4-adicija“ je reakcija karakteristična za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,4-heksadien"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konjugovani dien"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kumulovani dien"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatične sisteme"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Organska hemija",
+    "pitanje": "Kod kog od navedenih diena se može dobiti proizvod „1,4-adicije“:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2-pentadien"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,4-pentadien"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,3-pentadien"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,4-ciklopentadien"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se dobija grama odgovarajućeg proizvoda reakcijom 0,3 mola ciklopropana sa bromom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "36,9"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "36,3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "25,8"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "60,6"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Organska hemija",
+    "pitanje": "Strukturnih izomera alkil-benzena molekulske formule C8H10 ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Organska hemija",
+    "pitanje": "Strukturnih izomera alkil-benzena molekulske formule C9H12 ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "10"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Organska hemija",
+    "pitanje": "Ksilen je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dimetil-benzen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-etil-benzen"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metil-benzen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trimetil-benzen"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Organska hemija",
+    "pitanje": "Broj mogućih izomera ksilena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Organska hemija",
+    "pitanje": "Molekulska formula naftalena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C10H8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C12H12"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C12H10"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C10H10"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Organska hemija",
+    "pitanje": "Molekulska formula antracena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C14H14"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C14H10"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C18H14"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C18H18"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji od navedenih aromatičnih ugljovodonika ima molekulsku formulu C12H10:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "naftalen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "difenil"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "toluen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dipropil-benzen"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji od navedenih aromatičnih ugljovodonika ima molekulsku formulu C10H8:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "naftalen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tertametil-benzen"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "toluen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "antracen"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Organska hemija",
+    "pitanje": "Aromatični ugljovodonik koji sadrži 5 prstenova benzena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "naftalen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzpiren"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "antracen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "piren"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Organska hemija",
+    "pitanje": "Oksidacijom propil-benzena dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cikloheksanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzil-alkohol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "benzen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "benzoeva kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za aromatična jedinjenja karakteristične su reakcije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aromatične adicije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aromatične eliminacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aromatične supstitucije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatične polimerizacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Organska hemija",
+    "pitanje": "Benzen na sobnoj temperaturi, bez prisustva katalizatora, reaguje sa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "HCl"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Br2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konc. H2SO4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "KMnO4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je grama vodonika potrebno za potpunu hidrogenizaciju 0,4 mola benzena:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,8"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom smese koncentrovane nitratne i sulfatne kiseline na benzen na 50°C dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nitrobenzen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzen-sulfonska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "toluen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "razara se aromatični prsten"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcija sulfonovanja benzena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "esterifikacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "eliminacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "supstitucija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "adicija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno atoma vodonika za potpunu hidrogenizaciju 0,2 mola benzena:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2•10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3,6•10^23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "7,2•10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno atoma vodonika za hidrogenizaciju 0,3 mola benzena do cikloheksena:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,8•10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "7,2•10^23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3,6•10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Organska hemija",
+    "pitanje": "Alkil grupa koja se dobija oduzimanjem jednog vodonikovog atoma iz benzena (C6H5-) naziva se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "benzil grupa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzoil grupa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fenil grupa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "fenoksi grupa"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji metil-bromida sa metalnim natrijumom dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-alkohol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metanal"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "etan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom 2-hlor-butana sa NaOH proizvod koji se dobija u višku je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-buten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-butanon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1-buten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "butanal"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Organska hemija",
+    "pitanje": "Alkil-halogenidi najčešće podležu reakcijama:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "elektrofilne adicije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleofilne adicije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "elektrofilne supstitucije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nukleofilne supstitucije"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji metil-jodida sa natrijum-metoksidom dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dimetil-etar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dimetil-keton"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom 1-hlor-propana sa natrijumom u anhidrovanoj sredini dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "propanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dipropil-etar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "propen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "heksan"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih reakcija moguća:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2Cl + NaOH → HOCH2CH2Cl + Na"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2CH3CH2Cl + 2NaOH → CH3CH2OCH2CH3 + 2NaCl + H2O"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2Cl + NaOH → CH3CH2OH + NaCl"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2Cl + NaOH → CH3CH2ONa + HCl"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Organska hemija",
+    "pitanje": "Freoni su halogeni derivati alkana koji sadrže:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "J i Br"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "F i J"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Cl i F"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Cl i Br"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ima hiralni C-atom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-hlor-butan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-hlor-propan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-metil-butan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-propan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ima hiralni C-atom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-2-penten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3-metil-1-penten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3-metil-2-penten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-1-penten"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja može da bude optički aktivno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2COCH2CH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH2OHCOOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2COCl"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CHClCH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja može da bude optički aktivno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3OCH2CH2Cl"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CHClCOOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH2Cl2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ClHC=CFH"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Organska hemija",
+    "pitanje": "Strukturnih izomera sa molekulskom formulom C3H8O ima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C4H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "7"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima primarnih alkohola sa molekulskom formulom C4H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima sekundarnih alkohola sa molekulskom formulom C4H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od navedenih alkohola primarni:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-1-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-propanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-2-propanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od navedenih alkohola sekundarni:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,3-propandiol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3-metil-1-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3-metil-2-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-1-propanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji je od navedenih tercijarni alkohol:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2,3-propantriol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "cikloheksanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-metil-2-propanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,2-propandiol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji alkohola sa H2SO4 gradi se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "so"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aldehid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "keton"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji alkohola sa NaOH gradi se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alkoholat"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "reakcija je nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koji od navedenih alkohola najbrže reaguje sa Lukasovim reagensom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-1-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ciklobutanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Organska hemija",
+    "pitanje": "Prevođenjem para alkohola preko Al2O3 na temperaturi preko 300°C dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alken"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aluminat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aldehid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "alkoksid"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Organska hemija",
+    "pitanje": "Oksidacijom 1-butanola dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alken"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "keton"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldehid"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Organska hemija",
+    "pitanje": "Oksidacijom 2-butanola dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alken"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "keton"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldehid"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je moguće dobiti različitih oksidacionih proizvoda blagom oksidacijom svih alkohola čija je molekulska formula C4H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja blagom oksidacijom daje aldehid:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,2-dimetil-1-propanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-propanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3,3-dimetil-2-butanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja blagom oksidacijom daje keton:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,2-dimetil-1-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,3-dimetil-2-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3,3-dimetil-2-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,3-dimetil-1-butanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ne podleže oksidaciji pod blagim reakcionim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,2-dimetil-1-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,3-dimetil-2-butanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3,3-dimetil-2-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,3-dimetil-1-butanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se litara vodonika (normalni uslovi) oslobodi u reakciji 6 grama propanola sa metalnim natrijumom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4,48"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,12"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5,60"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se dobija litara vodonika (normalni uslovi) dejstvom 6•10^23 atoma natrijuma na apsolutni etanol:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,12"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "11,2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "22,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji ___ + PCl3 → CH3CH2CH2Cl + H3PO3 reaktant koji nedostaje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2CHO"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH2CH2OH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2COOH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2COONa"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Organska hemija",
+    "pitanje": "Nitroglicerin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estar glicerola i nitratne kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar glicerola i nitritne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "so glicerola i nitratne kiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "so glicerola i nitritne kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 101,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom metil-magnezijum-bromida sa propanonom i naknadnim dejstvom razblažene kiseline dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1-butanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-metil-2-propanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-propanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 102,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za dobijanje 2-metil-2-butanola Grinjarovom reakcijom treba upotrebiti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aceton i propil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "propanal i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "butanon i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-metil-2-butanal i metil-magnezijum-halogenid"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 103,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za dobijanje 3-metil-2-butanola Grinjarovom reakcijom treba upotrebiti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-propanal i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3-metil-2-butanon i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metanol i butil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aceton i propil-magnezijum-halogenid"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 104,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za dobijanje 1-butanola Grinjarovom reakcijom treba upotrebiti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "propanon i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "propanal i metil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanal i etil-magnezijum-halogenid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metanal i propil-magnezijum-halogenid"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 105,
+    "kategorija": "Organska hemija",
+    "pitanje": "Krezol je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aromatični alkohol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dvohidroksilni fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trohidroksilni fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 106,
+    "kategorija": "Organska hemija",
+    "pitanje": "Katehol je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aromatični alkohol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dvohidroksilni fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trohidroksilni fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 107,
+    "kategorija": "Organska hemija",
+    "pitanje": "Pirogalol je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aromatični alkohol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dvohidroksilni fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trohidroksilni fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 108,
+    "kategorija": "Organska hemija",
+    "pitanje": "Fenol je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "manje kiseo od alkohola"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kiseliji od alkohola"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kiseliji od ugljene kiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "neutralan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 109,
+    "kategorija": "Organska hemija",
+    "pitanje": "Uvođenjem CO2 u vodeni rastvor natrijum-fenoksida na sobnoj temperaturi dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "benzoeva kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ftalna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hidrohinon"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 110,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom alkil-halogenida na natrijum-fenoksid dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aril-halogenid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,4,6-trihalogen-fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 111,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom acil-halogenida na natrijum-fenoksid dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aril-halogenid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,4,6-trihalogen-fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 112,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji fenola sa viškom broma dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenil-bromid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,4,6-tribrom-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "orto-brom-fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,3,4-tribrom-fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 113,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom fenola sa viškom smese za nitrovanje dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nitro-benzen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,3,4-trinitro-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,4,6-trinitro-fenol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "orto-nitro-fenol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 114,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji fenola sa hloridom kiseline dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "so"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "anhidrid"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 115,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji fenola sa natrijum-hidroksidom nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "so"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "reakcija je nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 116,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcija fenola sa 3Br2 je reakcija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adicije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "supstitucije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "eliminacije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 117,
+    "kategorija": "Organska hemija",
+    "pitanje": "Etri su izomerni sa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estrima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldehidima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ketonima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "alkoholima"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 118,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula etara je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "R-O-R"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "R-COR"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "RCOOR"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "RCHO"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 119,
+    "kategorija": "Organska hemija",
+    "pitanje": "1,4-dioksan je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ciklični estar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ciklični etar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "diketon"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 120,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera aldehida sa molekulskom formulom C4H8O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 121,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera aldehida sa molekulskom formulom C5H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 122,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera ketona sa molekulskom formulom C5H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 123,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C5H10O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "10"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "9"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "7"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 124,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera aromatičnih aldehida sa molekulskom formulom C8H8O:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 125,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja metil-etil-keton:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3COCH2CH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3OCH2CH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3COOCH2CH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2OCH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 126,
+    "kategorija": "Organska hemija",
+    "pitanje": "Salicil-aldehid je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "orto-hidroksi-benzaldehid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "para-hidroksi-benzaldehid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "meta-hidroksi-benzaldehid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "orto,para-dihidroksi-benzaldehid"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 127,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja formaldehid:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CHO"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "HCHO"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "HCOOH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C6H5CHO"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 128,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja aldehid:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2COCH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3OCH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH(CH3)CHO"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3COOCH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 129,
+    "kategorija": "Organska hemija",
+    "pitanje": "Jedinjenje formule C7H6O je derivat benzena; lako redukuje srebro-oksid a nastaje oksidacijom alkohola. To jedinjenje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "salicil-aldehid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzaldehid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rezorcinol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hidrohinon"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 130,
+    "kategorija": "Organska hemija",
+    "pitanje": "Aldehidi se mogu dobiti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oksidacijom karboksilnih kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "adicijom vode na alkene"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "redukcijom ketona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "oksidacijom primarnih alkohola"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 131,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hidrogenizacijom aldehida u prisustvu katalizatora dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sekundarni alkohol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primarni alkohol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "karboksilna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 132,
+    "kategorija": "Organska hemija",
+    "pitanje": "Za aldehide i ketone karakteristične su reakcije:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleofilne supstitucije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleofilne adicije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "elektrofilne supstitucije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "elektrofilne adicije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 133,
+    "kategorija": "Organska hemija",
+    "pitanje": "Poluacetali se grade u reakciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etra i alkohola"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldehida i ketona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aldehida i alkohola"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dva molekula aldehida"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 134,
+    "kategorija": "Organska hemija",
+    "pitanje": "Acetali se grade u reakciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etra i alkohola"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldehida i alkohola"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aldehida i ketona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dva molekula aldehida"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 135,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adicijom jednog molekula alkohola na aldehid u kiseloj sredini nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "poluacetal"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "acetal"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldol"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 136,
+    "kategorija": "Organska hemija",
+    "pitanje": "Aldolnom adicijom etanala nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3COCH2CHO"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH(OH)CH2CHO"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3COOCH2CHO"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH(OH)CH(OH)CH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 137,
+    "kategorija": "Organska hemija",
+    "pitanje": "Aldolnom adicijom propanala nastaje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2CH(OH)CH(CH3)CHO"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH2CH(OH)CH2CH2CHO"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2CH(OH)CH(OH)CH2CH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CH2OCH2CH2CH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 138,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja u slabo baznoj sredini podleže aldolnoj adiciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "formaldehid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "benzaldehid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "acetaldehid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,2-dimetil-propanal"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 139,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih jedinjenja u slabo baznoj sredini ne podležu aldolnoj adiciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metanal i propanal"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "propanal i propanal"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanal i propanal"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metanal i metanal"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 140,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom aldehida i HCN i naknadnom potpunom hidrolizom dobijenog jedinjenja dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oksi-kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amino-kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "cijano-kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 141,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja daje pozitivnu reakciju sa Tolensovim reagensom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "acetofenon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aceton"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vanilin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "butanon"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 142,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji srebrnog ogledala dolazi do:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oksidacije elementarnog srebra"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "redukcije elementarnog srebra"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oksidacije jona srebra"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "redukcije jona srebra"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 143,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji aldehida sa Felingovim reagensom dolazi do:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "redukcije Cu(I)-jona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "redukcije Cu(II)-jona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oksidacije elementarnog bakra"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "oksidacije Cu(II)-jona"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 144,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se različitih kiselina može dobiti energičnom oksidacijom butanona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 145,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se različitih kiselina može dobiti energičnom oksidacijom 2pentanona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 146,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih kiselina ne može nastati energičnom oksidacijom etil-izobutil-ketona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2-metil-propanska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3-metil-butanska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pentanska"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sirćetna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 147,
+    "kategorija": "Organska hemija",
+    "pitanje": "Akrolein se može dobiti oksidacijom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glicerola"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alil-alkohola"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2-metil-propanola"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propanske kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 148,
+    "kategorija": "Organska hemija",
+    "pitanje": "Blagom oksidacijom jedinjenja čija je molekulska formula C3H8O dobija se proizvod koji ne redukuje Felingov reagens. Jedinjenje C3H8O je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1-propanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-propanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metil-etil-etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propanal"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 149,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se izdvaja atoma srebra u reakciji 8,8 grama acetaldehida sa amonijačnim rastvorom srebro-hidroksida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2•10^22"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "6•10^22"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,2•10^23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,4•10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 150,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji ___ + CH3CHO → CH3CH(OH)OCH3 reaktant koji nedostaje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2OH"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3OH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3COCH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2COCl"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 151,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera karboksilnih kiselina sa molekulskom formulom C5H10O2:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 152,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera karboksilnih kiselina sa molekulskom formulom C6H12O2:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "7"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "10"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "9"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 153,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih kiselina najjača:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sirćetna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hlorsirćerna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dihlorsirćetna"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trihlorsirćetna"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 154,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih kiselina ima najmanju vrednost rKa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hlor-etanska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "butanska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3-hlor-butanska"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propanska"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 155,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih kiselina ima najmanju vrednost rKa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "butanska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "propanska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanska"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metanska"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 156,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih kiselina ima najveću vrednost rKa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metanska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hlor-etanska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "butanska"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2-hidroksi-propanska"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 157,
+    "kategorija": "Organska hemija",
+    "pitanje": "Zagrevanjem kalcijum-acetata na visokim temperaturama dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sirćetna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "anhidrid sirćetne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aceton"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "etanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 158,
+    "kategorija": "Organska hemija",
+    "pitanje": "Salicilna kiselina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "orto-hidroksi-benzoeva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-hidroksi-propanska"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "para-hidroksi-benzoeva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "propan-dikarbonska"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 159,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trivijalno ime 2-hidroksipropanske kiseline je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "salicilna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ćilibarna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mlečna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "limunska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 160,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih kiselina dvobazna:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mlečna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glutarna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pikrinska"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "salicilna"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 161,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama natrijum-hidroksida za potpunu neutralizaciju 0,2 mola limunske kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "32"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "24"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "16"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 162,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama natrijum-hidroksida za potpunu neutralizaciju 0,1 mola vinske kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "32"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "16"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 163,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama natrijum-hidroksida da se u reakciji sa jabučnom kiselinom dobije 17,8 grama normalne soli:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "12"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "8"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 164,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja predstavlja derivat karboksilne kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3COONa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH(OH)COOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3COOCH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CHClCOOH"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 165,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja estar:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "HOOCC6H4COCH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "HOC6H4COCH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C6H5CO-O-CO-C6H5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "HOC6H4COOCH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 166,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja amid:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3COONH4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CONH2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH(NH2)COOH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "(CH3)2NH"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 167,
+    "kategorija": "Organska hemija",
+    "pitanje": "Formula metil-salicilata je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C6H5COOCH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "HOC6H4COOCH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "HOOCC6H4COCH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C6H5-OCH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 168,
+    "kategorija": "Organska hemija",
+    "pitanje": "Formula etil-propanoata je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3COOCH2CH2CH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3COOCH(CH3)2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2-O-CH2CH2CH3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2COOCH2CH3"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 169,
+    "kategorija": "Organska hemija",
+    "pitanje": "Fozgen je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dihlorid karbonatne (ugljene) kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hlor-amid karbonatne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "monohlorid karbonatne kiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "diamid karbonatne kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 170,
+    "kategorija": "Organska hemija",
+    "pitanje": "Karbamid je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dihlorid karbonatne (ugljene) kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hlor-amid karbonatne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "monoamid karbonatne kiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "diamid karbonatne kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 171,
+    "kategorija": "Organska hemija",
+    "pitanje": "Karakteristična reakcija za derivate karboksilnih kiselina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleofilna supstitucija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleofilna adicija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "elektrofilna supstitucija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "elektrofilna adicija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 172,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula hlorida kiselina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "RCHClCOOH"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "RCOCl"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "RCOCH2Cl"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "RCHClCHO"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 173,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula estara je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "RCOOR"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "RCOR"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "RCO-O-COR"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ROR"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 174,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula amida je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "R3N"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "RCH(NH2)COOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "RCOCH2NH2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "RCONH2"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 175,
+    "kategorija": "Organska hemija",
+    "pitanje": "Jedinjenje opšte formule RCO-O-COR je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "diketon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anhidrid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "etar"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 176,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom etanoil-hlorida na natrijum-acetat dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etil-acetat"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "acet-anhidrid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dietil-etar"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "diketon butana"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 177,
+    "kategorija": "Organska hemija",
+    "pitanje": "Zagrevanjem jedinjenja CH3CO-O-COCH3 sa metanolom grade se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metil-etil-keton i sirćetna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-etil-etar i sirćetna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metil-etanoat i sirćetna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metil-etil-keton i aceton"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 178,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dobijanje estara iz karboksilnih kiselina i alkohola u kiseloj sredini je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "povratna reakcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konačna reakcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "eksplozivna reakcija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemoguća reakcija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 179,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dobijanje estara iz karboksilnih kiselina i alkohola u baznoj sredini je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "povratna reakcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konačna reakcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "eksplozivna reakcija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemoguća reakcija"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 180,
+    "kategorija": "Organska hemija",
+    "pitanje": "Zagrevanjem amonijum-acetata na višim temperaturama dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etanol i amonijak"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etanamid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanal"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aceton"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 181,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hidrolizom etil-butanoata dobijaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etanol i butanska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "butanol i etanska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanol i butanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "etanol i butil-hlorid"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 182,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hidrolizom propil-acetata dobijaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aceton i 2-propanol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etanska kiselina i 1-propanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etanol i 1-propanol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "acetil-hlorid i 2-propanol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 183,
+    "kategorija": "Organska hemija",
+    "pitanje": "U reakciji ___ + PCl3 → CH3COCl + H3PO3 reaktant koji nedostaje je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CHO"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3COCH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2OH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3COOH"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 184,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja će reagovati sa natrijum-hidroksidom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etanol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "difenil"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "naftalen"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 185,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja pokazuje kisele osobine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenantren"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "furan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "formaldehid"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 186,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih reakcija adicija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C2H6 + Cl2 → C2H5Cl + HCl"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C2H4 + Cl2 → C2H4Cl2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C6H6 + Cl2 → C6H5Cl + HCl"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3OH + HCl → CH3Cl + H2O"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 187,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih reakcija supstitucija:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C2H4 + H2O → C2H5OH"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CHO + H2 → CH3CH2OH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CHO + HCN → CH3CH(OH)CN"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3COCl + NH3 → CH3CONH2 + HCl"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 188,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja će reagovati sa gasovitim hlorovodonikom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oktan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "eten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "butan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 189,
+    "kategorija": "Organska hemija",
+    "pitanje": "Opšta formula tiola je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "R-S-R"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "R-S-H"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "R-S-S-R"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "R-SO-R"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 190,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom blagih oksidacionih sredstava na tiole dobijaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sulfoksidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tioetri"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "disulfidi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sulfonske kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 191,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom jakih oksidacionih sredstava na tiole dobijaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sulfoksidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tioetri"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "disulfidi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sulfonske kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 192,
+    "kategorija": "Organska hemija",
+    "pitanje": "Procenat kiseonika u benzen-sulfonskoj kiselini je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "22,5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "12,7"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "30,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "36,8"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 193,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja nitrat:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2O-NO2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH2O-NO"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2NO2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CONH2"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 194,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje je od navedenih jedinjenja nitro-jedinjenje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3CH2O-NO2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3CH2O-NO"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3CH2NO2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH3CH2CONH2"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 195,
+    "kategorija": "Organska hemija",
+    "pitanje": "Trinitrotoluen je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "estar"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nitro-jedinjenje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amid"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 196,
+    "kategorija": "Organska hemija",
+    "pitanje": "Pikrinska kiselina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,4,6-trinitrobenzoeva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,4,6-trinitro-fenol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "orto-hidroksi-benzoeva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "butan-dikiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 197,
+    "kategorija": "Organska hemija",
+    "pitanje": "Procenat kiseonika u pikrinskoj kiselini je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "31,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "34,8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "42,8"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "48,9"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 198,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima strukturnih izomera amina sa molekulskom formulom C3H9N:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 199,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima primarnih amina sa molekulskom formulom C3H9N:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 200,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima primarnih amina sa molekulskom formulom C4H11N:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 201,
+    "kategorija": "Organska hemija",
+    "pitanje": "2-metil-2-propanamin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarni amin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarni amin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tercijarni amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 202,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima sekundarnih amina sa molekulskom formulom C4H11N:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 203,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima izomernih aromatičnih amina sa molekulskom formulom C7H9N:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 204,
+    "kategorija": "Organska hemija",
+    "pitanje": "Proizvod reakcije etil-amina i hlorovodonične kiseline je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "etil-amonijum-hlorid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etil-hlorid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dietil-amin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "reakcija je nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 205,
+    "kategorija": "Organska hemija",
+    "pitanje": "Proizvod reakcije etil-amina i natrijum-hidroksida je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metil-alkohol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etanol-amin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dietil-amin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "reakcija je nemoguća"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 206,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ima najviše izražene bazne osobine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "acetamid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "etil-amin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anilin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "metil-amonijum-hlorid"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 207,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ima najmanje izražene bazne osobine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "benzen-amin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metil-amin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dimetil-amin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "etil-amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 208,
+    "kategorija": "Organska hemija",
+    "pitanje": "Anilin se može dobiti:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "redukcijom benzoeve kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "redukcijom benz-amida"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "redukcijom nitro-benzena"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "redukcijom nitro-toluena"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 209,
+    "kategorija": "Organska hemija",
+    "pitanje": "Reakcijom metil-amina sa vodom dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH3-NH-CH3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3OH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH3+NH3OH-"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "H3N+CH2COO-"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 210,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama odgovarajućeg amina da bi se u reakciji sa nitritnom kiselinom dobilo 0,2 mola N-nitrozo-dimetil-amina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "12,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "11,8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "9,0"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6,2"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 211,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se dobija grama odgovarajućeg N-nitrozo-amina u reakciji 0,3 mola N-metil-anilina sa odgovarajućom količinom nitritne kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "41,2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "36,9"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "36,6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "40,8"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 212,
+    "kategorija": "Organska hemija",
+    "pitanje": "Diazonijum soli se dobijaju u reakciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarnih aromatičnih amina i nitritne kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarnih aromatičnih amina i nitritne kiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tercijarnih aromatičnih amina i nitritne kiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kvaternernih amonijum soli i nitritne kiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 213,
+    "kategorija": "Organska hemija",
+    "pitanje": "Formula holina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "HOCH2N+(CH3)3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "HOOCCH2N+(CH3)3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "HOCH2CH2N+(CH3)3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "HOCH2N+(CH2CH3)3"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 214,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ne pripada datom nizu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "furan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "piridin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tiofen"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pirol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 215,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ne pripada datom nizu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tiazol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oksazol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pirol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "imidazol"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 216,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ne pripada datom nizu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pirimidin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "indol"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "purin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hinolin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 217,
+    "kategorija": "Organska hemija",
+    "pitanje": "Potpunom katalitičkom hidrogenizacijom pirola dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "piran"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pirolidin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "piperidin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pirimidin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 218,
+    "kategorija": "Organska hemija",
+    "pitanje": "Potpunom katalitičkom hidrogenizacijom piridina dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pirimidin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pirolidin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pirol"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "piperidin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 219,
+    "kategorija": "Organska hemija",
+    "pitanje": "Zajednička osobina furana, pirola i tiofena je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "baznost"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kiselost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aromatičnost"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "neutralnost"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 220,
+    "kategorija": "Organska hemija",
+    "pitanje": "Aromatičnost furana, pirola i tiofena raste redosledom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tiofen < pirol < furan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "furan < pirol < tiofen"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pirol < tiofen < furan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "furan < tiofen < pirol"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 221,
+    "kategorija": "Organska hemija",
+    "pitanje": "Na povišenoj temperaturi sa kalijum-hidroksidom može da reaguje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pirol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "furan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "piridin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "piperidin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 222,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja pokazuje bazne osobine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pirol"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "piridin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "furan"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "benzen"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 223,
+    "kategorija": "Organska hemija",
+    "pitanje": "U sastav porfina ulaze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4 piridinska prstena"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2 piridinska prstena"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4 pirolska prstena"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2 pirolska prstena"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 224,
+    "kategorija": "Organska hemija",
+    "pitanje": "U sastav nikotina ulaze dva prstena. To su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "piridinski i tiofenski"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pirimidinski i furanski"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "piridinski i piperidinski"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "piridinski i pirolidinski"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 225,
+    "kategorija": "Organska hemija",
+    "pitanje": "Oksidacijom nikotina dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nikotinska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nikotinamid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "piridin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "piridoksal"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 226,
+    "kategorija": "Organska hemija",
+    "pitanje": "U sastav piridoksala ulazi:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "purinski prsten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "piridinski prsten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "furanski prsten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pirimidinski prsten"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 227,
+    "kategorija": "Organska hemija",
+    "pitanje": "Imidazolov prsten ulazi u sastav:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nikotina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "histidina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "piridoksala"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prolina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 228,
+    "kategorija": "Organska hemija",
+    "pitanje": "Prirodni penicilini sadrže u molekulu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hidrogenizovani tiazolov prsten"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hidrogenizovani piranov prsten"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hidrogenizovani tiofenov prsten"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hidrogenizovani imidazolov prsten"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 229,
+    "kategorija": "Organska hemija",
+    "pitanje": "2,6-dihidroksi-purin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adenin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ksantin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mokraćna kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 230,
+    "kategorija": "Organska hemija",
+    "pitanje": "2,6,8-trihidroksi-purin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adenin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ksantin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mokraćna kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 231,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih formula pripada indolu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C4H4N2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C8H7N"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C5H4N4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C9H9N2"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 232,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih formula pripada imidazolu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "C9H7N"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C4H4N2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C5H5N"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C3H4N2"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 233,
+    "kategorija": "Organska hemija",
+    "pitanje": "Procenat azota u pirolu je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "35"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "41,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "17,7"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "20,9"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 234,
+    "kategorija": "Organska hemija",
+    "pitanje": "Procenat azota u indolu je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "12"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "10,9"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "20,9"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "17,7"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 235,
+    "kategorija": "Organska hemija",
+    "pitanje": "U kom od navedenih nizova se nalaze samo aminokiseline sa aromatičnim bočnim nizovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenilalanin, tirozin, arginin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tirozin, fenilalanin, triptofan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fenilalanin, tirozin, lizin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "fenil-alanin, treonin, triptofan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 236,
+    "kategorija": "Organska hemija",
+    "pitanje": "U kom od navedenih nizova se nalaze samo nepolarne aminokiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alanin, lizin, izoleucin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valin, serin, izoleucin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "alanin, izoleucin, treonin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "leucin, valin, izoleucin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 237,
+    "kategorija": "Organska hemija",
+    "pitanje": "Valin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-γ-metil-valerijanska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "α-amino-β-hidroksi-propionska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α-amino-β-metil-buterna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-β-metil-valerijanska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 238,
+    "kategorija": "Organska hemija",
+    "pitanje": "Leucin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-γ-metil-valerijanska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "α-amino-β-hidroksi-propionska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α-amino-β-metil-buterna kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-β-metil-valerijanska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 239,
+    "kategorija": "Organska hemija",
+    "pitanje": "Serin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-β-hidroksi-buterna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "α-amino-β-hidroksi-propionska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α-amino-β-tiol-propionska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-γ-metiltio-buterna kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 240,
+    "kategorija": "Organska hemija",
+    "pitanje": "Cistein je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-β-hidroksi-buterna kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "α-amino-β-hidroksi-propionska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α-amino-β-tiol-propionska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-γ-metiltio-buterna kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 241,
+    "kategorija": "Organska hemija",
+    "pitanje": "Triptofan je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-β-4-imidazolil-propionska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-pirolidin-karbonska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4-hidroksi-2-pirolidin-karbonska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-β-3-indolil-propionska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 242,
+    "kategorija": "Organska hemija",
+    "pitanje": "Histidin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-amino-β-4-imidazolil-propionska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2-pirolidin-karbonska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4-hidroksi-2-pirolidin-karbonska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-amino-β-3-indolil-propionska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 243,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko azotovih atoma sadrži molekul histidina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 244,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko azotovih atoma sadrži molekul arginina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 245,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko azotovih atoma sadrži molekul triptofana:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 246,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih aminokiselina u rastvoru daje kiselu reakciju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "glutaminska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "leucin"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 247,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih aminokiselina u rastvoru daje baznu reakciju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leucin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metionin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "glicin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "lizin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 248,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih reakcija nije tačna (zanemariti koeficijente):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "+NH3-CH(R)COO- + OH- → NH2-CH(R)COO-"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "+NH3-CH(R)COO- + H+ → NH2-CH(R)COOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "NH2-CH(R)COO- + H+ → +NH3-CH(R)COOH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "+NH3-CH(R)COOH + OH- → NH2-CH(R)COO-"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 249,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja je od navedenih reakcija tačna (zanemariti koeficijente):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "+NH3-CH(R)COOH + OH- → NH2-CH(R)COOH"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "NH2-CH(R)COO- + H+ → NH2-CH(R)COOH"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "+NH3-CH(R)COO- + OH- → NH2-CH(R)COOH"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "NH2-CH(R)COO- + H+ → +NH3-CH(R)COOH"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 250,
+    "kategorija": "Organska hemija",
+    "pitanje": "Biuretska reakcija je karakteristična za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dipeptid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tripeptid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α-aminokiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primarne amine"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 251,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja oslobađa azot u reakciji sa nitritnom kiselinom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-aminokiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "anilin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sekundarni amin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tercijarni amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 252,
+    "kategorija": "Organska hemija",
+    "pitanje": "Edmanova reakcija je karakteristična za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nitro-jedinjenja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nitrile"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "α-aminokiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 253,
+    "kategorija": "Organska hemija",
+    "pitanje": "Sangerova reakcija je karakteristična za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α-aminokiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nitro-jedinjenja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nitrile"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 254,
+    "kategorija": "Organska hemija",
+    "pitanje": "Ksantoproteinska reakcija je karakteristična za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bazne aminokiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kisele aminokiseline"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aromatične aminokiseline"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "neutralne aminokiseline"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 255,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se dobija grama odgovarajućeg proizvoda dekarboksilacijom 0,2 mola histidina:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "28,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "22,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "14,2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "11,1"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 256,
+    "kategorija": "Organska hemija",
+    "pitanje": "Sa solima teških metala (Ag+, Hg2+) može da reaguje bočni niz:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cisteina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "serina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "valina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "glicina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 257,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dipeptid čija je formula CH3CH(NH2)-CONH-CH2COOH naziva se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glicil-alanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alanil-glicin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "valil-glicin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "glicil-valin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 258,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dipeptid čija je formula C6H5CH2CH(NH2)-CONH-CH(CH3)COOH naziva se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenilalanil-alanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alanil-fenilalanin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "tirozil-alanin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "alanil-tirozin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 259,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dipeptid čija je formula CH3CH(CH3)CH(NH2)-CONH-CH(CH2OH)COOH naziva se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "seril-leucin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "leucil-serin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "seril-valin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "valil-serin"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 260,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koja od navedenih jedinjenja ne spadaju u proteine:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "lecitini"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "enzimi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hormoni"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "antitela"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 261,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-arabinoza je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ketoheksoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ketopentoza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "aldopentoza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aldoheksoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 262,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-ksiloza je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aldopentoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldoheksoza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ketopentoza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ketoheksoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 263,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-riboluza je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aldopentoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldoheksoza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ketopentoza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ketoheksoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 264,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-ksiluloza je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "aldopentoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "aldoheksoza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ketoheksoza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ketopentoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 265,
+    "kategorija": "Organska hemija",
+    "pitanje": "Anomerne aldoheksoze se razlikuju po:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "reakciji sa Felingovim reagensom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "reakciji sa fenil-hidrazinom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konfiguraciji na C1-atomu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "konfiguraciji na C2-atomu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 266,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se dobija grama odgovarajućeg proizvoda zagrevanjem 0,4 mola glukoze sa koncentrovanom hlorovodoničnom kiselinom:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "17,6"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "27,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "38,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "50,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 267,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-arabinoza i L-arabinoza su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "anomeri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C2-epimeri"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C4-epimeri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "enantiomeri"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 268,
+    "kategorija": "Organska hemija",
+    "pitanje": "D-glukoza i D-galaktoza su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "anomeri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C2-epimeri"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C4-epimeri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "enantiomeri"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 269,
+    "kategorija": "Organska hemija",
+    "pitanje": "α-D-arabinopiranoza i β-D-arabinopiranoza su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "anomeri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "C2-epimeri"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "C4-epimeri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "enantiomeri"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 270,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima hiralnih C-atoma poluacetalni oblik glukoze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 271,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima hiralnih C-atoma poluacetalni oblik fruktoze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 272,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko ima hiralnih C-atoma poluacetalni oblik dezoksiriboze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 273,
+    "kategorija": "Organska hemija",
+    "pitanje": "Dejstvom razblaženih alkalija na D-glukozu dobija se smesa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "D-glukoze, D-galaktoze i D-fruktoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "D-glukoze, D-fruktoze i D-manoze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "D-glukoze, D-galaktoze i D-manoze"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "D-fruktoze, D-manoze i D-galaktoze"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 274,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koje od navedenih jedinjenja ne redukuje Felingov reagens:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "saharoza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "maltoza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "laktoza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "D-glukoza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 275,
+    "kategorija": "Organska hemija",
+    "pitanje": "U maltozi su molekuli glukoze međusobno vezani glikozidnom vezom tipa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α(1-6)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "β(1-6)"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α(1-4)"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "β(1-4)"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 276,
+    "kategorija": "Organska hemija",
+    "pitanje": "U laktozi su molekuli monosaharida međusobno vezani glikozidnom vezom tipa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "α(1-6)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "β(1-6)"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "α(1-4)"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "β(1-4)"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 277,
+    "kategorija": "Organska hemija",
+    "pitanje": "Invertni šećer je smesa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glukoze i manoze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glukoze i fruktoze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amiloze i fruktoze"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "manoze i glukoze"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 278,
+    "kategorija": "Organska hemija",
+    "pitanje": "Mlečni šećer je drugo ime za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "laktozu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "amilozu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "maltozu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "saharozu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 279,
+    "kategorija": "Organska hemija",
+    "pitanje": "Saharoza je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "polisaharid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "monosaharid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mlečni šećer"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "disaharid"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 280,
+    "kategorija": "Organska hemija",
+    "pitanje": "Glukoza se dokazuje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ksantoproteinskom reakcijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Sangerovim reagensom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Felingovim reagensom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biuretskom reakcijom"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 281,
+    "kategorija": "Organska hemija",
+    "pitanje": "Disaharidi nastaju iz monosaharida građenjem:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glikozidne veze uz izdvajanje vodonika"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estarske veze uz izdvajanje vode"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "glikozidne veze uz izdvajanje vode"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "poluacetalne veze uz izdvajanje vode"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 282,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko se grama etanola dobija pri oslobađanju 22,4 litra ugljen-dioksida (normalni uslovi) u procesu alkoholnog vrenja glukoze:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "118"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "46"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "92"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 283,
+    "kategorija": "Organska hemija",
+    "pitanje": "Molekulska masa palmitinske razlikuje se od molekulske mase stearinske kiseline za:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "14"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "28"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "42"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "56"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 284,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je molekula vodonika moguće adirati na jedan molekul linolne kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 285,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je molekula joda moguće adirati na jedan molekul oleinske kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 286,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je molekula joda moguće adirati na jedan molekul linoleinske kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 287,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hidrogenizacijom oleinske kiseline dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "linoleinska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "linolna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "palmitinska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "stearinska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 288,
+    "kategorija": "Organska hemija",
+    "pitanje": "Hidrogenizacijom palmitoleinske kiseline dobija se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oleinska kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "palmitinska kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "linoleinska kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "stearinska kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 289,
+    "kategorija": "Organska hemija",
+    "pitanje": "Neutralne masti su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "anhidridi viših masnih kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "soli viših masnih kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "etri viših masnih kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "estri viših masnih kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 290,
+    "kategorija": "Organska hemija",
+    "pitanje": "Sapuni su po hemijskom sastavu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "soli viših masnih kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "estri viših masnih kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "halogenidi viših masnih kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "triacilgliceroli"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 291,
+    "kategorija": "Organska hemija",
+    "pitanje": "Alkalnom hidrolizom neutralnih masti dobijaju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glicerol i više masne kiseline"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glicerol i voskovi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "glicerol i sapuni"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sapuni i voskovi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 292,
+    "kategorija": "Organska hemija",
+    "pitanje": "Koliko je potrebno grama broma za potpuno zasićenje 0,04 mola linoleinske kiseline:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "6,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "12,8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "19,2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "25,6"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 293,
+    "kategorija": "Organska hemija",
+    "pitanje": "6-amino-purin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "adenin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "timin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 294,
+    "kategorija": "Organska hemija",
+    "pitanje": "2-amino-6-okso-purin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "adenin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "timin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 295,
+    "kategorija": "Organska hemija",
+    "pitanje": "2-okso-4-amino-pirimidin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "timin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uracil"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 296,
+    "kategorija": "Organska hemija",
+    "pitanje": "2,4-diokso-pirimidin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "timin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uracil"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 297,
+    "kategorija": "Organska hemija",
+    "pitanje": "2,4-diokso-5-metilpirimidin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "guanin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "timin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "uracil"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 298,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adenozin je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleozid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleotid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "azotna baza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 299,
+    "kategorija": "Organska hemija",
+    "pitanje": "Adenilna kiselina je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nukleozid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nukleotid"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "azotna baza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "aromatični amin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 300,
+    "kategorija": "Organska hemija",
+    "pitanje": "U DNK vodonične veze se grade po parovima azotnih baza. Ti parovi su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adenin i guanin, timin i citozin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "adenin i citozin, timin i guanin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "adenin i timin, guanin i citozin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "adenin i guanin, citozin i uracil"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  }
+]

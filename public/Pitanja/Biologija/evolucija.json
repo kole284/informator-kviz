@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "polimerizacija monomera na prvobitnoj Zemlji mogla se obavljati samo u litosferi."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polimerizacija se obavljala u litosferi i hidrosferi."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u ranim periodima evolucije, polimerizacija se odvijala uz pomoc neorganskih katalizatora, koji su jedini bili prisutni."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve tvrdnje su tacne."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "tvrdnje pod A i C nisu tacne."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Evolucija",
+    "pitanje": "Proces fotosinteze omogucio je da se poveca kolicina slobodnog kiseonika sto je bilo veoma znacajno za (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stvaranje ozonskog omotaca kao zastitnog sloja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "procese celijskog disanja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "efikasnije iskoriScavanje energije deponovane u organskim molekulima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve gore navedene tvrdnje su tacne."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "tvrdnje pod i nisu tacne."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Evolucija",
+    "pitanje": "Koji je od navedenih oblika selekcije verovatno najcesci u prirodi (okruzite konstataciju):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stabilizaciona selekcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "progresivna selekcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "balansna selekcija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "hibridizaciona selekcija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "vestacka selekcija"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "svi oblici selekcije zastupljeni su sa istom ucestalošcu."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Evolucija",
+    "pitanje": "U sistemu A B C D E F okruzite slovo pod kojim je navedeno objasnjenje odgovarajuceg pojma:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "a) B, b) D, c) C, d) A, e) F, f) C"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po misljenju E. Hekela visecelijski organizmi su postali od kolonija protozoa."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po misljenju J. Hadzija visecelijski organizmi su postali od visejedinih protozoa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedan od prvih visecelijiskih oblika mogao je da bude slican savremenim pljosnatim crvima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "po misljenju J. Hadzija visecelijski organizmi su postali od sincicijalnih protozoa"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve recenice su tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "recenice pod B i C su tacne"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Evolucija",
+    "pitanje": "Migracije (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mogu izmeniti geneticki sastav populacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "menjaju strukturu populacije, a promene zavise iskljucivo od broja jedinki koje migriraju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "geneticki slicnih jedinki ne uticu znatno na promenu strukture populacije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "doprinose odrzavanju konstantne geneticke strukture populacije"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ne uticu bitno na promenu geneticke strukture prirodne populacije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Evolucija",
+    "pitanje": "Pod genetickim opterecenjem populacije podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ukupan broj mutacija koje nose jedinke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "homozigotnost recesivnih mutiranih alela, ciji nosioci imaju veliku adaptivnu vrednost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svako smanjenje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svako povecanje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Evolucija",
+    "pitanje": "Pod alopatrickom specijacijom podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veoma brz proces nastajanja novih vrsta, uz presudan uticaj migracije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nastajanje novih vrsta unutar populacije koja naseljava jedno staniste, gde presudnu ulogu ima komensalizam"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "specijacija koja nastaje zbog povecane panmiksije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nastajanje novih vrsta procesom divergencije medyusobno udaljenih ili ekoloski izolovanih populacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Evolucija",
+    "pitanje": "Pod alopatrickom specijacijom podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veoma brz proces nastajanja novih vrsta, uz presudan uticaj migracije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nastajanje novih vrsta unutar populacije koja naseljava jedno staniste, gde presudnu ulogu ima kompeticija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "specijacija koja nastaje zbog povecane panmiksije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nastajanje novih vrsta procesom divergencije medusobno udaljenih ili ekoloski izolovanih populacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Evolucija",
+    "pitanje": "U sistemu A B C D okruzite slovo pod kojim je navedeno objasnjenje datog pojma:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "kompeticija - a), kooperacija - d), predatorstvo - b), parazitizam - c)"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Evolucija",
+    "pitanje": "zivotna forma je skup adaptivnih karakteristika jedne organske usaglasenih sa konkretnim uslovima sredine",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "4, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 2, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 3, 5"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "E"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Evolucija",
+    "pitanje": "balansna selekcija moze odredjene retke fenotipove da favorizuje u smislu povecane reprodukcije ili ih eliminise zavisno od njihove zastupljenosti u populaciji",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "4, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 3, 5"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Evolucija",
+    "pitanje": "autotrofi su bili evolutivno sposobniji i potisnuli su heterotrofe",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "4, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "2, 4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 3, 5"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Evolucija",
+    "pitanje": "heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "4, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "2, 5"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Evolucija",
+    "pitanje": "heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 5, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "4, 5, 6"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "1, 4, 5"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 2, 5"
+      },
+      {
+        "oznaka": "F",
+        "tekst": "1, 3, 4"
+      }
+    ],
+    "tacan_odgovor": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Evolucija",
+    "pitanje": "Redosled dejstva mehanizama evolucije je (zaokruzite slovo pod kojim se nalazi tacan odgovor):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "naslednost, varijabilnost, selekcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prirodno odabiranje, selekcija, naslednost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "varijabilnost, selekcija i naslednost"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "selekcija, adaptacija i varijabilnost"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "promenljivost, naslednost i prirodno odabiranje"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Evolucija",
+    "pitanje": "analogni organi su krila ptica i prednji udovi coveka",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "A",
+        "tekst": "1, 4, 6"
+      },
+      {
+        "oznaka": "C",
+        "tekst": "1, 3, 7"
+      },
+      {
+        "oznaka": "E",
+        "tekst": "1, 3, 7"
+      },
+      {
+        "oznaka": "B",
+        "tekst": "3, 4, 6"
+      },
+      {
+        "oznaka": "D",
+        "tekst": "1, 3, 6"
+      }
+    ],
+    "tacan_odgovor": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Evolucija",
+    "pitanje": "U sistemu A B C D okruzite slovo pod kojim je navedena tacna definicija pojma:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "a) C, b) A, c) D, d) B"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "filogenija je nauka o evolutivnom nastanku i razvitku grupa organizama zlicitog ranga."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "filogenija je nauka o razvicu tokom embriogeneze."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ontogenija je nauka o razvicu jedne organele, celije, tkiva, organa ili organizama u celini."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ontogenija je nauka o evolutivnom nastanku i razvitku grupa rganizama zlicitog ranga."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nijedna recenica nije tacna."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po Hekelu: \"Ontogenija jedinke je fileticka rekapitulacija roda\""
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po Hekelu: \"Ontogenija jedinke je fileticka rekapitulacija vrste\""
+      },
+      {
+        "oznaka": "c",
+        "tekst": "po Hekelu: \"Ontogenija jedinke je fileticka rekapitulacija familije\""
+      },
+      {
+        "oznaka": "d",
+        "tekst": "po Hekelu: \"Ontogenija jedinke je fileticka rekapitulacija klase\""
+      },
+      {
+        "oznaka": "e",
+        "tekst": "po Hekelu: \"Ontogenija jedinke je fileticka rekapitulacija reda\""
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po Hekelu visecelijski organizmi (Metazoa) vode poreklo od bicara (Flagellata) slicnih koloniji Volvox-a"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po Hekelu visecelijski organizmi (Metazoa) vode poreklo od jednocelijskih predackih formi, slicnih danasnjim trepljastim prazivoinjama (Ciliata)"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "po Hekelu visecelijski organizmi (Metazoa) vode poreklo od predackih formi slicnih danasnjim prostim parenhimaticnim trepljastim crvima (Turbelaria)."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite tacnu recenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po Hadziju visecelijski organizmi (Metazoa) vode poreklo od bicara (Flagellata) slicnih koloniji Volvox-a."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po Hadziju visecelijski organizmi (Metazoa) vode poreklo od jednocelijskih predackih formi, slicnih danasnjim trepljastim prazivoinjama (Ciliata), od kojih su se najpre razvile Metazoa slicne primitivnim pljosnatim crvima (Turbelaria)."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "po Hadziju visecelijski organizmi (Metazoa) vode poreklo od predackih formi slicnih danasnjim prostim parenhimaticnim trepljastim crvima (Trematodes)."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Hekelova teorija porekla visecelijiskih organizama (Metazoa) jos se zove Turbelarijska teorija."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Hekelova teorija porekla visecelijiskih organizama (Metazoa) jos se zove Sincincijalna teorija."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Hekelova teorija porekla visecelijiskih organizama (Metazoa) jos se zove Kolonijalisticka teorija."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Hadzijeva teorija porekla visecelijiskih organizama (Metazoa) jos se zove Turbelarijska teorija."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Hadzijeva teorija porekla visecelijiskih organizama (Metazoa) jos se zove Kolonijalisticka teorija."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Hadzijeva teorija porekla visecelijiskih organizama (Metazoa) jos se zove Sincincijalna teorija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Hekelova teorija porekla visecelijiskih organizama (Metazoa) jos se zove Turbelarijska teorija."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Hadzijeva teorija porekla visecelijiskih organizama (Metazoa) jos se zove Kolonijalisticka teorija."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Hekelova teorija porekla visecelijiskih organizama (Metazoa) jos se zove Sincincijalna teorija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "evolucija je nauka o istorijskom nastanku i razvoju zivih bica."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "evolucija je nauka o istorijskom razvoju iskljucivo celija."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "evolucija je nauka o istorijskom razvoju samo tkiva i organa kod coveka."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Lamarkova tvrdnja da se stecene osobine nasledjuju je tacna."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Lamarkova tvrdnja da se stecene osobine nasledjuju je netacna."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Darvinova tvrdnja da se stecene osobine nasledjuju je tacna."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Darvinova tvrdnja da se stecene osobine nasledjuju je netacna."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Darvin tvrdi da su organske vrste rezultat neposrednog i iskljucivog delovanja faktora sredine."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Lamark tvrdi da su organske vrste rezultat neposrednog i iskljucivog delovanja faktora unutrasnje sredine."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Lamark tvrdi da su organske vrste rezultat neposrednog i iskljucivog delovanja faktora sredine."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Darvin tvrdi da su organske vrste rezultat neposrednog i iskljucivog delovanja nasledne osnove."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Darvin tvrdi da je borba za opstanak najostrija medju razlicitim jedinkama bas zbog tih velikih razlika."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Darvin tvrdi da je borba za opstanak najostrija medju slicnim jedinkama, jer one imaju najslicnije zivotne potrebe."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Lamark tvrdi da je borba za opstanak najostrija medju razlicitim jedinkama bas zbog tih velikih razlika."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Lamark tvrdi da je borba za opstanak najostrija medju slicnim jedinkama, jer one imaju najslicnije zivotne potrebe."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po Darvinu vise sansi za prezivljavanje imaju one jedinke ili grupe jedinki koje se u pogledu svojih potreba najvise razlikuju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po Lamarku vise sansi za prezivljavanje imaju one jedinke ili grupe jedinki koje se u pogledu svojih potreba najmanje razlikuju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "po Darvinu vise sansi za prezivljavanje imaju one jedinke ili grupe jedinki koje se u pogledu svojih potreba najmanje razlikuju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "po Lamarku vise sansi za prezivljavanje imaju one jedinke ili grupe jedinki koje se u pogledu svojih potreba najvise razlikuju."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Lamark u evoluciji organski vrsta glavnu ulogu pridaje borbi za opstanak."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Darvin u evoluciji organskih vrsta veliki znacaj pridaje borbi za opstanak."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Lamark u evoluciji organski vrsta glavnu ulogu pridaje borbi za opstanak i prirodnoj selekciji."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Darvin u evoluciji organskih vrsta veliki znacaj pridaje faktorima zivotnog okruzenja."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "po Darvinu opstaju bolje prilagodjena, a bivaju eliminisana slabije prilagodjena ziva bica."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po Lamarku opstaju bolje prilagodjena, a bivaju eliminisana slabije prilagodjena ziva bica."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "po Hekelu opstaju bolje prilagodjena, a bivaju eliminisana slabije prilagodjena ziva bica."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "po Hadziju opstaju bolje prilagodjena, a bivaju eliminisana slabije prilagodjena ziva bica."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Evolucija",
+    "pitanje": "Dokazi evolucione teorije mogu biti (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "paleolontoloski, komparativno anatomski, ortografski, biogeografski, biohemijsko-fizioloski, sistematsko-taksonomski i biotehnoloski."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "paleolontoloski, komparativno antopoloski, ontogenetski, biogeografski, biohemijsko-fizioloski, sistematsko-taksonomski i biotehnoloski."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "paleolontoloski, komparativno anatomski, ontogenetski, biogeografski, biohemijsko-fizioloski, sistematsko-taksonomski i biotehnoloski."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "paleolontoloski, komparativno anatomski, ontogenetski, biofizicki, biohemijsko-fizioloski, sistematsko-antropoloski i biotehnoloski."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve su recenice tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Evolucija",
+    "pitanje": "Paleontoloski dokazi teorije evolucije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fosilni ostaci recentnih vrsta zivih bica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fosilni ostaci izumrlih vrsta zivih bica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe tvrdnje su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna tvrdnja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite tacan odgovor:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fosilni ostaci jurskih zivotinja (Archeopterix i Archeornis) predstavljaju prelazne oblike izmedju gmizavaca i vodozemaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fosilni ostaci jurskih zivotinja (Archeopterix i Archeornis) predstavljaju prelazne oblike izmedju gmizavaca i ptica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "fosilni ostaci jurskih zivotinja (Archeopterix i Archeornix) predstavljaju prelazne oblike izmedju gmizavaca i sisara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "fosilni ostaci jurskih zivotinja (Archeopterix i Archeornix) predstavljaju prelazne oblike izmedju predstavnika dve potklase ptica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "\"pluca\" puzeva plucasa i paukova su homologi organi plucima ptica i sisara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "\"pluca\" puzeva plucasa i paukova su konvergentni organi plucima ptica i sisara."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "\"pluca\" puzeva plucasa i paukova su analogni organi plucima ptica i sisara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "\"pluca\" puzeva plucasa i paukova su istog porekla kao i pluca ptica i sisara"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "skrge skoljki i rakova su istog porekla kao i skrge riba i primitivnih vodozemaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "skrge skoljki i rakova su homologi organi skrgama kod riba i primitivnih vodozemaca."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "skrge skoljki i rakova su divergentni organi skrgama kod riba i primitivnih vodozemaca."
+      },
+      {
+        "oznaka": "d",
+        "tekst": "skrge skoljki i rakova su analogni organi skrgama kod riba i primitivnih vodozemaca."
+      },
+      {
+        "oznaka": "e",
+        "tekst": "skrge skoljki i rakova su konvergentni organi skrgama kod riba i primitivnih vodozemaca."
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nije tacna nijedna recenica."
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "krila slepog misa i prednji ekstremiteti konja su konvergentni organi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krila slepog misa i prednji ekstremiteti konja su homologni organi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "krila slepog misa i prednji ekstremiteti konja su analogni organi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krila slepog misa i prednji ekstremiteti konja su razlicitoh porekla i funkcije"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "atavizam je slicnost u gradji filogenetski udaljenih organizama koji zive pod slicnim ekoloskim uslovima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "grudna \"peraja\" kitova i riba su konvergentni organi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "grudna \"peraja\" kitova i riba su divergentni organi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "grudna \"peraja\" kitova i riba su analogni organi"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "atavizam je pojava predackih organa i karakteristika tokom embriogeneze nekih evolutivno visih organizama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "atavizam je slicnost u gradji filogenetski udaljenih organizama koji zive pod slicnim ekoloskim uslovima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pojava perajolikih ekstremiteta kod delfina je atavizam"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojava perajolikih ekstremiteta kod delfina je posledica konvergencije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "atavizam je pojava predackih organa i karakteristika tokom embriogeneze nekih evolutivno visih organizama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "konvergencija je slicnost u gradji filogenetski udaljenih organizama koji zive pod slicnim ekoloskim uslovima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "divergencija je postanak dve nove organske vrste od jedne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "homologi organi su istog porekla i polozaja na telu, a razlicite funkcije"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve recenice su tacne"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "sve recenice nisu tacne"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pojava perajolikih ekstremiteta kod kitova je atavizam"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojava perajolikih ekstremiteta kod kitova je posledica konvergencije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pojava repa kod embriona coveka tokom embriogeneze je posledica konvergencije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojava repa kod embriona coveka tokom embriogeneze je posledica atavizma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pojava skrga kod punoglavca zabe je posledica konvergencije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojava skrga kod punoglavca zabe je posledica atavizma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prema Turbelarijskoj teoriji kicmenjaci su evoluirali kao neotenichni tunikati"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prema Sincicijelnoj teoriji kicmenjaci su evoluirali kao neotenichni tunikati"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prema Tunikatnoj teoriji kicmenjaci su evoluirali kao neotenichni tunikati"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "prema Kolonijalistickoj teoriji kicmenjaci su evoluirali kao neotenichni tunikati"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primer regresivne evolucije su plastasi koji na odraslom stupnju gube mnoge odlike hordata, koje se javljaju tokom njihove embriogeneze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "primer regresivne evolucije su gmizavci koji na odraslom stupnju gube mnoge odlike hordata, koje se javljaju tokom njihove embriogeneze"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primer regresivne evolucije su bodljokozci koji na odraslom stupnju gube mnoge odlike hordata, koje se javljaju tokom njihove embriogeneze"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "primer regresivne evolucije su bezrepi vodozemci koji na odraslom stupnju gube mnoge odlike hordata, koje se javljaju tokom njihove embriogeneze"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Evolucija",
+    "pitanje": "Osnovni faktori evolucije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mutacije, migracije, geneticka slucajnost i inbriding"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mutacije, migracije, geneticka slucajnost i selekcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dugotrajno delovanje selekcije kroz vise generacija jedinki moze dovesti do izmene u strukturi populacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dugotrajno delovanje selekcije kroz vise generacija jedinki ne mora dovesti do izmene u strukturi populacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "obe recenice su tacne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "selekcija favorizuje individue cije kombinacije gena (genskih alel omogucuju razvice odgovarajucih adaptivnih osobina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "selekcija favorizuje individue cije kombinacije gena (genskih alel ne omogucuju razvice odgovarajucih adaptivnih osobina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "selekcija favorizuje individue cije kombinacije gena (genskih alel omogucuju razvice odgovarajucih neadaptivnih osobina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Evolucija",
+    "pitanje": "Tipovi divergentne specijacije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "alopatricka, sinpatricka, parapatricka i specijacija poliploidijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "alopatricka, sinpatricka, parapatricka i specijacija aneuploidijom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "alopatricka, sinpatricka, fileticka i specijacija poliploidijom"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nije tacna nijedna recenica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Evolucija",
+    "pitanje": "Osnovni nedostatak Lamarkovog ucenja je bio (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sto je smatrao da se evolutivne promene desavaju naglo"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sto je tvrdio da su nastale promene nasledne"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sto je tvrdio da promene nastaju zbog stalne upotrebe nekog organa i potrebe da se ti organi razviju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sto je smatrao da se promene desavaju pod delovanjem unutrasnjih cinilica"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Evolucija",
+    "pitanje": "Zasto po Darvinu dolazi do selekcije (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zbog sposobnosti organizama da daju veliki broj potomaka usled cega dolazi do prenaseljenosti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zbog velike raznolikosti nastale modifikacijama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zbog razlicite prilagodjenosti organizma na date uslove sredine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "iz svih navedenih razloga"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "iz razloga navedenih pod a i c"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Evolucija",
+    "pitanje": "Pojava bolesti talasemije je najbolji primer (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "heterotichnog balansa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "seksualnog balansa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekoloskog balansa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sezonskog balansa"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Evolucija",
+    "pitanje": "Od dve grupe muzjaka nejednake brojnosti zenke ce odabrati (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "najkrupnije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "onih kojih ima vise"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "one malobrojne"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "one na koje prvo naidu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Evolucija",
+    "pitanje": "Najprimitivniji oblici religije (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "uoceni su tek pojavom Homo sapiensa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "javljaju se pojavom covecijeg pretka H. erektus-a"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uoceni su kod neandertalca kroz obrede sahranjivanja mrtvih"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan navod nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Evolucija",
+    "pitanje": "Geneticka raznovrsnost danasnih populacija ljudi (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "manja je unutar populacija odredjenih rasa nego izmedju rasa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veca je unutar populacije nego izmedju rasa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "medyurasne razlike iznose samo 10% od ukupne geneticke raznovrsnosti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tacni su odgovori b i c"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Evolucija",
+    "pitanje": "Za koju se od navedenih vrsta Hominida smatra da je u direktnoj liniji covecijeg porekla (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Australopitekus africanus"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "A. robustus"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "A. afarensis"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve navedene vrste"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Evolucija",
+    "pitanje": "Medyusobna slicnost jedinki jedne vrste ogleda se u (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "naseljavanju istih predela u granicama svog rasprostranjenja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "medjusobnom ukrstanju i davanju plodnog potomstva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "u specificnom koriscenju odredjenih uslova sredine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "u svim navedenim funkcijama"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "u funkcijama pod b i c"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Evolucija",
+    "pitanje": "Ukrstanje jedinki sestrinskih vrsta (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "daju malobrojno ali normalno potomstvo"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "najcesce daje neplodno potomstvo koje je u prirodi cesto"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "daje potomstvo koje ugine pre polne zrelosti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pri vestackom oplodnju daje brojno plodno potomstvo"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Evolucija",
+    "pitanje": "U sistemu A B C D oznacite slovo pod kojim je naveden naziv odredjene interakcije izmedju dve vrste:",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "a) D, b) A, c) B, d) C"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod \"dobrih vrsta\" alena indenticnost je 35%"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razlicite populacije iste vrste sadrze oko 97% identicnih alela"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod sestrinskih vrsta, alena identicnost je nesto iznad 50%"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve recenice su tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "recenice pod a i c su tacne"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Evolucija",
+    "pitanje": "Koja se od navedenih metoda koristi za ispitivanje geneticke slicnosti odnosno razlicitosti medyu organizmima (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "analiza stepena reproduktivne izolacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "morfoloske analize"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hibridizacije DNK"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ispitivanje aminokiselina odredjenih proteina"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve metode se koriste"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svaka visa sistemska kategorija pocinje evolutivni put kao jedna izvorna vrsta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razliciti organizmi sticu slicne karakteristike zbog konvergencije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "regresivne promene najcesce nastaju kod parazitskih oblika"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "recenice pod a i b su tacne"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "sve recenice su tacne"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Evolucija",
+    "pitanje": "Analize kostane srzi ljudi otkopanih iz grobnice Lepenskog vira utvrydjeno je da su skoro svi imali (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "A krvnu grupu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "B krvnu grupu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "AB krvnu grupu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "O krvnu grupu"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Evolucija",
+    "pitanje": "Koji od navedenih cinilaca mogu da povecaju geneticku raznovrsnost buducih humanih populacija (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "velike migracije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "upotreba razlicitih mutagena u svakodnevnom zivotu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "intervencije na bazi metoda genetickog inzenjeringa i molekularne biologije u prenatalnom periodu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "cinioci pod b i c"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "svi navedeni cinioci."
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Evolucija",
+    "pitanje": "Kromanjonac je ziveo pre (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "20 000 godina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "40 000 godina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "100 000 godina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "250 000 godina"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "1 000 000 godina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Evolucija",
+    "pitanje": "Oblik tela delfina i morskog psa je dosta slican mada prvi pripada klasi sisara a drugi klasi riba. Ovaj fenomen se naziva (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homologija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "korelativnost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "analogija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "atavizam"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Evolucija",
+    "pitanje": "Archaeornis i Archaeopteryx iz jure i Seymouria iz perma",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "3."
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Evolucija",
+    "pitanje": "Rod Eohippus iz eocena je predak danasnjeg (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "slona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "psa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "lisice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "konja"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1."
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Evolucija",
+    "pitanje": "tacni su odgovori pod 2 i 3",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "5."
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "3."
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Evolucija",
+    "pitanje": "kooperacija, predatorstvo, parazitizam, konkurencija, specijacija i selekcija",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "3."
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Evolucija",
+    "pitanje": "mutacija, selekcija, migracija i geneticka slucajnost",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "4."
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Evolucija",
+    "pitanje": "minimalni reproduktivni uspeh grupe jedinki odredjenog genotipa",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "2."
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Evolucija",
+    "pitanje": "tacni su samo odgovori pod 2 i 3",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "5."
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Evolucija",
+    "pitanje": "Zivot na Zemlji je postao pre oko (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,2 milijarde godina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,8 milijardi godina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,3 milijarde godina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "8,3 milijarde godina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Evolucija",
+    "pitanje": "Najstariji fosili na Zemlji su postali pre oko (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,2 milijarde godina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,8 milijardi godina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,3 milijarde godina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "8,3 milijarde godina"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Evolucija",
+    "pitanje": "Visecelijski organizmi na Zemlji je postali su pre oko (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,2 milijarde godina,"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,8 milijardi godina,"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,3 milijarde godina,"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,5 milijardu godina."
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "2."
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1."
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Evolucija",
+    "pitanje": "progresivna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti cim njihove populacije postanu reproduktivno izolovane",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1."
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Evolucija",
+    "pitanje": "geneticka slucajnost je vazan faktor evolucije jer se njenim delovanjem adaptivno usmeravaju promene nastale migracijama",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1."
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Evolucija",
+    "pitanje": "Najubedjiviji dokazi o zajednickom evolucionom poreklu svih organizama na Zemlji su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "biohemijski, anatomsko morfoloski, paleontolosi i ontogenetski"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "biohemijski, anatomsko morfoloski, paleontolosi i empirijski"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hemijski, anatomsko morfoloski, paleontolosi i empirijski"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "biohemijski, anatomsko morfoloski, paleontoloski i ontogenetski"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "2."
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "3."
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "2."
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Evolucija",
+    "pitanje": "nijedan odgovor nije tacan",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "1."
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Evolucija",
+    "pitanje": "svi odgovori su tacni",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "2."
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Evolucija",
+    "pitanje": "Dopunite sledecu recenicu:\nVodozemci vode poreklo od primitivnihsakoperki.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "primitivnih sakoperki"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Evolucija",
+    "pitanje": "Dopunite sledecu recenicu:\nPrvi tipicni vodozemci pojavili su se u devonu i od njih vode poreklo svi visi kicmenjaci, a zvali su se Stegocephala.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Stegocephala"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Evolucija",
+    "pitanje": "Dopunite sledecu recenicu:\nNajstariji oblici izumrlih Agnatha bili su stikonase (oklopyace).",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "stikonase (oklopyace)"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Evolucija",
+    "pitanje": "Dopunite sledecu recenicu:\nSisari su posebno doziveli vrhunsku ekspanziju u geoloskom periodu eocena i diyacena.",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "eocena i dioacena"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Evolucija",
+    "pitanje": "Primata vode poreklo od (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Teleostea"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "starih insektivora"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "starih Carnivora"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Stegocephala"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Evolucija",
+    "pitanje": "Pod genetickim opterecenjem podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ukupan broj mutacija koje nose jedinke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "homozigotnost recesivnih mutiranih alela"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svako povecanje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Evolucija",
+    "pitanje": "Pod alopatrickom specijacijom podrazumeva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veoma brz proces nastanka novih vrsta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "specijacija koje nastaje zbog povecanja panmiksije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nastajanje novih vrsta procesom divergencije medjusobno udaljenih ili ekoloski izolovanih populacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Evolucija",
+    "pitanje": "Kompeticija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "borba za slicne prostorne uslove, ishranu i nacin zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zajednicko ostvarenje uslova za zivot"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zivljenje na racun drugih organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Evolucija",
+    "pitanje": "Predatorstvo je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "borba za iste uslove ishrane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "koriscenje drugih organizama za ishranu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zajednicko ostvarenje uslova za zivot"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Evolucija",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Karl Line je tvorac binomne nomenklature."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mislioci i prirodnjaci u starom veku su smatrali da su sva ziva bica imaju zajednicko poreklo."
+      },
+      {
+        "oznaka": "c",
+        "tekst": "francunski materijalista Didro i nemacki filozof Kant su bili kreacionisti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan."
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  }
+]

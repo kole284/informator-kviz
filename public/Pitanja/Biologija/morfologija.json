@@ -1,0 +1,2601 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Morfologija",
+    "pitanje": "Zatvoren krvni sistem imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amfioksus"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "puž"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kornjača"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "komarac"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Morfologija",
+    "pitanje": "Otvoren krvni sistem imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mekušci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sisari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pauci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ribe"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Morfologija",
+    "pitanje": "Kapilare poseduju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sisari"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ptice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mravi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pćele"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Morfologija",
+    "pitanje": "Trodelno srce se nalazi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "daždevnjaka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "žabe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "guštera"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kengura"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Morfologija",
+    "pitanje": "Dvodelno srce se nalazi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "šarana"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "čovečije ribice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "komarca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Morfologija",
+    "pitanje": "Četvorodelno srce se nalazi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kokoške"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "miša"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "krokodila"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "čovečije ribice"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod riba kroz srce protiče (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "arterijska krv"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "venska krv"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mešovita krv"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod vodozemaca, kroz srce protiče (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "arterijska krv"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "venska krv"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mešovita krv"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod sisara postoji funkcionalan (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jedan par aortinih lukova"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo jedan aortin luk i to desni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo jedan aortin luk i to levi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "dva para aortinih lukova, plućni i telesni"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod ptica funkcionalno je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dva para aortinih lukova, plućni i telesni"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo jedan aortin luk i to desni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo jedan aortin luk i to levi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo jedan par aortinih lukova"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod daždevnjaka funkcionalan je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dva para aortinih lukova"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tri para aortinih lukova"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jedan par aortinih lukova"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "samo jedan aortin luk"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Morfologija",
+    "pitanje": "Krv komarca (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sadrži hemoglobin i crvene je boje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sadrži hemocijanin i prljavo bele je boje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sadrži eritrocite koji nemaju crvenu boju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ima više limfocita nego eritrocita"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Morfologija",
+    "pitanje": "U eukariotske ćelije spadaju sledeće ćelije (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amebe i paramecijuma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "virusa i rikecija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "modrozelenih algi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svih praživotinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Morfologija",
+    "pitanje": "U prokariotske ćelije pripadaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ćelije svih praživotinja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ćelije DNK virusa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ćelije bakterija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ćelije modrozelenih algi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Morfologija",
+    "pitanje": "Torbari imaju nervni sistem po tipu (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ganglionerno difuzan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "cevast"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vrpčast"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Morfologija",
+    "pitanje": "Hidra ima nervni sistem (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vrpčast"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "difuzan"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ganglionarno lestvičast"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Morfologija",
+    "pitanje": "Rečna školjka ima nervni sistem (okružiti tačne odgovor):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ganglionarno difuzan"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "cevast"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vrpčast"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "lestvičast"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Morfologija",
+    "pitanje": "Nervni sistem čoveka je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "cevast"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lestvičast"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vrpčast"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "centralizovano vrpčast"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružite grupe organizama koje poseduju pravu telesnu duplju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kičmenjaci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metilj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kišna glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružite grupe životinja koje ne poseduju telesnu duplju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metilj"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pantljičara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Turbellaria"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kišna glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružite grupe životinja koje poseduju primarnu telesnu duplju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dečija glista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Trichinella"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kišna glista"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pijavica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Morfologija",
+    "pitanje": "Vrpčast nervni sistem se nalazi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metilja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kišne gliste"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pantljičare"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Morfologija",
+    "pitanje": "Protonefridije su ekskretorni organi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zglavkara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metilja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pantljičare"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pljosnatih crva"
+      }
+    ],
+    "tacan_odgovor": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Morfologija",
+    "pitanje": "Metanefridije se kao ekskretorni organi sreću kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "valjkastih crva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prstenastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnatih crva"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mekušaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Morfologija",
+    "pitanje": "Metanefros je tip bubrega koji je funkcionalan kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "delfina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vrapca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "krokodila"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "riba"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Morfologija",
+    "pitanje": "Mesonefros je funkcionalan kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "šarana"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "čovečije ribice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kornjače"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kokoške"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Morfologija",
+    "pitanje": "Pronefros je funkcionalan kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod embriona kičmenjaka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod riba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod vodozemaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Morfologija",
+    "pitanje": "Larva Mollusca zove se (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Turbellaria"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "planarija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pilidijum"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "trohofora"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od životinja imaju trahealni sistem (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mravi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "lisne vaši"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "primati"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pauci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od životinja nemaju diferencirane organe za disanje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pijavica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hobotnica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "jastog"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od životinja imaju organe za disanje ektodermalnog porekla (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "puž"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "buba švaba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kengur"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "skakavac"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Morfologija",
+    "pitanje": "Alveole u plućima sadrže (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "slepi miš"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kokoška"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "žaba"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "gušter"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Morfologija",
+    "pitanje": "Malpigijeve cevi su ekskretorni organi kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ose"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kišne kliste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stonoge"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Morfologija",
+    "pitanje": "Mlečne žlezde poseduju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "delfin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "čovečija ribica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ajkula"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kengur"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Morfologija",
+    "pitanje": "Analogi organi su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "istog porekla, a različite funkcije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iste funkcije, a različitog porekla"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "istog porekla i iste funkcije"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kombinovanog porekla, funkcije i iste građe"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Morfologija",
+    "pitanje": "Plaštaši imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "otvoren krvni sistem"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zatvoren krvni sistem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne poseduju krvni sistem"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Morfologija",
+    "pitanje": "Haverzovi kanali nalaze se u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kostima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "bubrezima"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "srcu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Morfologija",
+    "pitanje": "Krvni sistem prvi put u evoluciji javlja se kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pljosnatih crva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Nemertina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "komarca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Morfologija",
+    "pitanje": "Nervni sistem prvi put u evoluciji javlja se kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Nemertina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zglavkara"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Morfologija",
+    "pitanje": "Organi za disanje prvi put u evoluciji javljaju se kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zglavkara i mekušaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prstenastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zglavkara"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Morfologija",
+    "pitanje": "Najprimitivniji oblik organa za ekskreciju su (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "protonefridije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metanefridije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Malpigijevi sudovi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Morfologija",
+    "pitanje": "Protonefridije su karakteristične za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metilja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dečiju glistu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kišnu glistu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Morfologija",
+    "pitanje": "Malpigijevi sudovi su po građi slični (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "protonefridijama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metanefridijama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bubrezima"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Morfologija",
+    "pitanje": "Difuzan nervni sistem imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "meduze"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pijavice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sunđeri"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "praživotinje"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Morfologija",
+    "pitanje": "Cevast nervni sistem imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "bodljokošci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kornjače"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "rakovi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Morfologija",
+    "pitanje": "Jednoslojni epidermis poseduju sledeće životinje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pijavice"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodozemci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rakovi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krpelji"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "ribe"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Morfologija",
+    "pitanje": "Ganglionerno lestvičast nervni sistem je karakterističan za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dečije gliste"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kišne gliste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Drosophila"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "bodljokošce"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od navedenih životinja su hermafroditne (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kišna glista"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metilj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "škorpija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pčela"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Morfologija",
+    "pitanje": "Najsloženiji tip građe sundera je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leukon"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sikon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "askon"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Morfologija",
+    "pitanje": "Pauci imaju ekstremitete za kretanje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "tri para"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "četiri para"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "šest para"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Morfologija",
+    "pitanje": "U toku ontogeneze kičmenjaka škrge se javljaju kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "riba i vodozemaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svih kopnenih kičmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod ptica i gmizavaca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod svih od navedenih"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Morfologija",
+    "pitanje": "Statocisti su organi čula ravnoteže kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nekih beskičmenjaka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svih beskičmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo kod kičmenjaka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Prstenasti crvi su isključivo marinske životinje."
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Pljosnati crvi su isključivo marinske životinje,"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Sunđeri su isključivo marinske životinje"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Morfologija",
+    "pitanje": "Sunđeri od organa (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "poseduju jedino organe za disanje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "poseduju nervni sistem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "poseduju krvni sistem"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ne poseduju nikakve organe"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Morfologija",
+    "pitanje": "Na površini tela kod pljosnatih crva (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jako je razvijena kutikula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slabo je razvijena kutikula"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne poseduju kutikulu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Morfologija",
+    "pitanje": "Dva tipa mišićnih ćelija prvi put se javlja kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prstenastih crva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "valjkastih crva"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pljosnatih crva"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Morfologija",
+    "pitanje": "Skelet beskičmenjaka je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endodermalnog porekla izuzev beskičmenjaka,"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ektodermalnog ili endodermalnog porekla izuzev beskičmenjaka,"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod svih ektodermalnog porekla"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod svih mezodermalnog porekla"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Morfologija",
+    "pitanje": "Delovi hrskavičavog skeleta postoje kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svih kičmenjaka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo kod riba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo kod nižih kičmenjaka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod riba i vodozemaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Morfologija",
+    "pitanje": "Hemoglobin vezuje kiseonik kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "komarca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kornjače"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Morfologija",
+    "pitanje": "Limfni sistem postoji kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kita"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "govečeta"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "guštera"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kokoške"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Morfologija",
+    "pitanje": "Eritrociti sa jedrom karakteristični su za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sve kičmenjake"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo za Amniota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo za Anamniota"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sve kičmenjake osim sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od navedenih životinja poseduju metanefridije (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "glavonosci"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prstenasti crvi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pijavice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "punoglavci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Morfologija",
+    "pitanje": "Difuzan nervni sistem je karakterističan za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "korale"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "žarnjače"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "meduze"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sunđere"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Morfologija",
+    "pitanje": "Ganglionarno lestvičast nervni sistem poseduju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "stonoge"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pčele"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pijavice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "puž"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Morfologija",
+    "pitanje": "Višeslojan epidermis je karakterističan za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amfioksuse"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bodljokošce"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Morfologija",
+    "pitanje": "Hipofiza je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "endokrina žlezda"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "egzokrina žlezda"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "endokrina žlezda i endokrina žlezda"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Morfologija",
+    "pitanje": "Henlejeva petlja se javlja kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "riba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gmizavaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Morfologija",
+    "pitanje": "Dlake postoje samo kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sisara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gmizavaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "bodljokožaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružiti šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "zmije imaju dobro razvijena oba plućna krila"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zmije imaju bolje razvijeno levo plućno krilo"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zmije imaju bolje razvijeno desno plućno krilo"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zmije nemaju pluća kao organe za disanje"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Morfologija",
+    "pitanje": "Karlični pojas prvi put se javlja kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gmizavaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodozemaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Morfologija",
+    "pitanje": "Glatke mišićne ćelije (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "omogućuju kontrakcije materice"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "su najkrupnije telesne ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "imaju transformisana jedra"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Morfologija",
+    "pitanje": "Nefrostom je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "otvor protonefridija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "otvor nervne cevi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "otvor kanalića pronefrosa"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružiti tačnu rečenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Između pršljenova nalazi se vlaknasta hrskavica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Skelet riba je hrskavičav"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "U ligamentima se nalazi samo elastična hrskavica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Morfologija",
+    "pitanje": "Koštano tkivo (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ima međućelijsku masu - osein"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ima Haverz-ove kanale"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "od mineralnih materija najviše ima fosfora"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružite tačnu rečenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Jedra skeletne muskulature smeštena su između miofibrila"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Jedra skeletne muskulature smeštena su uz membranu ćelije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Ćelije telesne muskulature imaju više jedara"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Morfologija",
+    "pitanje": "Unipolarne ćelije su karakteristične za (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "morske puževe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ganglije glista"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mozak kičmenjaka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kičmena moždina"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Morfologija",
+    "pitanje": "Multipolarne nervne ćelije nalaze se u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "čulu mirisa kod čoveka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "centralnom nervnom sistemu kičmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ganglijama mekušaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod kojih od navedenih organizama se javlja hrskavica (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "šaran"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "morska zvezda"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mekušci"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Morfologija",
+    "pitanje": "Krvno tkivo pripada (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "epitelnom tkivu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vezivnom tkivu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mišićnom tkivu"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijednom od navedenih"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod vezivnog tkiva nosilac funkcije je (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sama ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "međućelijska supstanca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "potporne ćelije"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Morfologija",
+    "pitanje": "Kod epitelnog tkiva je karakteristično (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nosilac funkcije je ćelija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "postoje međućelijski prostori"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne postoje međućelijski prostori"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Morfologija",
+    "pitanje": "U koštanoj srži sledećih životinja stvaraju se eritrociti (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "govečeta"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "žabe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "soma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "daždevnjaka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Morfologija",
+    "pitanje": "Hormoni po sastavu mogu biti (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "polisaharidi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "proteini"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polipeptidi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "steroidi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Morfologija",
+    "pitanje": "Koji se organi sreću kod Nemertina (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "organi za disanje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krvni sistem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "organi za izlučivanje"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Morfologija",
+    "pitanje": "Prostor između dužice i sočiva oka čini (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prednja očna komora"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "zadnja očna komora"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "srednja očna komora"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Morfologija",
+    "pitanje": "Koja od navedenih praživotinja izaziva malariju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ameba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Sporozoa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "trepljari"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Morfologija",
+    "pitanje": "U evolutivnom razvitku životinja analni otvor prvi put se javlja kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Nemertina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pantljičara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "valjkastih crva"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od navedenih životinja imaju čašicu (patellu) (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kamile"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "goveče"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "noj"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krokodil"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Morfologija",
+    "pitanje": "Koje od navedenih tvorevina potiču od epidermisa (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "perje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "krljušti riba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "dlake"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krljušti gmizavaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Morfologija",
+    "pitanje": "Kljun ptica potiče od (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pokožice"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kosti donjih vilica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kosti gornjih vilica"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "krzna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Morfologija",
+    "pitanje": "Kičmeni stub kičmenjaka ima regiona (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pet regiona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "četiri regiona"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "šest regiona"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sedam regiona"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Morfologija",
+    "pitanje": "Rameni pojas riba (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vezan je za grudnu kost"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vezan je za kičmeni stub"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nalazi se slobodan u muskulaturi"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Morfologija",
+    "pitanje": "Gastrovaskularnu duplju imaju sledeće životinje (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metilji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dupljari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Nemertini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pljosnati crvi"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Morfologija",
+    "pitanje": "Enzim pepsin se luči u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "crevima"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dvanaestopalačnom crevu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "žučnoj kesi"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zidu želuca"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Morfologija",
+    "pitanje": "Okružiti tačnu rečenicu:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Svi kičmenjaci imaju dijafragmu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Dijafragma postoji samo kod suvozemnih kičmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Dijafragma postoji samo kod sisara"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Morfologija",
+    "pitanje": "Četvrta moždana komora nalazi se u (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "malom mozgu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "međumozgu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "produženoj moždini"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "srednjem mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Morfologija",
+    "pitanje": "Duplo slepo crevo imaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vodozenci"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gmizavci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ptice"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Morfologija",
+    "pitanje": "Najveći broj glavenih nerava polazi od (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kičmene moždine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "velikog mozga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "produžene moždine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "malog mozga"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Morfologija",
+    "pitanje": "Epifiza se nalazi (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u grudnoj duplji"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ispod međumozga"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "iznad međumozga"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "na malom mozgu"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Morfologija",
+    "pitanje": "Sledeći od navedenih organizama su homeotermi (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vrabac"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kornjača"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gušter"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kengur"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  }
+]

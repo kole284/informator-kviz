@@ -1,0 +1,2380 @@
+[
+  {
+    "id": 1,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Bespolno razmnožavanje postoji (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "samo kod bakterija i jednoćelijskih algi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo kod jednoćelijskih organizama"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "može da postoji i kod jednoćelijskih i kod višećelijskih organizama"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 2,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukoliko su gameti pri polnom razmnožavanju iste veličine i pokretljivosti proces razmnožavanja se naziva (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "heterogamija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izogamija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oogamija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 3,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukoliko su gameti različite veličine i pokretljivosti proces razmnožavanja naziva se (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "strobilacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "smena generacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "anizogamija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "izogamija"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 4,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Polno razmnožavanje postoji (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "samo kod insekata, kičmenjaka i viših biljaka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo kod algi, nekih gljiva i sisara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "algi, gljiva, viših biljaka i većine životinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 5,
+    "kategorija": "Biologija razvica",
+    "pitanje": "U bespolno ramnožavanje životinja spadaju (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pupljenje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "strobilacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kopulacija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "oogamija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 6,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Razviće iz neoplođenih jajnih ćelija označava se terminom (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sporogeneza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ovogeneza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "partenogeneza"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Partenogeneza se susreće kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "čoveka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pčela, mrava"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ćuraka, mačaka"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Pupljenje kao oblik razmnožavanja postoji kod (okružiti šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dupljara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodozemaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 9,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Sposobnost proizvođenja muških i ženskih gameta kod iste jedinke označena je kao (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pseudohermafroditizam"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gonadalna disgeneza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hermafroditizam"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Poseban oblik bespolnog razmnožavanja putem gemula javlja se kod (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hidre"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gmizavaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sunđera"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "pljosnatih crva"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nekih mekušaca"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 11,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prema rasporedu vitelusa jajna ćelija vodozemaca je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "centrolecitna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oligolecitna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezolecitna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 12,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prema rasporedu vitelusa jajna ćelija gmizavaca je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oligolecitna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izrazito telolecitna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "mezolecitna"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 13,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prema rasporedu vitelusa jajna ćelija krave je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "amfilecitna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "izolecitna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "umereno telolecitna"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 14,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prema rasporedu vitelusa jajna ćelija riba je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oligolecitna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "amfilecitna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "telolecitna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 15,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "vitelus podstiče formiranje deobnih brazdi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vitelus usporava formiranje deobnih brazdi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vitelus ne utiče na brzinu brazdanja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 16,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Period sinteze žumanceta tokom formiranja jajne ćelije naziva se (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "previtelogeneza"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vitelogeneza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "histogeneza"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 17,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pri brazdanju zigota vodozemaca blastomere su jednake veličine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jajne ćelije vodozemaca ne sadrže vitelus"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod vodozemaca brazdanje je holoblastičko"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jajna ćelija gmizavaca ima manje vitelusa od jajne ćelije sisara"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gmizavici imaju meroblastičko brazdanje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne postoje gmizavci koji rađaju žive mlade"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Jaja insekata su (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "centrolecitna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polilecitna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izolecitna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 20,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Oplođenje jajne ćelije ulaskom samo jednog spermatozoida naziva se (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pseudospermalno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "monospermalno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "izospermalno"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Kod nekih životinja u jajnu ćeliju dospeva veći broj spermatozoida, mada samo jedan učestvuje u oplođenju. Ovaj fenomen se naziva (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "patološka polispermija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "fiziološka polispermija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "partenogeneza"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 22,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ćelije koje nastaju posle prvih deoba brazdanja zigota nazivaju se (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mikromere"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "makromere"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "blastomere"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 23,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prilikom prvih deoba zigota (brazdanj okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veličina novoformiranih ćelija uvećava se nakon svake deobe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "veličina novoformiranih ćelija se smanjuje nakon svake deobe"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "veličina novoformiranih ćelija ostaje ista"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 24,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukoliko svaka blastomera gornjeg sloja leži na odgovarajućoj blastomeri donjeg sloja brazdanje je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "radijalno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spiralno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bilateralno"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 25,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukoliko su blastomere gornjnjeg sloja pomerene u istom pravcu u odnosu na blastomere donjeg sloja brazdanje je (okružite šta je tačno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "radijalno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "spiralno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "bilateralno"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 26,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okružite šta je tačno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "brazdanje kod mačke je holoblastičko, superficialno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "brazdanje kod mačke je meroblastičko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "brazdanje kod mačke je holoblastičko, ravnomerno"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 27,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "brazdanje kod ptica je superficijelno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "brazdanje kod ptica je meroblasticko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "brazdanje kod ptica je holoblasticko"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "blastula sisara naziva se blastocist"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "blastula sisara naziva se diskoblast"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sisari nemaju blastulu"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 29,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno. Koji od navedenih procesa spadaju u gastrulaciju:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ingresija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "invaginacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "evaginacija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ovulacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 30,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Gastrulacija kod amfioksusa odigrava se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "epibolijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "invaginacijom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "delaminacijom"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 31,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Poreklo notohorde je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ektodermalno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mezodermalno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "endodermalno"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 32,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Embrionalne adaptacije (amnion, alantois i horion) postoje kod (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gustera"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "dazdevnjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "riba"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sisara"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "kolousta"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 33,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Nauka koja proucava poremetaje razvica po dejstvom razlicitih faktora naziva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "embriopatologija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "teratologija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "embriotoksikologija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 34,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Faktori sredine koji mogu da izazovu malformacije ploda nazivaju se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Teratogeni"
+    ]
+  },
+  {
+    "id": 35,
+    "kategorija": "Biologija razvica",
+    "pitanje": "U metabolicke defekte spadaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fenilketonurija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pojava sijamskih blizanaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spontani pobacaj usled hromozomskih aberacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 36,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Preobrazaj tokom postembrionalnog razvica naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Metamorfoza"
+    ]
+  },
+  {
+    "id": 37,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruziti sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "metamorfoza kod vodozemaca znacajna je za prelazak iz vodene sredine na kopno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "metamorfoza vodozemaca omogucava uspesnije prezivljavanje u vodenoj sredini"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "metamorfoza vodozamaca nije kontrolisana genetski, vec iskljucivo uticajima spoljasnje sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 38,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Glavnu ulogu u metamorfozi zabe u punoglavca medu navedenim hormonima ima (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adrenalin"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "tiroksin"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "insulin"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kalcitonin"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "prolaktin"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 39,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Metamorfoza se javlja kod (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sisara"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "svih kicmenjaka"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "insekata i ptica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 40,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Mogucnost regeneracije postoji kod (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "repa gustera"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ekstremiteta repatih vodozemaca"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekstremiteta sisara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 41,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Kod ptica moguca je regeneracija (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "krila"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kljuna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stopala zadnjih ekstremiteta"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Bodljokosci mogu da regenerisu (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "krakove i delove diska"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervni sistem"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "polne zlezde"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nemaju sposobnost regeneracije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Kod insekata (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "regeneracija ekstremiteta postoji smo kod larvi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "regeneracija ekstremiteta postoji kod larvi i kod adultnih oblika"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne postoji mogucnost regeneracije ekstremiteta bez obzira na stadijum razvica"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 44,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Kod sisara postoji mogucnost regeneracije delova (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "srednjeg creva"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "jetre"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pluca"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 45,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Zglavkari mogu da regenerisu (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ekstremitete"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Malpigijeve sudove"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "koksalne zlezde"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 46,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Tempo regeneracije u velikoj meri zavisi od (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "temperature"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ishrane"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "uticaja nervnog sistema"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi odgovori su tacni"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "tacni su odgovori pod \"b\" i \"c\""
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 47,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Transplantacija jenog dela embriona na drugo mesto istog embriona naziva se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homoplasticna transplantacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "autoplasticna transplantacija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ksenoplasticna transplantacija"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Transplantacija sa jedne jedinke na drugu jediku iste vrste je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homoplasticna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heteroplasticna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "autoplasticna"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 49,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Transplantacija na jedinku druge vrste istog roda (genus) je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "autoplasticna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "ksenoplasticna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "heteroplasticna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 50,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Transplantacija na jedinku filogenetski udaljeniju od roda (genus) oznacena je kao (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homoplasticna"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "heteroplasticna"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ksenoplasticna"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 51,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Metamorfoza kod insekata je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pod kontrolom hormona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "iskljucivo pod uticajem ekoloskih faktora"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nije genetski kontrolisana"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukoliko insekti prolaze kroz stadijume: zigot-larva-lutka-imago, razvice je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hemimetabolno"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "holometabolno"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ametabolno"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 53,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Larva zabe naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Punoglavac"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Larva dupljara naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Planula"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Larva nemertina naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Pilidijum"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Larva insekata naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Gusenica"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Larva morskih jezeva naziva se",
+    "tip": "upisivanje",
+    "opcije": [],
+    "tacan_odgovor": [
+      "Pluteus"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja prolaze kroz stadijum larve (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leptir"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slepi mis"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kengur"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kisna glista"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja ne prolaze kroz stadijum larve (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "krtica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "visi rakovi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "planarije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Oviparnost je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "radanje zivih mladunaca"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "polaganje jaja koja ce se oploditi u spoljasnjoj sredini"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "radanje zivih mladunaca kod sisara"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "rast se odigrava iskljucivo rastom pojedinacnih celija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rast organizma se odvija iskljucivo umnozavanjem celija - proliferacijom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rast se odvija umnozavanjem celija, rastom samih celija i nagomilavanjem meducelijske supstance"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kriva rasta najcesce ima oblik tzv. sigmoidne krive"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rast traje tokom citavog zivota kicmenjaka"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rast je ogranicen samo na odredjeni period ontogeneze"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Termin ontogeneza oznacava (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "individualno razvice od zaceca do smrti jedinke"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "razvice u telu majke, do rodjenja"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "razvice nakon rodjenja do polne zrelosti"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Individualno razvice nalazi se pod kontrolom (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "samo naslednih faktora"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "samo dejstva sredine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "sredine i nasledja"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Proces mejoze postoji (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kod svih zivih bica"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod svih zivih bica osim virusa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo kod zivotinja"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kod biljaka, gljiva i zivotinja"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "rani embrionalni period razvica coveka obuhvata period od zaceca do osme nedelje razvoja embriona"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rani fetalni period kod coveka obuhvata period od 12. - 28. nedelje razvica"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "embrionalni stadijum traje od zaceca do dvanaeste nedelje razvica embriona"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kasni fetalni period traje od 15. nedelje do rodjenja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rano detinjstvo je period do pete godine zivota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "rano detinjstvo je period do dve godine zivota"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarni spermatocit je celija koja ima haploidan broj hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarni spermatocit je celija koja ima haploidan broj hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ovogonija je celija koja ima diploidan broj hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "primarni ovocit je celija koja ima diploidan broj hromozoma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sekundarni ovocit je celija koja ima diploidni broj hromozoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "spermiogeneza je proces obrazovanja spermatozida iz spermatida"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "gastrulacija kod amfioksusa se odvija epibolijom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gastrulacija kod amfioksusa pocinje invaginacijom vegetativnog dela blastule"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "period razvoja amfioksusa pri cemu se nervna ploca savije i obrazuje nervni cev naziva se neurula"
+      }
+    ],
+    "tacan_odgovor": [
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "neurulacija je proces diferentovanja centralnog nervnog sistema kod amfioksusa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "neurulacija je obrazovanje nervne cevi kod amfioksusa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "neurulacija je proces koji se odvija tokom formiranja blastule amfioksusa"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prvi znak gastrulacije kod morskog jeza je obrazovanje nervne cevi"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "gastrulacija kod morskog jeza se odvija invaginacijom na vegetetivnom polu blastule"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gastrulacija kod morskog jeza odvija se delaminacijom"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prvi znak gastrulacije kod morskog jeza je zaravnjivanje vegetativnog dela blastule u tzv. vegetativnu plocu"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kod morskog jeza kao posledica invaginacije prvo nastaje arhenteron"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kod morskog jeza kao posledica invaginacije prvo nastaje notohorda"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "nervni sistem svih kicmenjaka je ektodermalnog porekla"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nervni sistem je ektodermalnog porekla samo kod nizih kicmenjaka (ribe i vodozemci)"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nervni sistem je ektodermalnog porekla samo kod visih kicmenjaka (gmizavci, ptice, sisari)"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja imaju embrionalne omotace (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "ptice"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "sisari"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "vodozemci"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "ribe"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "skoljke"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja nemaju embrionalne omotace (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "leptiri"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "glavonoski"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "amfioksus"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "zabe"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "svi odgovori su tacni"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "e"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja mogu da radjaju zive mladunce (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "neke ajkule"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "vinogradski puz"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ptice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi sisari"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "neke zmije (npr. poskok)"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "e"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Proces starenja je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iskljucivo pod genetickom kontrolom"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "rezultat stetnih uticaja sredine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kontrolisan genetski i podstaknut stetnim uticajima sredine"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prilikom starenja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "postepeno se akumulira sve veci broj mutacija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "uopste se ne narusava integritet DNK"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "javljaju se samo numericke aberacije hromozoma"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Prilikom starenja kod sisara ukupna kolicina vode u organizmu (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "postepeno se smanjuje"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "postepeno se povecava"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ostaje nepromenjena"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Starenje organizma moze biti (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "iskljucivo celijsko"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "celijsko i vancelelijsko"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "samo vancelelijsko"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Pri starenju vancelijske supstance najvise se menja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kolagen"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hijaluronidaza"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "elastin"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "pri starenju kolagen trpi hemijske modifikacije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pri starenju kolegen se uopste ne menja hemijski"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "paralelno sa starenjem kolicina kolagena u meducelijijskim prostorima se uvecava"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Pri starenju aktivnost grudne zlezde se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "povecava"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "smanjuje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ostaje nepromenjena"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Nivo bazalnog metabolizma pri starenju se:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "povecava"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "smanjuje"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne menja"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Sposobnost metabolicke transformacije lekova i otrova sa starenjem (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "opada"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "raste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne menja se"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Ukupan broj celija u organizmu koji stari (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "opada"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "raste"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne menja se"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Starenje kod coveka pocinje (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "u trenutku oplodenja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "po rodjenju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nakon zavretka puberteta"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "priblizno posle tridesete godine zivota"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "oko pedesete godine zivota"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Verovatnoca pojave malignih bolesti (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "veca je kod starijih osoba"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "manja je kod starijih osoba"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ne menja se sa starenjem"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kancer nastaje usled poremecaja regulacionih mehanizama celijiske deobe"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kancer se javlja uvek spontano"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kancer se javlja iskljucivo pod uticajem stetnih agenasa"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Faktori sredine sposobni da izazovu rak nazivaju se (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kancerogeni"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "onkogeni"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "antioksidansi"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koji od navedenih faktora sredine imaju uticaj u nastanku raka (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "jonizujuca zracenja"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "radio talasi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ultravioloetna zracenja"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi navedeni faktori"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Dominantnu ulogu u kancerogenezi imaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "fizicki faktori (zracenja i sl.)"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hemijski agensi"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "nacin ishrane"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Okruzite agense koji imaju kancerogeni efekat:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "supstance sposobne da direktno ostete DNK"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "antimutagene supstance"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "celuloza"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koji od navedenih faktora uticu na brzinu razvica zabe (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "temperatura spoljasnje sredine"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pravilna ishrana"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hormoni"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi navedeni faktori"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "nijedan od navedenih faktora"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja imaju intrauterino razvice (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "majmun"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slon"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kornjaca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tropska skorpija"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "morske zmije"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja prolaze larvalni stadijum (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kokoske"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "majmuni"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja legu jaja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "curka"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kljunar"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "zaba krastaca"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kenguri"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja ne legu jaja (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "insekti"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "pijavice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "gusenice"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "guske"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Biologija razvica",
+    "pitanje": "Koje od navedenih zivotinja imaju mlecne zlezde (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kobila"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "morska krava"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "morski pas"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kit"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "delfin"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "morska macka"
+      }
+    ],
+    "tacan_odgovor": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ]
+  }
+]
