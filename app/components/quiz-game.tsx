@@ -20,6 +20,12 @@ type QuizQuestion = {
 
 type LoadStatus = "loading" | "ready" | "error";
 type QuestionOrder = "random" | "sequential";
+type MatchingItem = {
+  termLabel: string;
+  termText: string;
+  statementLabel: string;
+  statementText: string;
+};
 
 const QUESTION_FILE_GROUPS = {
   Biologija: [
@@ -98,6 +104,47 @@ function createRound(sourceQuestions: QuizQuestion[], order: QuestionOrder) {
 
 function normalizeQuestionType(type: string) {
   return type.toLowerCase().replace(/[\s_-]+/g, "");
+}
+
+function isMatchingAnswer(answer: string) {
+  return /^[A-Za-z0-9]+-[A-Za-z0-9]+$/.test(answer);
+}
+
+function createMatchingAnswer(optionLabel: string, matchLabel: string) {
+  return `${optionLabel}-${matchLabel}`;
+}
+
+function parseMatchingAnswer(answer: string) {
+  const [left, right] = answer.split("-");
+
+  return { left, right };
+}
+
+function getMatchingItem(option: QuizOption, index: number): MatchingItem {
+  const [termText, statementText] = option.tekst.split(
+    /\s+A\s+B\s+C\s+D(?:\s+E\s+F)?\s*-\s*/i,
+  );
+
+  return {
+    termLabel: option.oznaka,
+    termText: termText?.trim() || option.tekst,
+    statementLabel: String.fromCharCode(65 + index),
+    statementText: statementText?.trim() || option.tekst,
+  };
+}
+
+function getMatchingItems(question: QuizQuestion | undefined) {
+  return question?.opcije.map(getMatchingItem) ?? [];
+}
+
+function getSelectedMatchingStatement(
+  answers: string[],
+  termLabel: string,
+) {
+  const prefix = `${termLabel}-`;
+  const answer = answers.find((value) => value.startsWith(prefix));
+
+  return answer ? parseMatchingAnswer(answer).right : "";
 }
 
 export function QuizGame() {
@@ -218,7 +265,20 @@ export function QuizGame() {
         normalizeQuestionType(currentQuestion.tip),
       )
     : false;
-  const isMultiAnswerQuestion = !isTextInputQuestion && correctAnswers.length > 1;
+  const isMatchingQuestion = currentQuestion
+    ? currentQuestion.opcije.length > 0 &&
+      (normalizeQuestionType(currentQuestion.tip) === "uparivanje" ||
+        correctAnswers.every(isMatchingAnswer))
+    : false;
+  const isMultiAnswerQuestion =
+    !isTextInputQuestion && !isMatchingQuestion && correctAnswers.length > 1;
+  const matchingItems = isMatchingQuestion
+    ? getMatchingItems(currentQuestion)
+    : [];
+  const matchingStatementLabels = matchingItems.map(
+    (item) => item.statementLabel,
+  );
+  const canonicalCorrectAnswers = correctAnswers;
 
   const submittedOptionLabels = submittedAnswers ?? [];
 
@@ -248,6 +308,29 @@ export function QuizGame() {
     }
 
     setSelectedAnswers([optionLabel]);
+  }
+
+  function selectMatchingAnswer(termLabel: string, statementLabel: string) {
+    if (hasSubmittedAnswer) {
+      return;
+    }
+
+    setSelectedAnswers((current) => {
+      const withoutCurrentOption = current.filter(
+        (answer) =>
+          !answer.startsWith(`${termLabel}-`) &&
+          parseMatchingAnswer(answer).right !== statementLabel,
+      );
+
+      if (statementLabel.length === 0) {
+        return withoutCurrentOption;
+      }
+
+      return [
+        ...withoutCurrentOption,
+        createMatchingAnswer(termLabel, statementLabel),
+      ];
+    });
   }
 
   function resetRound() {
@@ -339,11 +422,15 @@ export function QuizGame() {
       return;
     }
 
-    if (selectedAnswers.length === 0) {
+    if (isMatchingQuestion && selectedAnswers.length !== currentQuestion.opcije.length) {
       return;
     }
 
-    const isCorrect = areSameSelections(selectedAnswers, correctAnswers);
+    if (!isMatchingQuestion && selectedAnswers.length === 0) {
+      return;
+    }
+
+    const isCorrect = areSameSelections(selectedAnswers, canonicalCorrectAnswers);
 
     setSubmittedAnswers(selectedAnswers);
 
@@ -401,10 +488,10 @@ export function QuizGame() {
 
   if (!selectedSubject) {
     return (
-      <div className="h-[100dvh] overflow-hidden p-3 text-slate-100 sm:p-4 lg:p-5">
+      <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
         <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
 
-        <section className="mx-auto flex h-full max-w-5xl flex-col justify-center gap-3">
+        <section className="mx-auto flex min-h-[calc(100vh-1.5rem)] max-w-5xl flex-col justify-center gap-3 sm:min-h-[calc(100vh-2rem)] lg:min-h-[calc(100vh-2.5rem)]">
           <header className="rounded-[2rem] border border-white/10 bg-white/6 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
             <p className="text-sm font-semibold uppercase tracking-[0.35em] text-cyan-300">
               Informator kviz
@@ -477,10 +564,10 @@ export function QuizGame() {
 
   if (!selectedCategory) {
     return (
-      <div className="h-[100dvh] overflow-hidden p-3 text-slate-100 sm:p-4 lg:p-5">
+      <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
         <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
 
-        <section className="mx-auto flex h-full min-h-0 max-w-5xl flex-col justify-center gap-3">
+        <section className="mx-auto flex min-h-[calc(100vh-1.5rem)] max-w-5xl flex-col justify-center gap-3 sm:min-h-[calc(100vh-2rem)] lg:min-h-[calc(100vh-2.5rem)]">
           <header className="rounded-[2rem] border border-white/10 bg-white/6 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div>
@@ -625,10 +712,10 @@ export function QuizGame() {
   }
 
   return (
-    <div className="h-[100dvh] overflow-hidden p-3 text-slate-100 sm:p-4 lg:p-5">
+    <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
       <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
 
-      <section className="mx-auto flex h-full max-w-5xl flex-col gap-3">
+      <section className="mx-auto flex max-w-5xl flex-col gap-3">
         <div>
           <button
             type="button"
@@ -678,9 +765,9 @@ export function QuizGame() {
           />
         </div>
 
-        <article className="flex flex-1 flex-col overflow-hidden rounded-[2rem] border border-white/10 bg-slate-950/70 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
-          <form onSubmit={handleAnswerSubmit} className="flex h-full flex-col gap-4">
-            <div className="flex-1 space-y-4 overflow-y-auto pr-1">
+        <article className="rounded-[2rem] border border-white/10 bg-slate-950/70 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
+          <form onSubmit={handleAnswerSubmit} className="flex flex-col gap-4">
+            <div className="space-y-4">
               <div className="space-y-2">
                 <h2 className="whitespace-pre-line text-lg font-semibold leading-7 text-white sm:text-xl">
                   {currentQuestion.pitanje}
@@ -706,6 +793,106 @@ export function QuizGame() {
                     className="mt-2 h-11 w-full rounded-xl border border-white/15 bg-white/5 px-3 text-sm text-white outline-none transition-colors placeholder:text-slate-400 focus:border-cyan-300/60 disabled:cursor-not-allowed disabled:opacity-70"
                     placeholder="Upiši svoj odgovor"
                   />
+                </div>
+              ) : isMatchingQuestion ? (
+                <div className="grid gap-2">
+                  {currentQuestion.opcije.map((option) => {
+                    const item = matchingItems.find(
+                      (matchingItem) => matchingItem.termLabel === option.oznaka,
+                    );
+
+                    if (!item) {
+                      return null;
+                    }
+
+                    const selectedStatement = getSelectedMatchingStatement(
+                      selectedAnswers,
+                      item.termLabel,
+                    );
+                    const expectedAnswer = canonicalCorrectAnswers.find(
+                      (answer) => answer.startsWith(`${item.termLabel}-`),
+                    );
+                    const expectedStatement = expectedAnswer
+                      ? parseMatchingAnswer(expectedAnswer).right
+                      : "";
+                    const isCorrectMatch =
+                      hasSubmittedAnswer &&
+                      selectedStatement === expectedStatement;
+                    const isWrongMatch =
+                      hasSubmittedAnswer &&
+                      selectedStatement !== expectedStatement;
+
+                    return (
+                      <div
+                        key={item.termLabel}
+                        className={`grid gap-3 rounded-2xl border p-3 transition-colors lg:grid-cols-[minmax(0,1fr)_minmax(11rem,auto)_minmax(0,1fr)] lg:items-center ${
+                          isCorrectMatch
+                            ? "border-emerald-400/60 bg-emerald-400/15 text-emerald-50"
+                            : isWrongMatch
+                              ? "border-rose-400/60 bg-rose-400/15 text-rose-50"
+                              : "border-white/10 bg-white/5 text-slate-200"
+                        }`}
+                      >
+                        <div className="flex items-start">
+                          <span className="pt-0.5 text-sm font-semibold leading-5">
+                            {item.termText}
+                          </span>
+                        </div>
+
+                        <div className="grid grid-cols-4 gap-1 sm:grid-cols-6 lg:grid-cols-none lg:auto-cols-fr lg:grid-flow-col">
+                          {matchingStatementLabels.map((statementLabel) => {
+                            const isSelected =
+                              selectedStatement === statementLabel;
+                            const isTaken =
+                              !isSelected &&
+                              selectedAnswers.some(
+                                (answer) =>
+                                  parseMatchingAnswer(answer).right ===
+                                  statementLabel,
+                              );
+                            const isExpected =
+                              hasSubmittedAnswer &&
+                              expectedStatement === statementLabel;
+
+                            return (
+                              <button
+                                key={statementLabel}
+                                type="button"
+                                aria-pressed={isSelected}
+                                onClick={() =>
+                                  selectMatchingAnswer(
+                                    item.termLabel,
+                                    isSelected ? "" : statementLabel,
+                                  )
+                                }
+                                disabled={hasSubmittedAnswer}
+                                className={`h-9 min-w-9 rounded-full border text-xs font-bold transition-all ${
+                                  isExpected
+                                    ? "border-emerald-300 bg-emerald-300 text-slate-950"
+                                    : isSelected
+                                      ? "border-cyan-300 bg-cyan-300 text-slate-950"
+                                      : isTaken
+                                        ? "border-white/10 bg-white/5 text-slate-500"
+                                        : "border-white/15 bg-slate-950/50 text-white hover:border-cyan-300/60 hover:bg-cyan-300/10"
+                                } disabled:cursor-not-allowed disabled:opacity-90`}
+                              >
+                                {statementLabel}
+                              </button>
+                            );
+                          })}
+                        </div>
+
+                        <div className="flex items-start gap-2">
+                          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-current/20 text-xs font-semibold">
+                            {item.statementLabel}
+                          </span>
+                          <span className="pt-0.5 text-sm leading-5">
+                            {item.statementText}
+                          </span>
+                        </div>
+                      </div>
+                    );
+                  })}
                 </div>
               ) : (
                 <div className="grid gap-2 sm:grid-cols-2">
@@ -757,6 +944,18 @@ export function QuizGame() {
                         Tačan odgovor: <span className="font-semibold text-white">{correctAnswers.join(", ")}</span>
                       </p>
                     </>
+                  ) : isMatchingQuestion ? (
+                    <>
+                      <p className="mt-2 text-xl font-semibold text-white">
+                        {areSameSelections(submittedOptionLabels, canonicalCorrectAnswers) ? "Tačno" : "Netačno"}
+                      </p>
+                      <p className="mt-2 text-sm leading-6 text-slate-300">
+                        Tvoja uparivanja: <span className="font-semibold text-white">{submittedOptionLabels.join(", ")}</span>
+                      </p>
+                      <p className="mt-2 text-sm leading-6 text-slate-300">
+                        Tačna uparivanja: <span className="font-semibold text-white">{canonicalCorrectAnswers.join(", ")}</span>
+                      </p>
+                    </>
                   ) : (
                     <>
                       <p className="mt-2 text-xl font-semibold text-white">
@@ -778,7 +977,9 @@ export function QuizGame() {
                   hasSubmittedAnswer ||
                   (isTextInputQuestion
                     ? textAnswer.trim().length === 0
-                    : selectedAnswers.length === 0)
+                    : isMatchingQuestion
+                      ? selectedAnswers.length !== currentQuestion.opcije.length
+                      : selectedAnswers.length === 0)
                 }
                 className="inline-flex h-10 items-center justify-center rounded-full bg-cyan-300 px-5 text-sm font-semibold text-slate-950 transition-transform duration-200 hover:-translate-y-0.5 hover:bg-cyan-200 disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:translate-y-0"
               >

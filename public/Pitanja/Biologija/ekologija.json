@@ -72,8 +72,8 @@
   {
     "id": 3,
     "kategorija": "Ekologija",
-    "pitanje": "U sistemu A B C D E F okruzite slovo pod kojim je naveden naziv organizma odredjenih karakteristika:",
-    "tip": "kombinovani_izbor",
+    "pitanje": "U sistemu A B C D E F povezite pojam sa slovom pod kojim je navedena odgovarajuca izjava:",
+    "tip": "uparivanje",
     "opcije": [
       {
         "oznaka": "a",
@@ -101,12 +101,12 @@
       }
     ],
     "tacan_odgovor": [
-      "a-E",
+      "a-C",
       "b-D",
-      "c-A",
+      "c-F",
       "d-B",
-      "e-F",
-      "f-C"
+      "e-A",
+      "f-E"
     ]
   },
   {
@@ -249,8 +249,8 @@
   {
     "id": 8,
     "kategorija": "Ekologija",
-    "pitanje": "U sistemu A B C D okruzite slovo pod kojim je naveden naziv organizma odredjenih karakteristika:",
-    "tip": "kombinovani_izbor",
+    "pitanje": "U sistemu A B C D povezite pojam sa slovom pod kojim je navedena odgovarajuca izjava:",
+    "tip": "uparivanje",
     "opcije": [
       {
         "oznaka": "a",
@@ -2181,7 +2181,7 @@
       },
       {
         "oznaka": "b",
-        "tekst": "eo naseljenog prostora na Zemlji u okviru kojeg se odredjena vrsta razvija i razmnozava"
+        "tekst": "deo naseljenog prostora na Zemlji u okviru kojeg se odredjena vrsta razvija i razmnozava"
       },
       {
         "oznaka": "c",

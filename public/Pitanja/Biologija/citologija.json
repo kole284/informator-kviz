@@ -702,7 +702,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Sve membranozne organele (jedro, mitohondrije, plastide, ER, Goldži aparat...), osim ribozoma koje poseduju."
+      "Sve membranozne i amembranozne organele, osim ribozoma 70s."
     ]
   },
   {
@@ -722,7 +722,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Mitohondrije i plastidi (hloroplasti)."
+      "Mitohondrije i plastidi (jedro kao deo ćelije)."
     ]
   },
   {
@@ -742,7 +742,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Endoplazmatični retikulum sa ribozomima na površini; dobro je razvijen u ćelijama koje intenzivno sintetišu proteine."
+      "Endoplazmatični retikulum sa ribozomima na površini; dobro je razvijen u ćelijama koje sintetišu proteine."
     ]
   },
   {
@@ -752,7 +752,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Za ćelije koje intenzivno sintetišu masti (lipide) i steroide."
+      "Za ćelije koje intenzivno sintetišu masti i sterole."
     ]
   },
   {
@@ -768,11 +768,11 @@
   {
     "id": 30,
     "kategorija": "Citologija",
-    "pitanje": "U čemu se razlikuju ribozomi Procaryota i Eucaryota?",
+    "pitanje": "U čemu se razlikuju ribozomi Prokariota i Eukariota?",
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "U sedimentacionim konstantama i veličini subjedinica."
+      "U sedimentacionim konstantama."
     ]
   },
   {
@@ -782,7 +782,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Dvomembranozne organele; unutrašnja membrana gradi kriste, sadrže matriks, sopstvenu DNK, RNK i ribozome."
+      "Dvomembranozne organele; unutrašnja membrana gradi invaginacije-kriste, sadrže matriks, prokariotski tip DNK, sva tri tipa RNK i ribozoma."
     ]
   },
   {
@@ -792,7 +792,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Ćelijsko disanje i proizvodnja energije (ATP)."
+      "U procesu ćelijskog disanja."
     ]
   },
   {
@@ -802,7 +802,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Imaju sopstvenu DNK. Imaju sopstvene ribozome prokariotskog tipa. Razmnožavaju se deobom. Poseduju dvostruku membranu."
+      "Nezavisna deoba, sopstvena DNK, ogolela prokariotskog tipa, sopstveni ribozomi prokariotskog tipa i prisustvo sva 3 tipa RNK."
     ]
   },
   {
@@ -812,7 +812,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Modifikacija, agregacija, pakovanje i usmeravanje makromolekula; dobro je razvijen u sekretornim i žlezdanim ćelijama."
+      "Agregacija, usmeravanje makromolekula; dobro je razvijen u sekretornim."
     ]
   },
   {
@@ -832,7 +832,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Unošenje tečnosti iz spoljašnje sredine dinamičkim promenama ćelijske membrane."
+      "Unošenje tečnih materija."
     ]
   },
   {
@@ -842,7 +842,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Formiranje deobnog vretena tokom ćelijske deobe."
+      "U obrazovanju deobnog vretena i bazalnih tela treplji i bičeva."
     ]
   },
   {
@@ -852,7 +852,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Životinjske ćelije imaju astere i centrozom. Biljne ćelije nemaju astere. Citokineza se odvija obrazovanjem fragmoplasta kod biljaka, a usecanjem membrane kod životinja."
+      "Asteri i konstrikcioni prsten pri citokinezi kd životinja, fragmoblast u citokinezi i odstustvo blastera kod biljaka."
     ]
   },
   {
@@ -862,7 +862,7 @@
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "Ribozomi, mikrotubule, mikrofilamenti, centrozom (centrioli)."
+      "Ribozomi, centrozomi, derivati centrozoma (asteri, bazalna tela), mikrotubule."
     ]
   },
   {

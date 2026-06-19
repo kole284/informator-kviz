@@ -770,7 +770,7 @@
   {
     "id": 33,
     "kategorija": "Biologija razvica",
-    "pitanje": "Nauka koja proucava poremetaje razvica po dejstvom razlicitih faktora naziva se (okruzite sta je tacno):",
+    "pitanje": "Nauka koja proucava poremecaje razvica po dejstvom razlicitih faktora naziva se (okruzite sta je tacno):",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -1571,7 +1571,7 @@
       }
     ],
     "tacan_odgovor": [
-      "a"
+      "a","c"
     ]
   },
   {
