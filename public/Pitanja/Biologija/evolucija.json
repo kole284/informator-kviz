@@ -100,10 +100,40 @@
     "id": 4,
     "kategorija": "Evolucija",
     "pitanje": "U sistemu A B C D E F okruzite slovo pod kojim je navedeno objasnjenje odgovarajuceg pojma:",
-    "tip": "upisivanje",
-    "opcije": [],
+    "tip": "uparivanje",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "adaptivni tip A B C D E F - nacin zivota predstavnika odredjene sistematske kategorije"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mutualizam A B C D E F - skup svojstava kojima se takson prilagodjava uslovima zivota"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "ekoloska nisa A B C D E F - povisenje nivoa organizacije i sticanje sirih adaptivnih mogucnosti"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "adaptivna zona A B C D E F - ekoloske mogucnosti koje koristi odredjena vrsta"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "kompeticija A B C D E F - zajednicko ostvarenje uslova za zivot"
+      },
+      {
+        "oznaka": "f",
+        "tekst": "aromorfoza A B C D E F - borba za slicne prostorne uslove, ishranu i nacin zivota"
+      }
+    ],
     "tacan_odgovor": [
-      "a) B, b) D, c) C, d) A, e) F, f) C"
+      "a-A",
+      "b-E",
+      "c-D",
+      "d-B",
+      "e-F",
+      "f-C"
     ]
   },
   {
@@ -259,16 +289,36 @@
     "id": 10,
     "kategorija": "Evolucija",
     "pitanje": "U sistemu A B C D okruzite slovo pod kojim je navedeno objasnjenje datog pojma:",
-    "tip": "upisivanje",
-    "opcije": [],
+    "tip": "uparivanje",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kompeticija A B C D - borba za slicne prostorne uslove, ishranu i nacin zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kooperacija A B C D - koriscenje drugih organizama za ishranu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "predatorstvo A B C D - zivljenje na racun drugih organizama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "parazitizam A B C D - zajednicko ostvarenje uslova za zivot"
+      }
+    ],
     "tacan_odgovor": [
-      "kompeticija - a), kooperacija - d), predatorstvo - b), parazitizam - c)"
+      "a-A",
+      "b-D",
+      "c-B",
+      "d-C"
     ]
   },
   {
     "id": 11,
     "kategorija": "Evolucija",
-    "pitanje": "zivotna forma je skup adaptivnih karakteristika jedne organske usaglasenih sa konkretnim uslovima sredine",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Sukcesija je smenjivanje jednog ekosistema drugim u funkciji vremena.\n2. Populacija je grupa jedinki iste vrste koja nastanjuje odredjeni prostor i pripada odredjenoj biocenozi.\n3. Populacija je grupa jedinki razlicitih vrsta koje pripadaju istoj biocenozi i reproduktivno su izolovane.\n4. Populacija je grupa jedinki iste vrste koje nastanjuju razlicita stanista i reproduktivno su izolovane.\n5. Populacija je grupa jedinki koja naseljava odredjeni ekosistem.\n6. Zivotna forma je skup adaptivnih karakteristika jedne organske vrste usaglasenih sa konkretnim uslovima sredine.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -303,7 +353,7 @@
   {
     "id": 12,
     "kategorija": "Evolucija",
-    "pitanje": "balansna selekcija moze odredjene retke fenotipove da favorizuje u smislu povecane reprodukcije ili ih eliminise zavisno od njihove zastupljenosti u populaciji",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Geneticku ravnotezu populacija pored ostalog remete selekcija, migracija i geneticki drift.\n2. Pod alopatrickom specijacijom podrazumeva se specijacija koja nastaje zbog povecane panmiksije.\n3. Adaptivna zona je skup svojstava kojima se vrsta prilagodjava uslovima biotopa.\n4. Alopatricka specijacija je nastajanje novih vrsta procesom divergencije medjusobno udaljenih ili ekoloski izolovanih populacija.\n5. Balansna selekcija eliminise samo dominantne homozigote.\n6. Balansna selekcija moze odredjene retke fenotipove da favorizuje u smislu povecane reprodukcije ili ih eliminise zavisno od njihove zastupljenosti u populaciji.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -338,7 +388,7 @@
   {
     "id": 13,
     "kategorija": "Evolucija",
-    "pitanje": "autotrofi su bili evolutivno sposobniji i potisnuli su heterotrofe",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Ekoloska nisa je skup ekoloskih mogucnosti koje koristi odredjena vrsta.\n2. Najcesce izumiru one vrste koje su adaptirane na vrlo razlicite uslove zivota.\n3. Atavizam se javlja kao rezultat specificne kombinacije gena, danas izuzetno retkih.\n4. Vise taksonomske kategorije ne nastaju procesima evolucije i specijacije.\n5. Pod genetickim opterecenjem populacije podrazumeva se svako smanjenje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizama.\n6. Autotrofi su bili evolutivno sposobniji i potisnuli su heterotrofe.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -373,7 +423,7 @@
   {
     "id": 14,
     "kategorija": "Evolucija",
-    "pitanje": "heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Geneticku ravnotezu populacija remeti slucajno ukrstanje jedinki.\n2. Pod genetickim opterecenjem populacije podrazumeva se ukupan broj mutacija koje nose jedinke.\n3. Balansna selekcija deluje na odredjene genske oblike nezavisno od vremenskih intervala.\n4. Nize taksonomske kategorije ne nastaju procesima evolucije i specijacije.\n5. Pod genetickim opterecenjem populacije podrazumeva se svako smanjenje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizama.\n6. Heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -408,7 +458,7 @@
   {
     "id": 15,
     "kategorija": "Evolucija",
-    "pitanje": "heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Geneticku ravnotezu populacija remete selekcija, migracije i mutacije.\n2. Tokom filogenetskog izumiranja iscezavale su prvenstveno klase.\n3. Najcesce izumiru one vrste cije su populacije male i adaptirane na vrlo razlicite uslove zivotne sredine.\n4. Tokom filogenetskog izumiranja iscezavale su prvenstveno vrste.\n5. Pod genetickim opterecenjem populacije podrazumeva se svako smanjenje adaptivne vrednosti populacije uslovljeno genetickom varijabilnoscu organizama.\n6. Heterotrofi su bili evolutivno sposobniji i potisnuli su autotrofe.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -474,7 +524,7 @@
   {
     "id": 17,
     "kategorija": "Evolucija",
-    "pitanje": "analogni organi su krila ptica i prednji udovi coveka",
+    "pitanje": "Zaokruzite slovo pod kojim se nalaze tacni odgovori:\n1. Homologi organi su istog porekla, a razlicite funkcije.\n2. Homologi organi su kombinovanog porekla, funkcije i iste gradje.\n3. Homologi organi su istog porekla i iste funkcije.\n4. Analogni organi su iste funkcije, a razlicitog porekla.\n5. Analogni organi su iste funkcije, a kombinovanog porekla.\n6. Analogni organi su krila pcele i krila ptice.\n7. Analogni organi su krila ptica i prednji udovi coveka.",
     "tip": "visestruki_izbor",
     "opcije": [
       {
@@ -506,10 +556,30 @@
     "id": 18,
     "kategorija": "Evolucija",
     "pitanje": "U sistemu A B C D okruzite slovo pod kojim je navedena tacna definicija pojma:",
-    "tip": "upisivanje",
-    "opcije": [],
+    "tip": "uparivanje",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "homologi organi A B C D - pojava predackih organa i karakteristika tokom embriogeneze nekih organizama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "analogni organi A B C D - iste gradje, filogenetskog i embrioloskog porekla, a razlicite funkcije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "atavizam A B C D - slicnost u gradji filogenetski udaljenih grupa organizama koje zive u slicnim ekoloskim uslovima"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "konvergencija A B C D - razlicitog porekla, a iste funkcije"
+      }
+    ],
     "tacan_odgovor": [
-      "a) C, b) A, c) D, d) B"
+      "a-B",
+      "b-D",
+      "c-A",
+      "d-C"
     ]
   },
   {
@@ -992,7 +1062,7 @@
       }
     ],
     "tacan_odgovor": [
-      "c"
+      "f"
     ]
   },
   {
