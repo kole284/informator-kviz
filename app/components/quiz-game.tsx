@@ -47,6 +47,8 @@ const QUESTION_FILE_GROUPS = {
 } as const;
 
 const SUBJECTS = ["Biologija", "Hemija"] as const;
+const ALL_CATEGORIES = "__all_categories__";
+const ALL_CATEGORIES_LABEL = "Sva pitanja";
 
 type Subject = (typeof SUBJECTS)[number];
 
@@ -258,6 +260,8 @@ export function QuizGame() {
       : "w-full sm:grid-cols-2 lg:grid-cols-4";
   const hasQuestions = questions.length > 0;
   const isComplete = hasQuestions && currentIndex >= questions.length;
+  const selectedCategoryLabel =
+    selectedCategory === ALL_CATEGORIES ? ALL_CATEGORIES_LABEL : selectedCategory;
   const hasSubmittedAnswer = submittedAnswers !== null;
   const correctAnswers = currentQuestion?.tacan_odgovor ?? [];
   const isTextInputQuestion = currentQuestion
@@ -338,11 +342,7 @@ export function QuizGame() {
       return;
     }
 
-    const filteredQuestions = allQuestions.filter(
-      (question) =>
-        question.kategorija === selectedCategory &&
-        question.oblast === selectedSubject,
-    );
+    const filteredQuestions = getQuestionsForSelection(selectedCategory);
 
     if (filteredQuestions.length === 0) {
       return;
@@ -356,11 +356,18 @@ export function QuizGame() {
     setScore(0);
   }
 
+  function getQuestionsForSelection(category: string) {
+    return allQuestions.filter((question) => {
+      if (question.oblast !== selectedSubject) {
+        return false;
+      }
+
+      return category === ALL_CATEGORIES || question.kategorija === category;
+    });
+  }
+
   function selectCategory(category: string) {
-    const filteredQuestions = allQuestions.filter(
-      (question) =>
-        question.kategorija === category && question.oblast === selectedSubject,
-    );
+    const filteredQuestions = getQuestionsForSelection(category);
 
     setSelectedCategory(category);
     setQuestions(createRound(filteredQuestions, questionOrder));
@@ -598,6 +605,19 @@ export function QuizGame() {
             </p>
 
             <div className={`mt-3 grid gap-2 ${categoryGridClassName}`}>
+              <button
+                type="button"
+                onClick={() => selectCategory(ALL_CATEGORIES)}
+                className="flex min-h-24 flex-col justify-between rounded-2xl border border-cyan-300/35 bg-cyan-300/10 px-4 py-3 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-cyan-300/70 hover:bg-cyan-300/15"
+              >
+                <p className="text-sm font-semibold leading-5 text-white">
+                  {ALL_CATEGORIES_LABEL}
+                </p>
+                <p className="mt-1 text-xs uppercase tracking-[0.18em] text-cyan-200">
+                  {subjectQuestions.length} pitanja
+                </p>
+              </button>
+
               {categories.map((category) => {
                 const questionCount = allQuestions.filter(
                   (question) =>
@@ -632,7 +652,7 @@ export function QuizGame() {
         <div className="mx-auto flex min-h-[calc(100vh-4rem)] max-w-5xl items-center justify-center rounded-[2rem] border border-white/10 bg-slate-950/70 p-8 text-center shadow-2xl shadow-slate-950/40 backdrop-blur">
           <div className="max-w-md">
             <p className="text-sm font-semibold uppercase tracking-[0.3em] text-cyan-300">
-              {selectedCategory}
+              {selectedCategoryLabel}
             </p>
             <h1 className="mt-3 text-3xl font-bold text-white">
               Nema pitanja za ovu kategoriju.
@@ -663,7 +683,7 @@ export function QuizGame() {
                 Osvojio si {score} od {questions.length} poena.
               </h1>
               <p className="mt-3 text-sm leading-7 text-slate-300 sm:text-base">
-                Oblast: {selectedSubject} | Kategorija: {selectedCategory}
+                Oblast: {selectedSubject} | Kategorija: {selectedCategoryLabel}
               </p>
             </div>
 
@@ -751,7 +771,7 @@ export function QuizGame() {
               Kategorija
             </p>
             <p className="mt-1 text-xl font-semibold text-white">
-              {currentQuestion.oblast} | {currentQuestion.kategorija}
+              {currentQuestion.oblast} | {selectedCategoryLabel}
             </p>
           </div>
         </div>
