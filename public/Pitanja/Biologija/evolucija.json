@@ -2060,11 +2060,28 @@
   {
     "id": 69,
     "kategorija": "Evolucija",
-    "pitanje": "Archaeornis i Archaeopteryx iz jure i Seymouria iz perma",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Prelazna forma izmedju vodozemaca i gmizavaca je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "Cynognathus iz triasa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "Archaeornis i Archaeopteryx iz jure"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "Seymouria iz perma"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "Archaeornis i Archaeopteryx iz jure i Seymouria iz perma"
+      }
+    ],
     "tacan_odgovor": [
-      "3."
+      "c"
     ]
   },
   {
@@ -2097,71 +2114,198 @@
   {
     "id": 71,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Prema tipu promene koje se desavaju u strukturi jedne populacije razlikujemo (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "progresivnu i stabilizacionu selekciju"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "balansnu i prirodnu selekciju"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prirodnu i vestacku selekciju"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "1."
+      "a"
     ]
   },
   {
     "id": 72,
     "kategorija": "Evolucija",
-    "pitanje": "tacni su odgovori pod 2 i 3",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "progresivna selekcija deluje u sredini gde su uslovi relativno povoljni tako da se eliminisu novonastale promene"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "progresivna selekcija deluje u skladu sa promenama zivotne sredine"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stabilizaciona selekcija deluje u sredini gde su uslovi relativno povoljni tako da se eliminisu novonastale promene"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi odgovori su tacni"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "tacni su odgovori pod 2 i 3"
+      }
+    ],
     "tacan_odgovor": [
-      "5."
+      "e"
     ]
   },
   {
     "id": 73,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Koevolucija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "sukcesivni nastanak jedne vrste iz druge, putem medjusobnih interakcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "nastanak dve nove vrste iz jedne vec postojece putem interakcije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "pojava istovremene evolucije populacija razlicitih vrsta koje su u medjusobnim interakcijama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "3."
+      "c"
     ]
   },
   {
     "id": 74,
     "kategorija": "Evolucija",
-    "pitanje": "kooperacija, predatorstvo, parazitizam, konkurencija, specijacija i selekcija",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Osnovni oblici interakcije izmedju dve vrste mogu biti (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kooperacija, specijacija i selekcija"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "predatorstvo, specijacija i selekcija"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kooperacija, predatorstvo, parazitizam i konkurencija"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kooperacija, predatorstvo, parazitizam, konkurencija, specijacija i selekcija"
+      }
+    ],
     "tacan_odgovor": [
-      "3."
+      "c"
     ]
   },
   {
     "id": 75,
     "kategorija": "Evolucija",
-    "pitanje": "mutacija, selekcija, migracija i geneticka slucajnost",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Cinioci koji dovode do promena u sastavu jedne populacije tj. do izmena koje mogu biti osnove evolucionih kretanja su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "mutacije, transkripcija, migracija i geneticka slucajnost"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "selekcija, transkripcija, migracija i geneticka slucajnost"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "selekcija, translacija, migracija i geneticka slucajnost"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "mutacija, selekcija, migracija i geneticka slucajnost"
+      }
+    ],
     "tacan_odgovor": [
-      "4."
+      "d"
     ]
   },
   {
     "id": 76,
     "kategorija": "Evolucija",
-    "pitanje": "minimalni reproduktivni uspeh grupe jedinki odredjenog genotipa",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Adaptivna vrednost ili fitnes oznacava (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "apsolutni reproduktivni uspeh grupe jedinki odredjenog genotipa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "relativni reproduktivni uspeh grupe jedinki odredjenog genotipa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "umereni reproduktivni uspeh grupe jedinki odredjenog genotipa"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "minimalni reproduktivni uspeh grupe jedinki odredjenog genotipa"
+      }
+    ],
     "tacan_odgovor": [
-      "2."
+      "b"
     ]
   },
   {
     "id": 77,
     "kategorija": "Evolucija",
-    "pitanje": "tacni su samo odgovori pod 2 i 3",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Geneticka opterecenja podrazumevaju (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "svako povecanje adaptivne vrednosti dela populacije, koje je rezultat povecanja geneticke varijabilnosti organizma"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "svako smanjenje adaptivne vrednosti dela populacije, koje je rezultat smanjenja geneticke varijabilnosti organizma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "stetni efekat akumuliranih, najcesce recesivno-homozigotnih mutacija u prirodnim populacijama organizama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "tacni su svi odgovori"
+      },
+      {
+        "oznaka": "e",
+        "tekst": "tacni su samo odgovori pod 2 i 3"
+      }
+    ],
     "tacan_odgovor": [
-      "5."
+      "e"
     ]
   },
   {
@@ -2248,41 +2392,109 @@
   {
     "id": 81,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Konvergencija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prilagodjavanje razlicitih grupa razlicitim uslovima zivota pri cemu nastaju, organizmi medjusobno razlicitih karakteristika"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slicnost izmedju riba i delfina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slicnost izmedju morskog psa i murine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "2."
+      "b"
     ]
   },
   {
     "id": 82,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Konvergencija je (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prilagodjavanje razlicitih grupa slicnim uslovima zivota pri cemu nastaju, organizmi medjusobno slicnih karakteristika"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slicnost izmedju sarana i suncice"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slicnost izmedju morskog psa i murine"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "1."
+      "a"
     ]
   },
   {
     "id": 83,
     "kategorija": "Evolucija",
-    "pitanje": "progresivna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti cim njihove populacije postanu reproduktivno izolovane",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "divergentna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti cim njihove populacije postanu reproduktivno izolovane"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "divergentna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti pre njihove reproduktivne izolacije"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "konvergentna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti cim njihove populacije postanu reproduktivno izolovane"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "progresivna evolucija je proces kojim iz populacije jedne vrste moze nastati nekoliko novih, cija se dalja divergencija moze nastaviti cim njihove populacije postanu reproduktivno izolovane"
+      }
+    ],
     "tacan_odgovor": [
-      "1."
+      "a"
     ]
   },
   {
     "id": 84,
     "kategorija": "Evolucija",
-    "pitanje": "geneticka slucajnost je vazan faktor evolucije jer se njenim delovanjem adaptivno usmeravaju promene nastale migracijama",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "selekcija je vazan faktor evolucije jer se njenim delovanjem adaptivno usmeravaju promene nastale mutacijama"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "mutacije su vazan faktor evolucije jer se njihovim delovanjem adaptivno usmeravaju promene nastale selekcijom"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "selekcija je vazan faktor evolucije jer se njenim delovanjem adaptivno usmeravaju promene nastale migracijama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "geneticka slucajnost je vazan faktor evolucije jer se njenim delovanjem adaptivno usmeravaju promene nastale migracijama"
+      }
+    ],
     "tacan_odgovor": [
-      "1."
+      "a"
     ]
   },
   {
@@ -2315,57 +2527,142 @@
   {
     "id": 86,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Homologije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "slicnosti u gradji nastale kao posledica razlicitih uslova zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slicnosti po poreklu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slicnosti po funkciji"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "2."
+      "b"
     ]
   },
   {
     "id": 87,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Analogije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "slicnosti u gradji nastale kao posledica razlicitih uslova zivota"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "slicnosti po poreklu"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "slicnosti po funkciji"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "3."
+      "c"
     ]
   },
   {
     "id": 88,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Homologi organi su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "prednji ekstremiteti zaba i krila insekata"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "prednji ekstremiteti zaba i krila slepog misa"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "prednji ekstremiteti gustera i krila insekata"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "2."
+      "b"
     ]
   },
   {
     "id": 89,
     "kategorija": "Evolucija",
-    "pitanje": "nijedan odgovor nije tacan",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Analogije su (okruzite sta je tacno):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "oblik tela delfina i morskog psa"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "oblik tela morskog psa i sarana"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "oblik tela varana i krokodila"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "nijedan odgovor nije tacan"
+      }
+    ],
     "tacan_odgovor": [
-      "1."
+      "a"
     ]
   },
   {
     "id": 90,
     "kategorija": "Evolucija",
-    "pitanje": "svi odgovori su tacni",
-    "tip": "upisivanje",
-    "opcije": [],
+    "pitanje": "Okruzite sta je tacno:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "najpoznatiji evolucioni niz predaka danasnjih goveda koji pokazuje kako je od malog Eohippusa (velicine manje ovce koji je ziveo pre oko 50 miliona godina nastalo danasnje govece"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "najpoznatiji evolucioni niz predaka danasnjih konja koji pokazuje kako je od malog Eohippusa (velicine manje ovce) koji je ziveo pre oko 50 miliona godina nastao danasnji konj"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "najpoznatiji evolucioni niz predaka danasnjih koza koji pokazuje kako je od malog Eohippusa (velicine manje ovce, koji je ziveo pre oko 50 miliona godina nastala danasnja koza"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "svi odgovori su tacni"
+      }
+    ],
     "tacan_odgovor": [
-      "2."
+      "b"
     ]
   },
   {
     "id": 91,
     "kategorija": "Evolucija",
-    "pitanje": "Dopunite sledecu recenicu:\nVodozemci vode poreklo od primitivnihsakoperki.",
+    "pitanje": "Dopunite sledecu recenicu:\nVodozemci vode poreklo od:",
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
@@ -2375,7 +2672,7 @@
   {
     "id": 92,
     "kategorija": "Evolucija",
-    "pitanje": "Dopunite sledecu recenicu:\nPrvi tipicni vodozemci pojavili su se u devonu i od njih vode poreklo svi visi kicmenjaci, a zvali su se Stegocephala.",
+    "pitanje": "Dopunite sledecu recenicu:\nPrvi tipicni vodozemci pojavili su se u devonu i od njih vode poreklo svi visi kicmenjaci, a zvali su se:",
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
@@ -2385,11 +2682,11 @@
   {
     "id": 93,
     "kategorija": "Evolucija",
-    "pitanje": "Dopunite sledecu recenicu:\nNajstariji oblici izumrlih Agnatha bili su stikonase (oklopyace).",
+    "pitanje": "Dopunite sledecu recenicu:\nNajstariji oblici izumrlih Agnatha bili su:",
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [
-      "stikonase (oklopyace)"
+      "stitonose (oklopnjace)"
     ]
   },
   {

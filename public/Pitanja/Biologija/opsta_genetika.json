@@ -381,39 +381,42 @@
       }
     ],
     "tacan_odgovor": [
-      "c",
-      "d"
+      "c"
     ]
   },
   {
     "id": 15,
     "kategorija": "Opšta genetika",
     "pitanje": "Koji tip hromozomskih aberacija imaju navedeni sindromi:",
-    "tip": "visestruki_izbor",
+    "tip": "upisivanje",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "Lejen-ov sindrom - delacija"
+        "tekst": "Lejen-ov sindrom"
       },
       {
         "oznaka": "b",
-        "tekst": "Patau sindrom - trizomija 13"
+        "tekst": "Patau sindrom"
       },
       {
         "oznaka": "c",
-        "tekst": "Down-ov sindrom - trizomija 21"
+        "tekst": "Down-ov sindrom"
       },
       {
         "oznaka": "d",
-        "tekst": "Tuner-ov sindrom - monozomija X hromozoma"
+        "tekst": "Tuner-ov sindrom"
       },
       {
         "oznaka": "e",
-        "tekst": "Phyladelphia hromozom - translokacija"
+        "tekst": "Phyladelphia hromozom"
       }
     ],
     "tacan_odgovor": [
-      "(opisni odgovori upisani u knjizi)"
+      "delacija",
+      "trizomija 13",
+      "trizomija 21",
+      "monozomija X hromozoma",
+      "translokacija"
     ]
   },
   {
@@ -1615,7 +1618,6 @@
     ],
     "tacan_odgovor": [
       "a",
-      "b",
       "c"
     ]
   },
@@ -1783,7 +1785,7 @@
       }
     ],
     "tacan_odgovor": [
-      "c"
+      "a"
     ]
   },
   {
@@ -1912,7 +1914,7 @@
   {
     "id": 89,
     "kategorija": "Opšta genetika",
-    "pitanje": "Koliko fenotipova ima kod aditivne poligenije ako jednu osobinu kontrolišu 4 para gena",
+    "pitanje": "Koliko fenotipova ima kod aditivne poligenije ako jednu osobinu kontrolišu 2 para gena",
     "tip": "upisivanje",
     "opcije": [],
     "tacan_odgovor": [

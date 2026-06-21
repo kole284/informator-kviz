@@ -26,6 +26,11 @@ type MatchingItem = {
   statementLabel: string;
   statementText: string;
 };
+type TextInputItem = {
+  label: string;
+  prompt: string;
+  correctAnswer: string;
+};
 
 const QUESTION_FILE_GROUPS = {
   Biologija: [
@@ -49,6 +54,15 @@ const QUESTION_FILE_GROUPS = {
 const SUBJECTS = ["Biologija", "Hemija"] as const;
 const ALL_CATEGORIES = "__all_categories__";
 const ALL_CATEGORIES_LABEL = "Sva pitanja";
+const ENTRANCE_EXAM = "__entrance_exam__";
+const ENTRANCE_EXAM_LABEL = "Prijemni";
+const BIOLOGY_ENTRANCE_QUESTIONS_PER_CATEGORY = 3;
+const ENTRANCE_EXAM_QUESTION_COUNT = 60;
+const CHEMISTRY_ENTRANCE_QUESTION_COUNTS = {
+  "Opšta i neorganska hemija": 15,
+  "Organska hemija": 15,
+} as const;
+const SHOW_DEV_TOOLS = process.env.NODE_ENV !== "production";
 
 type Subject = (typeof SUBJECTS)[number];
 
@@ -104,6 +118,36 @@ function createRound(sourceQuestions: QuizQuestion[], order: QuestionOrder) {
   return shuffleArray(sourceQuestions);
 }
 
+function createEntranceExamRound(sourceQuestions: QuizQuestion[]) {
+  const biologyCategories = Array.from(
+    new Set(
+      sourceQuestions
+        .filter((question) => question.oblast === "Biologija")
+        .map((question) => question.kategorija),
+    ),
+  );
+  const biologyQuestions = biologyCategories.flatMap((category) =>
+    shuffleArray(
+      sourceQuestions.filter(
+        (question) =>
+          question.oblast === "Biologija" && question.kategorija === category,
+      ),
+    ).slice(0, BIOLOGY_ENTRANCE_QUESTIONS_PER_CATEGORY),
+  );
+  const chemistryQuestions = Object.entries(
+    CHEMISTRY_ENTRANCE_QUESTION_COUNTS,
+  ).flatMap(([category, count]) =>
+    shuffleArray(
+      sourceQuestions.filter(
+        (question) =>
+          question.oblast === "Hemija" && question.kategorija === category,
+      ),
+    ).slice(0, count),
+  );
+
+  return shuffleArray([...biologyQuestions, ...chemistryQuestions]);
+}
+
 function normalizeQuestionType(type: string) {
   return type.toLowerCase().replace(/[\s_-]+/g, "");
 }
@@ -139,6 +183,166 @@ function getMatchingItems(question: QuizQuestion | undefined) {
   return question?.opcije.map(getMatchingItem) ?? [];
 }
 
+function getTextInputItems(question: QuizQuestion | undefined): TextInputItem[] {
+  if (!question) {
+    return [];
+  }
+
+  if (question.opcije.length === 0) {
+    return question.tacan_odgovor.map((answer, index) => ({
+      label: String(index + 1),
+      prompt: "Odgovor",
+      correctAnswer: answer,
+    }));
+  }
+
+  return question.opcije.map((option, index) => ({
+    label: option.oznaka,
+    prompt: option.tekst,
+    correctAnswer: question.tacan_odgovor[index] ?? "",
+  }));
+}
+
+function normalizeTextAnswer(answer: string) {
+  return answer.trim().toLocaleLowerCase("sr").replace(/\s+/g, " ");
+}
+
+function areSameTextAnswers(left: string[], right: string[]) {
+  if (left.length !== right.length) {
+    return false;
+  }
+
+  return left.every(
+    (answer, index) =>
+      normalizeTextAnswer(answer) === normalizeTextAnswer(right[index] ?? ""),
+  );
+}
+
+function DevQuestionFinder({
+  questions,
+  onOpenQuestion,
+}: {
+  questions: QuizQuestion[];
+  onOpenQuestion: (category: string, questionId: number) => void;
+}) {
+  const categories = Array.from(
+    new Set(questions.map((question) => question.kategorija)),
+  ).sort((left, right) => left.localeCompare(right, "sr"));
+  const [category, setCategory] = useState(categories[0] ?? "");
+  const [questionId, setQuestionId] = useState("");
+  const [isExpanded, setIsExpanded] = useState(false);
+  const selectedDevCategory = categories.includes(category)
+    ? category
+    : categories[0] ?? "";
+  const matchingQuestions = questions
+    .filter((question) => question.kategorija === selectedDevCategory)
+    .sort((left, right) => left.id - right.id);
+  const targetQuestion = matchingQuestions.find(
+    (question) => question.id === Number(questionId),
+  );
+
+  if (questions.length === 0 || categories.length === 0) {
+    return null;
+  }
+
+  return (
+    <aside className="fixed right-3 top-3 z-50 w-[min(18rem,calc(100vw-1.5rem))] text-slate-100">
+      <button
+        type="button"
+        aria-expanded={isExpanded}
+        onClick={() => setIsExpanded((value) => !value)}
+        className="ml-auto flex h-9 items-center gap-2 rounded-full border border-amber-300/35 bg-slate-950/95 px-3 text-xs font-semibold uppercase tracking-[0.16em] text-amber-200 shadow-xl shadow-slate-950/35 backdrop-blur transition-colors hover:bg-slate-900"
+      >
+        Dev
+        <span className="text-[0.65rem] text-slate-500">
+          {isExpanded ? "zatvori" : "finder"}
+        </span>
+      </button>
+
+      {isExpanded && (
+        <div className="mt-2 rounded-2xl border border-amber-300/35 bg-slate-950/95 p-2 shadow-2xl shadow-slate-950/50 backdrop-blur">
+          <div className="flex items-center justify-between gap-3">
+            <p className="text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-amber-200">
+              Pitanje finder
+            </p>
+            <button
+              type="button"
+              onClick={() => setIsExpanded(false)}
+              className="h-7 rounded-full border border-white/10 px-2 text-[0.65rem] font-semibold uppercase tracking-[0.12em] text-slate-300 transition-colors hover:bg-white/10 hover:text-white"
+            >
+              x
+            </button>
+          </div>
+
+          <div className="mt-2 grid gap-2">
+            <label className="grid gap-1 text-[0.7rem] text-slate-400">
+              Kategorija
+              <select
+                value={selectedDevCategory}
+                onChange={(event) => {
+                  setCategory(event.target.value);
+                  setQuestionId("");
+                }}
+                className="h-8 rounded-lg border border-white/15 bg-slate-900 px-2 text-xs text-white outline-none focus:border-amber-300/70"
+              >
+                {categories.map((item) => (
+                  <option key={item} value={item}>
+                    {item}
+                  </option>
+                ))}
+              </select>
+            </label>
+
+            <div className="grid grid-cols-[1fr_auto] gap-2">
+              <label className="grid gap-1 text-[0.7rem] text-slate-400">
+                Broj
+                <input
+                  type="number"
+                  min="1"
+                  value={questionId}
+                  onChange={(event) => setQuestionId(event.target.value)}
+                  className="h-8 rounded-lg border border-white/15 bg-slate-900 px-2 text-xs text-white outline-none focus:border-amber-300/70"
+                />
+              </label>
+
+              <button
+                type="button"
+                onClick={() => {
+                  if (targetQuestion) {
+                    onOpenQuestion(targetQuestion.kategorija, targetQuestion.id);
+                    setIsExpanded(false);
+                  }
+                }}
+                disabled={!targetQuestion}
+                className="mt-auto h-8 rounded-lg bg-amber-300 px-3 text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-slate-950 transition-colors hover:bg-amber-200 disabled:cursor-not-allowed disabled:opacity-50"
+              >
+                Otvori
+              </button>
+            </div>
+          </div>
+
+          <div className="mt-2 rounded-xl border border-white/10 bg-white/5 p-2">
+            {targetQuestion ? (
+              <>
+                <p className="text-[0.65rem] uppercase tracking-[0.16em] text-slate-500">
+                  {targetQuestion.oblast} | #{targetQuestion.id}
+                </p>
+                <p className="mt-1 line-clamp-2 text-[0.7rem] leading-4 text-slate-200">
+                  {targetQuestion.pitanje}
+                </p>
+              </>
+            ) : (
+              <p className="text-[0.7rem] leading-4 text-slate-400">
+                Izaberi kategoriju i broj pitanja.
+              </p>
+            )}
+          </div>
+        </div>
+      )}
+    </aside>
+  );
+}
+
 function getSelectedMatchingStatement(
   answers: string[],
   termLabel: string,
@@ -156,7 +360,7 @@ export function QuizGame() {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState<string[]>([]);
-  const [textAnswer, setTextAnswer] = useState("");
+  const [textAnswers, setTextAnswers] = useState<string[]>([]);
   const [submittedAnswers, setSubmittedAnswers] = useState<string[] | null>(null);
   const [score, setScore] = useState(0);
   const [status, setStatus] = useState<LoadStatus>("loading");
@@ -258,10 +462,15 @@ export function QuizGame() {
     categories.length <= 2
       ? "mx-auto w-full max-w-3xl sm:grid-cols-2"
       : "w-full sm:grid-cols-2 lg:grid-cols-4";
+  const isEntranceExam = selectedCategory === ENTRANCE_EXAM;
   const hasQuestions = questions.length > 0;
   const isComplete = hasQuestions && currentIndex >= questions.length;
   const selectedCategoryLabel =
-    selectedCategory === ALL_CATEGORIES ? ALL_CATEGORIES_LABEL : selectedCategory;
+    selectedCategory === ALL_CATEGORIES
+      ? ALL_CATEGORIES_LABEL
+      : selectedCategory === ENTRANCE_EXAM
+        ? ENTRANCE_EXAM_LABEL
+        : selectedCategory;
   const hasSubmittedAnswer = submittedAnswers !== null;
   const correctAnswers = currentQuestion?.tacan_odgovor ?? [];
   const isTextInputQuestion = currentQuestion
@@ -279,6 +488,10 @@ export function QuizGame() {
   const matchingItems = isMatchingQuestion
     ? getMatchingItems(currentQuestion)
     : [];
+  const textInputItems = isTextInputQuestion
+    ? getTextInputItems(currentQuestion)
+    : [];
+  const requiredTextAnswerCount = textInputItems.length || 1;
   const matchingStatementLabels = matchingItems.map(
     (item) => item.statementLabel,
   );
@@ -314,6 +527,19 @@ export function QuizGame() {
     setSelectedAnswers([optionLabel]);
   }
 
+  function updateTextAnswer(index: number, value: string) {
+    if (hasSubmittedAnswer) {
+      return;
+    }
+
+    setTextAnswers((current) => {
+      const nextAnswers = [...current];
+      nextAnswers[index] = value;
+
+      return nextAnswers;
+    });
+  }
+
   function selectMatchingAnswer(termLabel: string, statementLabel: string) {
     if (hasSubmittedAnswer) {
       return;
@@ -338,6 +564,19 @@ export function QuizGame() {
   }
 
   function resetRound() {
+    if (isEntranceExam) {
+      const examQuestions = createEntranceExamRound(allQuestions);
+
+      setQuestions(examQuestions);
+      setCurrentIndex(0);
+      setSelectedAnswers([]);
+      setTextAnswers([]);
+      setSubmittedAnswers(null);
+      setScore(0);
+
+      return;
+    }
+
     if (!selectedCategory) {
       return;
     }
@@ -351,7 +590,20 @@ export function QuizGame() {
     setQuestions(createRound(filteredQuestions, questionOrder));
     setCurrentIndex(0);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
+    setSubmittedAnswers(null);
+    setScore(0);
+  }
+
+  function selectEntranceExam() {
+    const examQuestions = createEntranceExamRound(allQuestions);
+
+    setSelectedSubject(null);
+    setSelectedCategory(ENTRANCE_EXAM);
+    setQuestions(examQuestions);
+    setCurrentIndex(0);
+    setSelectedAnswers([]);
+    setTextAnswers([]);
     setSubmittedAnswers(null);
     setScore(0);
   }
@@ -373,7 +625,7 @@ export function QuizGame() {
     setQuestions(createRound(filteredQuestions, questionOrder));
     setCurrentIndex(0);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
     setSubmittedAnswers(null);
     setScore(0);
   }
@@ -384,7 +636,7 @@ export function QuizGame() {
     setQuestions([]);
     setCurrentIndex(0);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
     setSubmittedAnswers(null);
     setScore(0);
   }
@@ -395,7 +647,7 @@ export function QuizGame() {
     setQuestions([]);
     setCurrentIndex(0);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
     setSubmittedAnswers(null);
     setScore(0);
   }
@@ -405,7 +657,38 @@ export function QuizGame() {
     setQuestions([]);
     setCurrentIndex(0);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
+    setSubmittedAnswers(null);
+    setScore(0);
+  }
+
+  function openQuestionFromDevTool(category: string, questionId: number) {
+    const targetQuestion = allQuestions.find(
+      (question) =>
+        question.kategorija === category && question.id === questionId,
+    );
+
+    if (!targetQuestion) {
+      return;
+    }
+
+    const filteredQuestions = allQuestions
+      .filter(
+        (question) =>
+          question.oblast === targetQuestion.oblast &&
+          question.kategorija === targetQuestion.kategorija,
+      )
+      .sort((left, right) => left.id - right.id);
+    const nextIndex = filteredQuestions.findIndex(
+      (question) => question.id === targetQuestion.id,
+    );
+
+    setSelectedSubject(targetQuestion.oblast);
+    setSelectedCategory(targetQuestion.kategorija);
+    setQuestions(filteredQuestions);
+    setCurrentIndex(Math.max(nextIndex, 0));
+    setSelectedAnswers([]);
+    setTextAnswers([]);
     setSubmittedAnswers(null);
     setScore(0);
   }
@@ -418,13 +701,23 @@ export function QuizGame() {
     }
 
     if (isTextInputQuestion) {
-      const trimmedInput = textAnswer.trim();
+      const correctTextAnswers = textInputItems.map(
+        (item) => item.correctAnswer,
+      );
+      const trimmedInputs = Array.from(
+        { length: requiredTextAnswerCount },
+        (_, index) => textAnswers[index]?.trim() ?? "",
+      );
 
-      if (trimmedInput.length === 0) {
+      if (trimmedInputs.some((answer) => answer.length === 0)) {
         return;
       }
 
-      setSubmittedAnswers([trimmedInput]);
+      setSubmittedAnswers(trimmedInputs);
+
+      if (areSameTextAnswers(trimmedInputs, correctTextAnswers)) {
+        setScore((value) => value + 1);
+      }
 
       return;
     }
@@ -449,7 +742,7 @@ export function QuizGame() {
   function handleNextQuestion() {
     setSubmittedAnswers(null);
     setSelectedAnswers([]);
-    setTextAnswer("");
+    setTextAnswers([]);
     setCurrentIndex((value) => value + 1);
   }
 
@@ -493,10 +786,16 @@ export function QuizGame() {
     );
   }
 
-  if (!selectedSubject) {
+  if (!selectedSubject && !isEntranceExam) {
     return (
       <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
         <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
+        {SHOW_DEV_TOOLS && (
+          <DevQuestionFinder
+            questions={allQuestions}
+            onOpenQuestion={openQuestionFromDevTool}
+          />
+        )}
 
         <section className="mx-auto flex min-h-[calc(100vh-1.5rem)] max-w-5xl flex-col justify-center gap-3 sm:min-h-[calc(100vh-2rem)] lg:min-h-[calc(100vh-2.5rem)]">
           <header className="rounded-[2rem] border border-white/10 bg-white/6 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
@@ -507,9 +806,26 @@ export function QuizGame() {
               Izaberi oblast.
             </h1>
             <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-300">
-              Prvo biraš oblast, pa podkategoriju i pitanja.
+              Prvo biraš oblast, pa podkategoriju i pitanja, ili pokreni
+              prijemni režim.
             </p>
           </header>
+
+          <button
+            type="button"
+            onClick={selectEntranceExam}
+            className="rounded-[2rem] border border-cyan-300/35 bg-cyan-300/10 px-4 py-4 text-left shadow-2xl shadow-slate-950/40 transition-all duration-200 hover:-translate-y-0.5 hover:border-cyan-300/70 hover:bg-cyan-300/15"
+          >
+            <p className="text-xl font-semibold text-white">
+              {ENTRANCE_EXAM_LABEL}
+            </p>
+            <p className="mt-2 text-sm leading-6 text-cyan-100">
+              60 pitanja: 30 biologija i 30 hemija.
+            </p>
+            <p className="mt-2 text-xs uppercase tracking-[0.18em] text-cyan-200">
+              {ENTRANCE_EXAM_QUESTION_COUNT} pitanja
+            </p>
+          </button>
 
           <div className="rounded-[1.5rem] border border-white/10 bg-slate-950/55 p-3 shadow-xl shadow-slate-950/25 backdrop-blur sm:flex sm:items-center sm:justify-between sm:gap-4 sm:p-4">
             <p className="text-xs uppercase tracking-[0.2em] text-slate-400">
@@ -573,6 +889,12 @@ export function QuizGame() {
     return (
       <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
         <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
+        {SHOW_DEV_TOOLS && (
+          <DevQuestionFinder
+            questions={allQuestions}
+            onOpenQuestion={openQuestionFromDevTool}
+          />
+        )}
 
         <section className="mx-auto flex min-h-[calc(100vh-1.5rem)] max-w-5xl flex-col justify-center gap-3 sm:min-h-[calc(100vh-2rem)] lg:min-h-[calc(100vh-2.5rem)]">
           <header className="rounded-[2rem] border border-white/10 bg-white/6 p-4 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-5">
@@ -649,6 +971,12 @@ export function QuizGame() {
   if (!hasQuestions) {
     return (
       <div className="min-h-screen px-4 py-8 text-slate-100 sm:px-6 lg:px-8">
+        {SHOW_DEV_TOOLS && (
+          <DevQuestionFinder
+            questions={allQuestions}
+            onOpenQuestion={openQuestionFromDevTool}
+          />
+        )}
         <div className="mx-auto flex min-h-[calc(100vh-4rem)] max-w-5xl items-center justify-center rounded-[2rem] border border-white/10 bg-slate-950/70 p-8 text-center shadow-2xl shadow-slate-950/40 backdrop-blur">
           <div className="max-w-md">
             <p className="text-sm font-semibold uppercase tracking-[0.3em] text-cyan-300">
@@ -673,6 +1001,12 @@ export function QuizGame() {
   if (isComplete) {
     return (
       <div className="min-h-screen px-4 py-8 text-slate-100 sm:px-6 lg:px-8">
+        {SHOW_DEV_TOOLS && (
+          <DevQuestionFinder
+            questions={allQuestions}
+            onOpenQuestion={openQuestionFromDevTool}
+          />
+        )}
         <section className="mx-auto flex min-h-[calc(100vh-4rem)] max-w-4xl flex-col justify-center gap-6 rounded-[2rem] border border-white/10 bg-slate-950/70 p-6 shadow-2xl shadow-slate-950/40 backdrop-blur sm:p-8 lg:p-10">
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div>
@@ -683,7 +1017,9 @@ export function QuizGame() {
                 Osvojio si {score} od {questions.length} poena.
               </h1>
               <p className="mt-3 text-sm leading-7 text-slate-300 sm:text-base">
-                Oblast: {selectedSubject} | Kategorija: {selectedCategoryLabel}
+                {isEntranceExam
+                  ? "Režim: Prijemni"
+                  : `Oblast: ${selectedSubject} | Kategorija: ${selectedCategoryLabel}`}
               </p>
             </div>
 
@@ -698,9 +1034,11 @@ export function QuizGame() {
           </div>
 
           <p className="max-w-2xl text-sm leading-7 text-slate-300 sm:text-base">
-            {questionOrder === "random"
-              ? "Pitanja su bila nasumično raspoređena."
-              : "Pitanja su išla redom po rednom broju."}
+            {isEntranceExam
+              ? "Pitanja su bila pomešana iz biologije i hemije."
+              : questionOrder === "random"
+                ? "Pitanja su bila nasumično raspoređena."
+                : "Pitanja su išla redom po rednom broju."}
           </p>
 
           <div className="flex flex-wrap gap-3">
@@ -716,15 +1054,17 @@ export function QuizGame() {
               onClick={clearCategorySelection}
               className="inline-flex h-12 w-fit items-center justify-center rounded-full border border-white/15 bg-white/5 px-6 text-sm font-semibold text-white transition-transform duration-200 hover:-translate-y-0.5 hover:bg-white/10"
             >
-              Promeni kategoriju
+              {isEntranceExam ? "Nazad na početak" : "Promeni kategoriju"}
             </button>
-            <button
-              type="button"
-              onClick={clearSubjectSelection}
-              className="inline-flex h-12 w-fit items-center justify-center rounded-full border border-white/15 bg-white/5 px-6 text-sm font-semibold text-white transition-transform duration-200 hover:-translate-y-0.5 hover:bg-white/10"
-            >
-              Promeni oblast
-            </button>
+            {!isEntranceExam && (
+              <button
+                type="button"
+                onClick={clearSubjectSelection}
+                className="inline-flex h-12 w-fit items-center justify-center rounded-full border border-white/15 bg-white/5 px-6 text-sm font-semibold text-white transition-transform duration-200 hover:-translate-y-0.5 hover:bg-white/10"
+              >
+                Promeni oblast
+              </button>
+            )}
           </div>
         </section>
       </div>
@@ -734,6 +1074,12 @@ export function QuizGame() {
   return (
     <div className="min-h-screen p-3 text-slate-100 sm:p-4 lg:p-5">
       <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_rgba(34,211,238,0.22),_transparent_28%),radial-gradient(circle_at_bottom_right,_rgba(14,165,233,0.16),_transparent_24%),linear-gradient(180deg,_#020617_0%,_#0f172a_55%,_#111827_100%)]" />
+      {SHOW_DEV_TOOLS && (
+        <DevQuestionFinder
+          questions={allQuestions}
+          onOpenQuestion={openQuestionFromDevTool}
+        />
+      )}
 
       <section className="mx-auto flex max-w-5xl flex-col gap-3">
         <div>
@@ -771,7 +1117,8 @@ export function QuizGame() {
               Kategorija
             </p>
             <p className="mt-1 text-xl font-semibold text-white">
-              {currentQuestion.oblast} | {selectedCategoryLabel}
+              {currentQuestion.oblast} |{" "}
+              {isEntranceExam ? currentQuestion.kategorija : selectedCategoryLabel}
             </p>
           </div>
         </div>
@@ -800,19 +1147,34 @@ export function QuizGame() {
               </div>
 
               {isTextInputQuestion ? (
-                <div>
-                  <label className="text-xs uppercase tracking-[0.2em] text-slate-400" htmlFor="text-answer">
-                    Unesi odgovor
-                  </label>
-                  <input
-                    id="text-answer"
-                    type="text"
-                    value={textAnswer}
-                    onChange={(event) => setTextAnswer(event.target.value)}
-                    disabled={hasSubmittedAnswer}
-                    className="mt-2 h-11 w-full rounded-xl border border-white/15 bg-white/5 px-3 text-sm text-white outline-none transition-colors placeholder:text-slate-400 focus:border-cyan-300/60 disabled:cursor-not-allowed disabled:opacity-70"
-                    placeholder="Upiši svoj odgovor"
-                  />
+                <div className="grid gap-2">
+                  {textInputItems.map((item, index) => (
+                    <label
+                      key={`${item.label}-${index}`}
+                      className="grid gap-2 rounded-2xl border border-white/10 bg-white/5 p-3"
+                      htmlFor={`text-answer-${index}`}
+                    >
+                      <span className="flex items-center gap-2 text-sm font-semibold text-white">
+                        {currentQuestion.opcije.length > 0 && (
+                          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-current/20 text-xs">
+                            {item.label}
+                          </span>
+                        )}
+                        {item.prompt}
+                      </span>
+                      <input
+                        id={`text-answer-${index}`}
+                        type="text"
+                        value={textAnswers[index] ?? ""}
+                        onChange={(event) =>
+                          updateTextAnswer(index, event.target.value)
+                        }
+                        disabled={hasSubmittedAnswer}
+                        className="h-11 w-full rounded-xl border border-white/15 bg-slate-950/45 px-3 text-sm text-white outline-none transition-colors placeholder:text-slate-400 focus:border-cyan-300/60 disabled:cursor-not-allowed disabled:opacity-70"
+                        placeholder="Upiši odgovor"
+                      />
+                    </label>
+                  ))}
                 </div>
               ) : isMatchingQuestion ? (
                 <div className="grid gap-2">
@@ -957,11 +1319,19 @@ export function QuizGame() {
                   </p>
                   {isTextInputQuestion ? (
                     <>
+                      <p className="mt-2 text-xl font-semibold text-white">
+                        {areSameTextAnswers(
+                          submittedOptionLabels,
+                          textInputItems.map((item) => item.correctAnswer),
+                        )
+                          ? "Tačno"
+                          : "Netačno"}
+                      </p>
                       <p className="mt-2 text-sm leading-6 text-slate-300">
                         Tvoj odgovor: <span className="font-semibold text-white">{submittedOptionLabels.join(", ")}</span>
                       </p>
                       <p className="mt-2 text-sm leading-6 text-slate-300">
-                        Tačan odgovor: <span className="font-semibold text-white">{correctAnswers.join(", ")}</span>
+                        Tačan odgovor: <span className="font-semibold text-white">{textInputItems.map((item) => item.correctAnswer).join(", ")}</span>
                       </p>
                     </>
                   ) : isMatchingQuestion ? (
@@ -996,7 +1366,10 @@ export function QuizGame() {
                 disabled={
                   hasSubmittedAnswer ||
                   (isTextInputQuestion
-                    ? textAnswer.trim().length === 0
+                    ? Array.from(
+                        { length: requiredTextAnswerCount },
+                        (_, index) => textAnswers[index]?.trim() ?? "",
+                      ).some((answer) => answer.length === 0)
                     : isMatchingQuestion
                       ? selectedAnswers.length !== currentQuestion.opcije.length
                       : selectedAnswers.length === 0)
