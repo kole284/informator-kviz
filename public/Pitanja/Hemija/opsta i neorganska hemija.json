@@ -2,78 +2,78 @@
   {
     "id": 1,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Opšta formula alkana je:",
+    "pitanje": "Broj neutrona u jezgru atoma 59Ni28 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "CnH2n"
+        "tekst": "31"
       },
       {
         "oznaka": "b",
-        "tekst": "CnH2n+2"
+        "tekst": "50"
       },
       {
         "oznaka": "c",
-        "tekst": "CnH2n+1O"
+        "tekst": "25"
       },
       {
         "oznaka": "d",
-        "tekst": "CnH2n-2"
+        "tekst": "41"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "a"
     ]
   },
   {
     "id": 2,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C5H12:",
+    "pitanje": "Broj neutrona u jezgru atoma 39K19 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2"
+        "tekst": "31"
       },
       {
         "oznaka": "b",
-        "tekst": "3"
+        "tekst": "54"
       },
       {
         "oznaka": "c",
-        "tekst": "4"
+        "tekst": "40"
       },
       {
         "oznaka": "d",
-        "tekst": "5"
+        "tekst": "20"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "d"
     ]
   },
   {
     "id": 3,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C6H14:",
+    "pitanje": "Broj neutrona u jezgru atoma 127J53 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "5"
+        "tekst": "74"
       },
       {
         "oznaka": "b",
-        "tekst": "4"
+        "tekst": "34"
       },
       {
         "oznaka": "c",
-        "tekst": "6"
+        "tekst": "22"
       },
       {
         "oznaka": "d",
-        "tekst": "8"
+        "tekst": "11"
       }
     ],
     "tacan_odgovor": [
@@ -83,78 +83,51 @@
   {
     "id": 4,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Trivijalni naziv za 2-metil-2-brompropan je:",
+    "pitanje": "Broj neutrona u jezgru atoma 31P15 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "tercbutil-bromid"
+        "tekst": "25"
       },
       {
         "oznaka": "b",
-        "tekst": "izopropil-bromid"
+        "tekst": "16"
       },
       {
         "oznaka": "c",
-        "tekst": "sekbutil-bromid"
+        "tekst": "18"
       },
       {
         "oznaka": "d",
-        "tekst": "izobutil-bromid"
+        "tekst": "30"
       }
     ],
     "tacan_odgovor": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 5,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Trivijalni naziv za 2-metil-1-brompropan je:",
+    "pitanje": "Broj neutrona u jezgru atoma 28Si14 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "tercbutil-bromid"
+        "tekst": "42"
       },
       {
         "oznaka": "b",
-        "tekst": "izopropil-bromid"
+        "tekst": "14"
       },
       {
         "oznaka": "c",
-        "tekst": "sekbutil-bromid"
+        "tekst": "31"
       },
       {
         "oznaka": "d",
-        "tekst": "izobutil-bromid"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 6,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Trivijalni naziv za 3-metil-1-brombutan je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "izobutil-bromid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "izopentil-bromid"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "sekbutil-bromid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "neopentil-bromid"
+        "tekst": "20"
       }
     ],
     "tacan_odgovor": [
@@ -162,26 +135,80 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U 2,3,5-trimetil-heksanu broj sekundarnih C-atoma je:",
+    "pitanje": "Broj neutrona u jezgru atoma 75As33 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1"
+        "tekst": "16"
       },
       {
         "oznaka": "b",
-        "tekst": "4"
+        "tekst": "88"
       },
       {
         "oznaka": "c",
-        "tekst": "5"
+        "tekst": "44"
       },
       {
         "oznaka": "d",
-        "tekst": "0"
+        "tekst": "42"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 7,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Broj neutrona u jezgru atoma 133Cs55 je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "188"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "39"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "78"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "50"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 8,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Broj neutrona u jezgru atoma 79Se34 je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "45"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "17"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "52"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "113"
       }
     ],
     "tacan_odgovor": [
@@ -189,26 +216,53 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U 2,3,5-trimetil-heksanu broj tercijarnih C-atoma je:",
+    "pitanje": "Broj neutrona u jezgru atoma 209Bi83 je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1"
+        "tekst": "126"
       },
       {
         "oznaka": "b",
-        "tekst": "4"
+        "tekst": "103"
       },
       {
         "oznaka": "c",
-        "tekst": "3"
+        "tekst": "292"
       },
       {
         "oznaka": "d",
-        "tekst": "0"
+        "tekst": "172"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 10,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Ako je redni broj elementa 28, popunjene orbitale su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1s 2s 2p 3s 3p i 3d"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1s 2s 2p 3s 3p 3d i popunjava se 4s"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1s 2s 2p 3s 3p 4s i popunjava se 3d"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1s 2s 2p 3s 3p i popunjavaju se 3d i 4s"
       }
     ],
     "tacan_odgovor": [
@@ -216,53 +270,26 @@
     ]
   },
   {
-    "id": 9,
+    "id": 11,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U 2,2,4-trimetil-pentanu broj kvaternarnih C-atoma je:",
+    "pitanje": "Ako je redni broj elementa 28, broj nesparenih elektrona je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2"
+        "tekst": "0"
       },
       {
         "oznaka": "b",
+        "tekst": "10"
+      },
+      {
+        "oznaka": "c",
         "tekst": "1"
       },
       {
-        "oznaka": "c",
-        "tekst": "5"
-      },
-      {
         "oznaka": "d",
-        "tekst": "0"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 10,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U 2,2,3,4-tetrametil-pentanu broj sekundarnih C-atoma je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "6"
-      },
-      {
-        "oznaka": "b",
         "tekst": "2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "0"
       }
     ],
     "tacan_odgovor": [
@@ -270,53 +297,26 @@
     ]
   },
   {
-    "id": 11,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U 2,2,3,4-tetrametil-pentanu broj primarnih C-atoma je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "1"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "6"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "0"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
     "id": 12,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja nema tercijarni C-atom:",
+    "pitanje": "Ako je redni broj elementa 26, popunjene orbitale su:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2,2,3-trimetil-butan"
+        "tekst": "1s 2s 2p 3s 3p i 3d"
       },
       {
         "oznaka": "b",
-        "tekst": "2,2-dimetil-butan"
+        "tekst": "1s 2s 2p 3s 3p 4s i popunjava se 3d"
       },
       {
         "oznaka": "c",
-        "tekst": "2,3-dimetil-butan"
+        "tekst": "1s 2s 2p 3s 3p 3d i popunjava se 4s"
       },
       {
         "oznaka": "d",
-        "tekst": "2-metil-butan"
+        "tekst": "1s 2s 2p 3s 3p i popunjavaju se 3d i 4s"
       }
     ],
     "tacan_odgovor": [
@@ -326,51 +326,51 @@
   {
     "id": 13,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja ima kvaternerni C-atom:",
+    "pitanje": "Ako je redni broj elementa 26, broj nesparenih elektrona je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "3-etil-pentan"
+        "tekst": "4"
       },
       {
         "oznaka": "b",
-        "tekst": "2,3-dimetil-butan"
+        "tekst": "8"
       },
       {
         "oznaka": "c",
-        "tekst": "2,2-dimetil-butan"
+        "tekst": "2"
       },
       {
         "oznaka": "d",
-        "tekst": "2-metil-2-hlor-butan"
+        "tekst": "0"
       }
     ],
     "tacan_odgovor": [
-      "c"
+      "a"
     ]
   },
   {
     "id": 14,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Hlorovanje metana je reakcija:",
+    "pitanje": "Ako je redni broj elementa 29, popunjene orbitale su:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "nukleofilne supstitucije"
+        "tekst": "1s 2s 2p 3s 3p i 3d"
       },
       {
         "oznaka": "b",
-        "tekst": "slobodno-radikalske supstitucije"
+        "tekst": "1s 2s 2p 3s 3p 3d i popunjava se 4s"
       },
       {
         "oznaka": "c",
-        "tekst": "nukleofilne adicije"
+        "tekst": "1s 2s 2p 3s 3p 4s i popunjava se 3d"
       },
       {
         "oznaka": "d",
-        "tekst": "elektrofilne supstitucije"
+        "tekst": "1s 2s 2p 3s 3p i popunjavaju se 3d i 4s"
       }
     ],
     "tacan_odgovor": [
@@ -380,24 +380,24 @@
   {
     "id": 15,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Ugljovodonici molekulske formule C4H10 monohlorovanjem mogu da daju:",
+    "pitanje": "Ako je redni broj elementa 29, broj nesparenih elektrona je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2 različita monohlorna derivata"
+        "tekst": "11"
       },
       {
         "oznaka": "b",
-        "tekst": "3 različita monohlorna derivata"
+        "tekst": "0"
       },
       {
         "oznaka": "c",
-        "tekst": "4 različita monohlorna derivata"
+        "tekst": "1"
       },
       {
         "oznaka": "d",
-        "tekst": "5 različitih monohlornih derivata"
+        "tekst": "9"
       }
     ],
     "tacan_odgovor": [
@@ -407,105 +407,24 @@
   {
     "id": 16,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je potrebno grama natrijuma u reakciji sa 0,1 molom metil-jodida:",
+    "pitanje": "Ako je redni broj elementa 24, popunjene orbitale su:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2,3"
+        "tekst": "1s 2s 2p 3s 3p i 3d"
       },
       {
         "oznaka": "b",
-        "tekst": "4,6"
+        "tekst": "1s 2s 2p 3s 3p 3d i popunjava se 4s"
       },
       {
         "oznaka": "c",
-        "tekst": "1,15"
+        "tekst": "1s 2s 2p 3s 3p 4s i popunjava se 3d"
       },
       {
         "oznaka": "d",
-        "tekst": "6,9"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 17,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko će se litara gasa (normalni uslovi) izdvojiti zagrevanjem 16,4 grama bezvodnog natrijum-acetata sa natrijumhidroksidom:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "44,8"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2,24"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "4,48"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "22,4"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 18,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Opšta formula alkena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CnH2n"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CnH2n+2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CnH2n+1O"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CnH2n-2"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 19,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Opšta formula alkina je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CnH2n"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CnH2n+2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CnH2n+1O"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CnH2n-2"
+        "tekst": "1s 2s 2p 3s 3p i popunjavaju se 3d i 4s"
       }
     ],
     "tacan_odgovor": [
@@ -513,22 +432,76 @@
     ]
   },
   {
-    "id": 20,
+    "id": 17,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima strukturnih izomera alkena sa molekulskom formulom C5H10:",
+    "pitanje": "Ako je redni broj elementa 24, broj nesparenih elektrona je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "5"
+        "tekst": "2"
       },
       {
         "oznaka": "b",
-        "tekst": "12"
+        "tekst": "6"
       },
       {
         "oznaka": "c",
-        "tekst": "6"
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "8"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 18,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Ako je redni broj elementa 25, popunjene orbitale su:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1s 2s 2p 3s 3p i 3d"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1s 2s 2p 3s 3p 3d i popunjava se 4s"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1s 2s 2p 3s 3p 4s i popunjava se 3d"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1s 2s 2p 3s 3p i popunjavaju se 3d i 4s"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 19,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Ako je redni broj elementa 25, broj nesparenih elektrona je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
       },
       {
         "oznaka": "d",
@@ -540,53 +513,80 @@
     ]
   },
   {
-    "id": 21,
+    "id": 20,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima izomera sa molekulskom formulom C4H8:",
+    "pitanje": "U kojoj grupi i u kojoj periodi se nalazi hemijski element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p6 3s2:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "4"
+        "tekst": "druga grupa, treća perioda"
       },
       {
         "oznaka": "b",
-        "tekst": "6"
+        "tekst": "treća grupa, druga perioda"
       },
       {
         "oznaka": "c",
-        "tekst": "3"
+        "tekst": "druga grupa, osma perioda"
       },
       {
         "oznaka": "d",
-        "tekst": "5"
+        "tekst": "treća grupa, osma perioda"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "a"
+    ]
+  },
+  {
+    "id": 21,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "U kojoj grupi i u kojoj periodi se nalazi hemijski element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p5:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "peta grupa, druga perioda"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "druga grupa, sedma perioda"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "druga grupa, peta perioda"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "sedma grupa, druga perioda"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
     ]
   },
   {
     "id": 22,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U kom od navedenih jedinjenja su svi C-atomi sp2 hibridizovani:",
+    "pitanje": "Koliko ima valentnih elektrona element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p5:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "CH3-CH=CH2"
+        "tekst": "5"
       },
       {
         "oznaka": "b",
-        "tekst": "HC≡C-CH2CH3"
+        "tekst": "3"
       },
       {
         "oznaka": "c",
-        "tekst": "CH2=CH-CH=CH2"
+        "tekst": "7"
       },
       {
         "oznaka": "d",
-        "tekst": "HC≡C-CH=CH2"
+        "tekst": "2"
       }
     ],
     "tacan_odgovor": [
@@ -596,24 +596,24 @@
   {
     "id": 23,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U kom od navedenih jedinjenja su svi C-atomi sp3 hibridizovani:",
+    "pitanje": "Koliko ima nesparenih elektrona element sa rednim brojem 9:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "CH3CH(CH3)CH(OH)CH3"
+        "tekst": "1"
       },
       {
         "oznaka": "b",
-        "tekst": "CH3COOCH2CH3"
+        "tekst": "2"
       },
       {
         "oznaka": "c",
-        "tekst": "CH3COCH2CH3"
+        "tekst": "3"
       },
       {
         "oznaka": "d",
-        "tekst": "CH3CH2CHO"
+        "tekst": "5"
       }
     ],
     "tacan_odgovor": [
@@ -623,51 +623,51 @@
   {
     "id": 24,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Trivijalno ime grupe CH2=CH-CH2- je:",
+    "pitanje": "U kojoj grupi i u kojoj periodi se nalazi hemijski element čiji atomi imaju sledeću elektronsku konfiguraciju 1s2 2s2 2p6 3s2 3p3:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "vinil"
+        "tekst": "treća grupa, treća perioda"
       },
       {
         "oznaka": "b",
-        "tekst": "izopropil"
+        "tekst": "treća grupa, peta perioda"
       },
       {
         "oznaka": "c",
-        "tekst": "neopropil"
+        "tekst": "peta grupa, treća perioda"
       },
       {
         "oznaka": "d",
-        "tekst": "alil"
+        "tekst": "treća grupa, druga perioda"
       }
     ],
     "tacan_odgovor": [
-      "d"
+      "c"
     ]
   },
   {
     "id": 25,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "pitanje": "Koliko ima valentnih elektrona element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p6 3s2 3p3:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,1-dihlor-eten"
+        "tekst": "1"
       },
       {
         "oznaka": "b",
-        "tekst": "4,5-dihlor-1-heksin"
+        "tekst": "2"
       },
       {
         "oznaka": "c",
-        "tekst": "4,5-dihlor-1-heksen"
+        "tekst": "3"
       },
       {
         "oznaka": "d",
-        "tekst": "4,5-dihlor-2-heksen"
+        "tekst": "5"
       }
     ],
     "tacan_odgovor": [
@@ -677,51 +677,78 @@
   {
     "id": 26,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "pitanje": "Koliko ima nesparenih elektrona element sa rednim brojem 15:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2-metil-2-buten"
+        "tekst": "3"
       },
       {
         "oznaka": "b",
-        "tekst": "2-butin"
+        "tekst": "1"
       },
       {
         "oznaka": "c",
-        "tekst": "2-buten"
+        "tekst": "5"
       },
       {
         "oznaka": "d",
-        "tekst": "2-metil-2-buten"
+        "tekst": "2"
       }
     ],
     "tacan_odgovor": [
-      "c"
+      "a"
     ]
   },
   {
     "id": 27,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Kod kog od navedenih jedinjenja se javlja geometrijska (cis-trans) izomerija:",
+    "pitanje": "U kojoj grupi i u kojoj periodi se nalazi hemijski element čiji atomi imaju sledeću elektronsku konfiguraciju 1s2 2s2 2p3:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2-pentin"
+        "tekst": "treća grupa, druga perioda"
       },
       {
         "oznaka": "b",
-        "tekst": "2-penten"
+        "tekst": "druga grupa, treća perioda"
       },
       {
         "oznaka": "c",
-        "tekst": "izopren"
+        "tekst": "druga grupa, peta perioda"
       },
       {
         "oznaka": "d",
-        "tekst": "1-penten"
+        "tekst": "peta grupa, druga perioda"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 28,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima valentnih elektrona element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p3:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2"
       }
     ],
     "tacan_odgovor": [
@@ -729,53 +756,26 @@
     ]
   },
   {
-    "id": 28,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od datih alkena najstabilniji:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1-buten"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-metil-2-buten"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2,3-dimetil-2-buten"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-buten"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
     "id": 29,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od datih alkena najstabilniji:",
+    "pitanje": "Koliko ima nesparenih elektrona element sa rednim brojem 7:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "3,4-dimetil-1-penten"
+        "tekst": "2"
       },
       {
         "oznaka": "b",
-        "tekst": "2-penten"
+        "tekst": "1"
       },
       {
         "oznaka": "c",
-        "tekst": "1-penten"
+        "tekst": "5"
       },
       {
         "oznaka": "d",
-        "tekst": "2-metil-2-penten"
+        "tekst": "3"
       }
     ],
     "tacan_odgovor": [
@@ -785,78 +785,78 @@
   {
     "id": 30,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Adicijom vode na 2-metil-1-buten nastaje:",
+    "pitanje": "U kojoj grupi i u kojoj periodi se nalazi hemijski element čiji atomi imaju sledeću elektronsku konfiguraciju 1s2 2s2 2p2:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2-metil-2-butanol"
+        "tekst": "druga grupa, druga perioda"
       },
       {
         "oznaka": "b",
-        "tekst": "2-metil-1-butanol"
+        "tekst": "druga grupa, četvrta perioda"
       },
       {
         "oznaka": "c",
-        "tekst": "1,2-butandiol"
+        "tekst": "četvrta grupa, četvrta perioda"
       },
       {
         "oznaka": "d",
-        "tekst": "2-metil-1,2-butandiol"
+        "tekst": "četvrta grupa, druga perioda"
       }
     ],
     "tacan_odgovor": [
-      "a"
+      "d"
     ]
   },
   {
     "id": 31,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Adicijom vode na 2-metil-propen nastaje:",
+    "pitanje": "Koliko ima valentnih elektrona element čiji atomi imaju elektronsku konfiguraciju 1s2 2s2 2p2:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,2-propandiol"
+        "tekst": "2"
       },
       {
         "oznaka": "b",
-        "tekst": "2-metil-2-propanol"
+        "tekst": "1"
       },
       {
         "oznaka": "c",
-        "tekst": "2-metil-1-propanol"
+        "tekst": "3"
       },
       {
         "oznaka": "d",
-        "tekst": "propanon"
+        "tekst": "4"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "d"
     ]
   },
   {
     "id": 32,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "2-metil-3-hlor-butan se može dobiti adicijom HCl na:",
+    "pitanje": "Koliko ima nesparenih elektrona element sa rednim brojem 6:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "3-metil-1-buten"
+        "tekst": "2"
       },
       {
         "oznaka": "b",
-        "tekst": "2-metil-2-buten"
+        "tekst": "1"
       },
       {
         "oznaka": "c",
-        "tekst": "2-metil-1-buten"
+        "tekst": "3"
       },
       {
         "oznaka": "d",
-        "tekst": "izopren"
+        "tekst": "4"
       }
     ],
     "tacan_odgovor": [
@@ -866,51 +866,51 @@
   {
     "id": 33,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Za alkene su karakteristične reakcije:",
+    "pitanje": "Kolika je brojna vrednost Avogadrovog broja:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "elektrofilne supstitucije"
+        "tekst": "6,023·10^23"
       },
       {
         "oznaka": "b",
-        "tekst": "elektrofilne adicije"
+        "tekst": "8,314·10^20"
       },
       {
         "oznaka": "c",
-        "tekst": "nukleofilne supstitucije"
+        "tekst": "96,504·10^3"
       },
       {
         "oznaka": "d",
-        "tekst": "nukleofilne adicije"
+        "tekst": "22,4"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "a"
     ]
   },
   {
     "id": 34,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji 2-butena sa vodenim rastvorom KMnO4 nastaje jedinjenje molekulske mase:",
+    "pitanje": "Jonska veza se obrazuje između:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "58"
+        "tekst": "nemetala i metala"
       },
       {
         "oznaka": "b",
-        "tekst": "214"
+        "tekst": "metala i metala"
       },
       {
         "oznaka": "c",
-        "tekst": "90"
+        "tekst": "metala i nemetala"
       },
       {
         "oznaka": "d",
-        "tekst": "74"
+        "tekst": "metala i lantanoida"
       }
     ],
     "tacan_odgovor": [
@@ -920,51 +920,51 @@
   {
     "id": 35,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja može na sobnoj temperaturi da obezboji rastvor kalijum-permanganata:",
+    "pitanje": "Jonska veza može da se nagradi između:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2-metil-propan"
+        "tekst": "kalijuma i kiseonika"
       },
       {
         "oznaka": "b",
-        "tekst": "ciklopropan"
+        "tekst": "kiseonika i sumpora"
       },
       {
         "oznaka": "c",
-        "tekst": "propan"
+        "tekst": "vodonika i kiseonika"
       },
       {
         "oznaka": "d",
-        "tekst": "propen"
+        "tekst": "vodonika i azota"
       }
     ],
     "tacan_odgovor": [
-      "d"
+      "a"
     ]
   },
   {
     "id": 36,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja pokazuje kisele osobine:",
+    "pitanje": "Jonska veza može da se nagradi između:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "2-pentin"
+        "tekst": "litijuma i aluminijuma"
       },
       {
         "oznaka": "b",
-        "tekst": "1-penten"
+        "tekst": "kiseonika i azota"
       },
       {
         "oznaka": "c",
-        "tekst": "2-penten"
+        "tekst": "aluminijuma i vodonika"
       },
       {
         "oznaka": "d",
-        "tekst": "1-pentin"
+        "tekst": "kalcijuma i vodonika"
       }
     ],
     "tacan_odgovor": [
@@ -974,105 +974,101 @@
   {
     "id": 37,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Adicijom jednog molekula vode na propin u prisustvu jona žive, dobija se:",
+    "pitanje": "U kristalu natrijum-hlorida nalaze se:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "propanon"
+        "tekst": "molekuli natrijum-hlorida"
       },
       {
         "oznaka": "b",
-        "tekst": "1,2-propandiol"
+        "tekst": "joni natrijuma i hlora"
       },
       {
         "oznaka": "c",
-        "tekst": "propen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "1-propanol"
+        "tekst": "atomi natrijuma i hlora"
       }
     ],
     "tacan_odgovor": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 38,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Adicijom viška HCl na propin, dobija se:",
+    "pitanje": "Kovalentna veza se obrazuje:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,3-dihlor-propan"
+        "tekst": "prelaskom elektrona sa jednog atoma na drugi"
       },
       {
         "oznaka": "b",
-        "tekst": "1,1-dihlor-propan"
+        "tekst": "stvaranjem zajedničkih elektronskih parova između atoma"
       },
       {
         "oznaka": "c",
-        "tekst": "1,2-dihlor-propan"
+        "tekst": "između metala i nemetala"
       },
       {
         "oznaka": "d",
-        "tekst": "2,2-dihlor-propan"
+        "tekst": "elektrostatičkim privlačenjem jona suprotnog naelektrisanja"
       }
     ],
     "tacan_odgovor": [
-      "d"
+      "b"
     ]
   },
   {
     "id": 39,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Adicijom jednog molekula vode na etin u prisustvu živinih soli, dobija se jedinjenje molekulske mase:",
+    "pitanje": "Elektronski parovi koji povezuju dva atoma pripadaju:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "44"
+        "tekst": "jezgru jednog atoma"
       },
       {
         "oznaka": "b",
-        "tekst": "76"
+        "tekst": "jezgrima oba atoma"
       },
       {
         "oznaka": "c",
-        "tekst": "42"
+        "tekst": "jezgru elektronegativnijeg atoma"
       },
       {
         "oznaka": "d",
-        "tekst": "60"
+        "tekst": "jezgru manje elektronegativnog atoma"
       }
     ],
     "tacan_odgovor": [
-      "a"
+      "b"
     ]
   },
   {
     "id": 40,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je potrebno litara gasovitog hlorovodonika da bi u reakciji sa propenom dobili 3 grama odgovarajućeg proizvoda:",
+    "pitanje": "U kom od navedenih jedinjenja je veza polarna kovalentna:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,70"
+        "tekst": "CaH2"
       },
       {
         "oznaka": "b",
-        "tekst": "0,10"
+        "tekst": "CH4"
       },
       {
         "oznaka": "c",
-        "tekst": "1,39"
+        "tekst": "N2"
       },
       {
         "oznaka": "d",
-        "tekst": "0,86"
+        "tekst": "H2O"
       }
     ],
     "tacan_odgovor": [
@@ -1082,24 +1078,78 @@
   {
     "id": 41,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je potrebno litara hlora (normalni uslovi) za potpuno zasićenje 0,5 molova etina:",
+    "pitanje": "U kom od navedenih jedinjenja je tip veze jonski:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "44,8"
+        "tekst": "NH3"
       },
       {
         "oznaka": "b",
-        "tekst": "2,24"
+        "tekst": "SO3"
       },
       {
         "oznaka": "c",
-        "tekst": "4,48"
+        "tekst": "CaH2"
       },
       {
         "oznaka": "d",
-        "tekst": "22,4"
+        "tekst": "HCl"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 42,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koje je od navedenih nepolarno jedinjenje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "H2O"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "NH3"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CS2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "HJ"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 43,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koje je od navedenih polarno jedinjenje:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CCl4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CO2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "CH4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "NH3"
       }
     ],
     "tacan_odgovor": [
@@ -1107,134 +1157,53 @@
     ]
   },
   {
-    "id": 42,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od navedenih ugljovodonika zasićen:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "C2H4"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "C5H12"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "C3H4"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "C4H8"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 43,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji ___ + HBr → CH3CHBrCH3 reaktant koji nedostaje je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CH2=CHCH3"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CH≡CCH3"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CH3CH2CHO"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CH3CH2CH2OH"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
     "id": 44,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcija broma sa propenom je:",
+    "pitanje": "Kod kog od navedenih jedinjenja postoji međusobna povezanost vodoničnom vezom:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "polimerizacija"
+        "tekst": "CBr4"
       },
       {
         "oznaka": "b",
-        "tekst": "supstitucija"
+        "tekst": "SiF4"
       },
       {
         "oznaka": "c",
-        "tekst": "adicija"
+        "tekst": "(CH3)3N"
       },
       {
         "oznaka": "d",
-        "tekst": "nemoguća"
+        "tekst": "(CH3)2NH"
       }
     ],
     "tacan_odgovor": [
-      "c"
+      "d"
     ]
   },
   {
     "id": 45,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Jedinjenje formule CH2=CH-CH=CH-CH3 je:",
+    "pitanje": "Kod kog od navedenih jedinjenja postoji povezanost vodoničnom vezom sa vodom:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "kumulovani dien"
+        "tekst": "(CH3CH2)3N"
       },
       {
         "oznaka": "b",
-        "tekst": "konjugovani dien"
+        "tekst": "CS2"
       },
       {
         "oznaka": "c",
-        "tekst": "izolovani dien"
+        "tekst": "CCl4"
       },
       {
         "oznaka": "d",
-        "tekst": "aromatični sistem"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 46,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Jedinjenje formule H2C=C=CH-CH2CH3 je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "kumulovani dien"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "konjugovani dien"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "izolovani dien"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "aromatični sistem"
+        "tekst": "CF4"
       }
     ],
     "tacan_odgovor": [
@@ -1242,26 +1211,26 @@
     ]
   },
   {
-    "id": 47,
+    "id": 46,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Jedinjenje formule CH2=CH-CH2-CH=CH2 je:",
+    "pitanje": "U molekulu jodovodonika tip hemijske veze je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "kumulovani dien"
+        "tekst": "jonska"
       },
       {
         "oznaka": "b",
-        "tekst": "konjugovani dien"
+        "tekst": "nepolarna kovalentna"
       },
       {
         "oznaka": "c",
-        "tekst": "izolovani dien"
+        "tekst": "polarna kovalentna"
       },
       {
         "oznaka": "d",
-        "tekst": "aromatični sistem"
+        "tekst": "koordinativno-kovalentna"
       }
     ],
     "tacan_odgovor": [
@@ -1269,53 +1238,80 @@
     ]
   },
   {
-    "id": 48,
+    "id": 47,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "„1,4-adicija“ je reakcija karakteristična za:",
+    "pitanje": "U molekulu magnezijum-oksida tip hemijske veze je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,4-heksadien"
+        "tekst": "jonska"
       },
       {
         "oznaka": "b",
-        "tekst": "konjugovani dien"
+        "tekst": "nepolarna kovalentna"
       },
       {
         "oznaka": "c",
-        "tekst": "kumulovani dien"
+        "tekst": "polarna kovalentna"
       },
       {
         "oznaka": "d",
-        "tekst": "aromatične sisteme"
+        "tekst": "koordinativno-kovalentna"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "a"
+    ]
+  },
+  {
+    "id": 48,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "U kom od navedenih jedinjenja je veza polarna kovalentna:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "NaH"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CaO2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "BeO"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "CH4"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
     ]
   },
   {
     "id": 49,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Kod kog od navedenih diena se može dobiti proizvod „1,4-adicije“:",
+    "pitanje": "U jonu NH4+ veze su:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "1,2-pentadien"
+        "tekst": "4 jonske veze azot-vodonik"
       },
       {
         "oznaka": "b",
-        "tekst": "1,4-pentadien"
+        "tekst": "3 jonske i 1 kovalentna veza azot-vodonik"
       },
       {
         "oznaka": "c",
-        "tekst": "1,3-pentadien"
+        "tekst": "3 kovalentne i 1 koordinativno-kovalentna veza azot-vodonik"
       },
       {
         "oznaka": "d",
-        "tekst": "1,4-ciklopentadien"
+        "tekst": "3 kovalentne i 1 jonska veza azot-vodonik"
       }
     ],
     "tacan_odgovor": [
@@ -1325,24 +1321,24 @@
   {
     "id": 50,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko se dobija grama odgovarajućeg proizvoda reakcijom 0,3 mola ciklopropana sa bromom:",
+    "pitanje": "Koji od navedenih parova hemijskih elemenata ne grade jonska jedinjenja:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "36,9"
+        "tekst": "Mg i O"
       },
       {
         "oznaka": "b",
-        "tekst": "36,3"
+        "tekst": "Fe i O"
       },
       {
         "oznaka": "c",
-        "tekst": "25,8"
+        "tekst": "Na i Cl"
       },
       {
         "oznaka": "d",
-        "tekst": "60,6"
+        "tekst": "N i H"
       }
     ],
     "tacan_odgovor": [
@@ -1352,24 +1348,51 @@
   {
     "id": 51,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Strukturnih izomera alkil-benzena molekulske formule C8H10 ima:",
+    "pitanje": "Koji od navedenih parova hemijskih elemenata ne grade kovalentna jedinjenja:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "5"
+        "tekst": "C i O"
       },
       {
         "oznaka": "b",
-        "tekst": "3"
+        "tekst": "Na i H"
       },
       {
         "oznaka": "c",
-        "tekst": "4"
+        "tekst": "Cl i C"
       },
       {
         "oznaka": "d",
-        "tekst": "6"
+        "tekst": "P i Cl"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 52,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koje od navedenih hemijskih jedinjenja disosuje u vodenom rastvoru:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "CH4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "CH3Cl"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "MgCl2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "C6H6"
       }
     ],
     "tacan_odgovor": [
@@ -1377,22 +1400,1561 @@
     ]
   },
   {
-    "id": 52,
+    "id": 53,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Strukturnih izomera alkil-benzena molekulske formule C9H12 ima:",
+    "pitanje": "Koje od navedenih hemijskih jedinjenja ne disosuje u vodenom rastvoru:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "4"
+        "tekst": "FeCl3"
       },
       {
         "oznaka": "b",
-        "tekst": "8"
+        "tekst": "CCl4"
       },
       {
         "oznaka": "c",
-        "tekst": "6"
+        "tekst": "CaCl2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "KCl"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 54,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-atoma u 6,4 grama kiseonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "12,8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,5"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,8"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 55,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma u 46 grama natrijuma (Na=23):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 56,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Kolika je masa (u gramima) jednog molekula sumpor-dioksida (S=32):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,84·10^-25"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,84·10^25"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "64"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,07·10^-22"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 57,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Kolika je masa (u gramima) 1,5·10^23 molekula vode:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "9,0"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4,0"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,25"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4,5"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 58,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molekula nalazi u 40 molova C2H5OH:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4,8·10^25"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,16·10^26"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,4·10^25"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "40"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 59,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molekula nalazi u 5 molova azot-dioksida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "6·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "15"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 60,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-molekula u 85 grama SO2 (S=32):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,8·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "7,98·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "28,33"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,33"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 61,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-atoma kiseonika u 60 grama SO2 (S=32):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,11·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,875"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,94"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5,54·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 62,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma kiseonika u 32 grama SO2 (S=32):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "6·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,2·10^24"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 63,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma joda u 12 mol-molekula joda (J=127):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "7,2·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "10,58"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1524"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,44·10^25"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 64,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma vodonika u 51 gram amonijaka (N=14):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,8·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "5,4·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "9"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 65,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-molekula u 400 grama broma (Br=80):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,5·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 66,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma broma u 400 grama broma (Br=80):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,5·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 67,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-atoma kiseonika u 4 grama ozona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,75"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "0,17"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,25"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 68,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma kiseonika u 8 grama ozona:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,8·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 69,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Atom nekog elementa ima masu 1,6·10^-22. Masa mol-atoma tog elementa je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "192"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "96"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "48"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3,58·10^-21"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 70,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koji od navedenih uzoraka azota sadrži najveći broj atoma (N=14):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2·10^23 molekula"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2·10^23 atoma"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "18,7 grama"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,24 litra"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 71,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se atoma vodonika nalazi u 5 molova C2H5OH:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "25"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "30"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,8·10^25"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3·10^24"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 72,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se atoma azota nalazi u 0,2 mola amonijum-nitrata:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,4·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,2·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5,6"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 73,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molova vode nalazi u 50 grama vode:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,39"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "11,11"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,78"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5,56"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 74,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Kolika je zapremina (u litrima) 7 grama azota (normalni uslovi) (N=14):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "22,4"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "5,6"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "11,2"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 75,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molekula nalazi u 1,00 mililitara vodonika (normalni uslovi):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,68·10^19"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,68·10^22"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,5"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5·10^-4"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 76,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koju zapreminu pri normalnim uslovima zauzimaju 2,7·10^22 molekula kiseonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,5 L"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2 L"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,045 L"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1 L"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 77,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molekula kiseonika nalazi u 50 litara gasa pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,68·10^24"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,34·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,56"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,23"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 78,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko se molekula metana nalazi u 50 mililitara gasa:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "31,25"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "8,3·10^-23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,34·10^21"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,34·10^24"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 79,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koju zapreminu u litrima zauzima 14,2 grama hlora (Cl=35,5):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "4,48"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,2"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 80,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima molekula vode u 1 litru na 4°C:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,33·10^22"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,33·10^25"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,68·10^22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "55,6"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 81,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima molekula vode u 1 litru na 100°C:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,33·10^22"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,33·10^25"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,68·10^22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,045"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 82,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliku zapreminu u litrima pri normalnim uslovima zauzima 8·10^22 molekula sumpor-dioksida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "89,6"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "29,8"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "8,96"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,98"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 83,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko atoma kiseonika ima u 11,2 litra gasa CO2 (normalni uslovi):",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6·10^23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 84,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma vodonika u 5 litara vode na 100°C:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,68·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,33·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,45"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,56"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 85,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma vodonika u 5 litara vode na 4°C:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,68·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3,33·10^26"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,56"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "555"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 86,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koju zapreminu (u litrima) zauzima 10 grama kiseonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "14"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "7"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3,5"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 87,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko grama ima pet mol-molekula kiseonika merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "320"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "160"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "3·10^24"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "6·10^24"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 88,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koju zapreminu (L) zauzima pet mol-molekula kiseonika merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "112"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "224"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "56"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "672"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 89,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Kolika je masa (g) 5,6 litara ugljenmonoksida merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "5,5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "11"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "18"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 90,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima molekula u 5,6 litara ugljenmonoksida merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,5·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,4·10^23"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 91,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima mol-molekula u 13,44 litara amonijaka merenog pri normalnim uslovima? (N=14)",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,6·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "0,6"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,8·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 92,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koju zapreminu (L) zauzima 80 grama metana merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "224"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "56"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "112"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "672"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 93,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima molekula u 80 grama metana merenog pri normalnim uslovima:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,4·10^23"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3·10^24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6·10^24"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "1,5·10^23"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 94,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko ima atoma u 3,2 grama bakra? (Cu=63,5)",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3·10^22"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "6·10^22"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,05"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "0,1"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 95,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara H2O (u tečnom stanju) nastati u reakciji 6·10^22 atoma kiseonika sa odgovarajućim brojem atoma vodonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,6"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "2,24"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "1,8"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4,48"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 96,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara H2O (u tečnom stanju) nastati u reakciji 6·10^23 atoma vodonika sa odgovarajućim brojem atoma kiseonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "9"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "11,2"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "18"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "22,4"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 97,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara amonijaka pod normalnim uslovima nastati u reakciji azota sa 3,6·10^21 atoma vodonika?",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,448"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "80,1"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "0,244"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "44,8"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 98,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara amonijaka pod normalnim uslovima nastati u reakciji azota sa 3,6·10^20 atoma vodonika?",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "44,8"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "444"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "291"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "4,48"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 99,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara amonijaka pod normalnim uslovima nastati u reakciji azota sa 3,6·10^22 atoma vodonika?",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "460"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "448"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "226"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "884"
+      }
+    ],
+    "tacan_odgovor": [
+      "b"
+    ]
+  },
+  {
+    "id": 100,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko će mililitara amonijaka pod normalnim uslovima nastati u reakciji azota sa 1,8·10^20 atoma vodonika?",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,244"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "334"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "448"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,24"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 101,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Sa koliko atoma kiseonika se jedini 440 mg bora pri građenju oksida? (B=11)",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "3,6·10^22"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "4,8·10^22"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,4·10^22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "7,2·10^22"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 102,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Sa koliko atoma kiseonika se jedini 56 mg silicijuma pri građenju oksida? (Si=28)",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "1,2·10^21"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,8·10^23"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "2,4·10^22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,4·10^21"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 103,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Sa koliko atoma kiseonika se jedini 224 mL hlora, merenog pri normalnim uslovima, pri građenju anhidrida hipohloraste kiseline? (Cl=35,5)",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "6·10^21"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "3·10^21"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6·10^22"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3·10^22"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 104,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "0,5 mola jedne od navedenih soli sadrži 6·10^23 atoma fosfora. Koja je to so?",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kalcijumsekundarni fosfat"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "srebrofosfat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kalcijumprimarni fosfat"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "natrijumsekundarni fosfat"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 105,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Zaokružiti jedinjenje kod koga se u 0,25 mola jedinjenja nalazi 1,5·10^23 atoma fosfora:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kalcijumfosfit"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kalcijumprimarni fosfat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kalcijumprimarni fosfit"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kalcijumfosfat"
+      }
+    ],
+    "tacan_odgovor": [
+      "a"
+    ]
+  },
+  {
+    "id": 106,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Zaokružiti jedinjenje kod koga se u 0,2 mola jedinjenja nalazi 2,4·10^23 atoma kiseonika:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "hipohlorasta kiselina"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "hlorna kiselina"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "hlorasta kiselina"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "perhlorna kiselina"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 107,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Zaokružiti jedinjenje kod koga se u 0,2 mola jedinjenja nalazi 1,2·10^23 atoma kalijuma:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "kalijumsulfid"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "kalijumfosfat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "kalijumpermanganat"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "kalijumsulfit"
+      }
+    ],
+    "tacan_odgovor": [
+      "c"
+    ]
+  },
+  {
+    "id": 108,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Zaokružiti jedinjenje kod koga se u 0,5 mola jedinjenja nalazi 6·10^23 atoma natrijuma:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "natriumnitrit"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "natrijumfosfat"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "natrijumbisulfat"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "natrijumtiosulfat"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 109,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Koliko je grama natrijuma potrebno za reakciju sa 3,55 grama hlora da bi se nagradilo 5,85 grama natrijum-hlorida:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "0,75"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "1,15"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "4,60"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "2,30"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
+    ]
+  },
+  {
+    "id": 110,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Iz 45 grama vode dobijeno je 5 grama vodonika. Koliko grama kiseonika je dobijeno u ovoj reakciji:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "2,5"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "40"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "20"
       },
       {
         "oznaka": "d",
@@ -1404,1673 +2966,80 @@
     ]
   },
   {
-    "id": 53,
+    "id": 111,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Ksilen je:",
+    "pitanje": "U reakciji između 11,2 grama gvožđa i sumpora dobijeno je 17,6 grama gvožđe(II)-sulfida. Koliko je grama sumpora izreagovalo:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "dimetil-benzen"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "metil-etil-benzen"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "metil-benzen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "trimetil-benzen"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 54,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Broj mogućih izomera ksilena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "4"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 55,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Molekulska formula naftalena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "C10H8"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "C12H12"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "C12H10"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "C10H10"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 56,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Molekulska formula antracena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "C14H14"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "C14H10"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "C18H14"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "C18H18"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 57,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji od navedenih aromatičnih ugljovodonika ima molekulsku formulu C12H10:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "naftalen"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "difenil"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "toluen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "dipropil-benzen"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 58,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji od navedenih aromatičnih ugljovodonika ima molekulsku formulu C10H8:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "naftalen"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "tertametil-benzen"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "toluen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "antracen"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 59,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Aromatični ugljovodonik koji sadrži 5 prstenova benzena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "naftalen"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "benzpiren"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "antracen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "piren"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 60,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Oksidacijom propil-benzena dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "cikloheksanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "benzil-alkohol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "benzen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "benzoeva kiselina"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 61,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Za aromatična jedinjenja karakteristične su reakcije:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aromatične adicije"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "aromatične eliminacije"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "aromatične supstitucije"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "aromatične polimerizacije"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 62,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Benzen na sobnoj temperaturi, bez prisustva katalizatora, reaguje sa:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "HCl"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "Br2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "konc. H2SO4"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "KMnO4"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 63,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je grama vodonika potrebno za potpunu hidrogenizaciju 0,4 mola benzena:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "0,4"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "1,2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "0,8"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2,4"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 64,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Dejstvom smese koncentrovane nitratne i sulfatne kiseline na benzen na 50°C dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "nitrobenzen"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "benzen-sulfonska kiselina"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "toluen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "razara se aromatični prsten"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 65,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcija sulfonovanja benzena je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "esterifikacija"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "eliminacija"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "supstitucija"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "adicija"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 66,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je potrebno atoma vodonika za potpunu hidrogenizaciju 0,2 mola benzena:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1,2•10^23"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "1,2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3,6•10^23"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "7,2•10^23"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 67,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je potrebno atoma vodonika za hidrogenizaciju 0,3 mola benzena do cikloheksena:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1,8•10^23"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "1,2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "7,2•10^23"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "3,6•10^23"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 68,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Alkil grupa koja se dobija oduzimanjem jednog vodonikovog atoma iz benzena (C6H5-) naziva se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "benzil grupa"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "benzoil grupa"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "fenil grupa"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "fenoksi grupa"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 69,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji metil-bromida sa metalnim natrijumom dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "etanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "metil-alkohol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "metanal"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "etan"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 70,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcijom 2-hlor-butana sa NaOH proizvod koji se dobija u višku je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-buten"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-butanon"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "1-buten"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "butanal"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 71,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Alkil-halogenidi najčešće podležu reakcijama:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "elektrofilne adicije"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "nukleofilne adicije"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "elektrofilne supstitucije"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "nukleofilne supstitucije"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 72,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji metil-jodida sa natrijum-metoksidom dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "etanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "dimetil-etar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "dimetil-keton"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "metanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 73,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcijom 1-hlor-propana sa natrijumom u anhidrovanoj sredini dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "propanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "dipropil-etar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "propen"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "heksan"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 74,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koja je od navedenih reakcija moguća:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CH3CH2Cl + NaOH → HOCH2CH2Cl + Na"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2CH3CH2Cl + 2NaOH → CH3CH2OCH2CH3 + 2NaCl + H2O"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CH3CH2Cl + NaOH → CH3CH2OH + NaCl"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CH3CH2Cl + NaOH → CH3CH2ONa + HCl"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 75,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Freoni su halogeni derivati alkana koji sadrže:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "J i Br"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "F i J"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "Cl i F"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "Cl i Br"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 76,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja ima hiralni C-atom:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-hlor-butan"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-hlor-propan"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2-metil-butan"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-metil-propan"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 77,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja ima hiralni C-atom:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-metil-2-penten"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "3-metil-1-penten"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3-metil-2-penten"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-metil-1-penten"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 78,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja može da bude optički aktivno:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CH3CH2COCH2CH3"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CH2OHCOOH"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CH3CH2COCl"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CH3CH2CHClCH3"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 79,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja može da bude optički aktivno:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CH3OCH2CH2Cl"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CH3CHClCOOH"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CH2Cl2"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "ClHC=CFH"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 80,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Strukturnih izomera sa molekulskom formulom C3H8O ima:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "4"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "5"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 81,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima strukturnih izomera sa molekulskom formulom C4H10O:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "5"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "7"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 82,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima primarnih alkohola sa molekulskom formulom C4H10O:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "4"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 83,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko ima sekundarnih alkohola sa molekulskom formulom C4H10O:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "0"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "1"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "3"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 84,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od navedenih alkohola primarni:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-butanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-metil-1-butanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2-propanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-metil-2-propanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 85,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od navedenih alkohola sekundarni:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1,3-propandiol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "3-metil-1-butanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3-metil-2-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-metil-1-propanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 86,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji je od navedenih tercijarni alkohol:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1,2,3-propantriol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "cikloheksanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2-metil-2-propanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "1,2-propandiol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 87,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji alkohola sa H2SO4 gradi se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "so"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "aldehid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "keton"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 88,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji alkohola sa NaOH gradi se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "alkoholat"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "reakcija je nemoguća"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 89,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koji od navedenih alkohola najbrže reaguje sa Lukasovim reagensom:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-metil-1-butanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-metil-2-butanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "1-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "ciklobutanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 90,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Prevođenjem para alkohola preko Al2O3 na temperaturi preko 300°C dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "alken"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "aluminat"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "aldehid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "alkoksid"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 91,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Oksidacijom 1-butanola dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "alken"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "keton"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "aldehid"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 92,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Oksidacijom 2-butanola dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "alken"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "keton"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "aldehid"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 93,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko je moguće dobiti različitih oksidacionih proizvoda blagom oksidacijom svih alkohola čija je molekulska formula C4H10O:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "4"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 94,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja blagom oksidacijom daje aldehid:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2,2-dimetil-1-propanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-metil-2-propanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "3,3-dimetil-2-butanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 95,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja blagom oksidacijom daje keton:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2,2-dimetil-1-butanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2,3-dimetil-2-butanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3,3-dimetil-2-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2,3-dimetil-1-butanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 96,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koje od navedenih jedinjenja ne podleže oksidaciji pod blagim reakcionim uslovima:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2,2-dimetil-1-butanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2,3-dimetil-2-butanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "3,3-dimetil-2-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2,3-dimetil-1-butanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 97,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko se litara vodonika (normalni uslovi) oslobodi u reakciji 6 grama propanola sa metalnim natrijumom:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2,24"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "4,48"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "1,12"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "5,60"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 98,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Koliko se dobija litara vodonika (normalni uslovi) dejstvom 6•10^23 atoma natrijuma na apsolutni etanol:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1,12"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2,24"
-      },
-      {
-        "oznaka": "c",
         "tekst": "11,2"
       },
       {
-        "oznaka": "d",
+        "oznaka": "b",
         "tekst": "22,4"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "6,4"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "3,2"
       }
     ],
     "tacan_odgovor": [
       "c"
-    ]
-  },
-  {
-    "id": 99,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji ___ + PCl3 → CH3CH2CH2Cl + H3PO3 reaktant koji nedostaje je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "CH3CH2CHO"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "CH3CH2CH2OH"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "CH3CH2COOH"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "CH3CH2COONa"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 100,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Nitroglicerin je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "estar glicerola i nitratne kiseline"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar glicerola i nitritne kiseline"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "so glicerola i nitratne kiseline"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "so glicerola i nitritne kiseline"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 101,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcijom metil-magnezijum-bromida sa propanonom i naknadnim dejstvom razblažene kiseline dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "1-butanol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "2-metil-2-propanol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "2-butanol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-propanol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 102,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Za dobijanje 2-metil-2-butanola Grinjarovom reakcijom treba upotrebiti:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aceton i propil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "propanal i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "butanon i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2-metil-2-butanal i metil-magnezijum-halogenid"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 103,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Za dobijanje 3-metil-2-butanola Grinjarovom reakcijom treba upotrebiti:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "2-metil-propanal i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "3-metil-2-butanon i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "metanol i butil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "aceton i propil-magnezijum-halogenid"
-      }
-    ],
-    "tacan_odgovor": [
-      "a"
-    ]
-  },
-  {
-    "id": 104,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Za dobijanje 1-butanola Grinjarovom reakcijom treba upotrebiti:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "propanon i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "propanal i metil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etanal i etil-magnezijum-halogenid"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "metanal i propil-magnezijum-halogenid"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 105,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Krezol je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aromatični alkohol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "metil-fenol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "dvohidroksilni fenol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "trohidroksilni fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 106,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Katehol je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aromatični alkohol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "metil-fenol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "dvohidroksilni fenol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "trohidroksilni fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 107,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Pirogalol je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aromatični alkohol"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "metil-fenol"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "dvohidroksilni fenol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "trohidroksilni fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "d"
-    ]
-  },
-  {
-    "id": 108,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Fenol je:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "manje kiseo od alkohola"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "kiseliji od alkohola"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "kiseliji od ugljene kiseline"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "neutralan"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
-    ]
-  },
-  {
-    "id": 109,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Uvođenjem CO2 u vodeni rastvor natrijum-fenoksida na sobnoj temperaturi dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "benzoeva kiselina"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "ftalna kiselina"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "fenol"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "hidrohinon"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 110,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Dejstvom alkil-halogenida na natrijum-fenoksid dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aril-halogenid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2,4,6-trihalogen-fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 111,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Dejstvom acil-halogenida na natrijum-fenoksid dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "aril-halogenid"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "2,4,6-trihalogen-fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "b"
     ]
   },
   {
     "id": 112,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji fenola sa viškom broma dobija se:",
+    "pitanje": "Zakon stalnih masenih odnosa važi za:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "fenil-bromid"
+        "tekst": "jedinjenja"
       },
       {
         "oznaka": "b",
-        "tekst": "2,4,6-tribrom-fenol"
+        "tekst": "smese"
       },
       {
         "oznaka": "c",
-        "tekst": "orto-brom-fenol"
+        "tekst": "elemente"
       },
       {
         "oznaka": "d",
-        "tekst": "2,3,4-tribrom-fenol"
+        "tekst": "rastvore"
       }
     ],
     "tacan_odgovor": [
-      "b"
+      "a"
     ]
   },
   {
     "id": 113,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "Reakcijom fenola sa viškom smese za nitrovanje dobija se:",
+    "pitanje": "U reakciji 4 grama vodonika sa sumporom dobija se 68 grama vodonik-sulfida. Odnos masa vodonika i sumpora u ovom jedinjenju je:",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "nitro-benzen"
+        "tekst": "1 : 17"
       },
       {
         "oznaka": "b",
-        "tekst": "2,3,4-trinitro-fenol"
+        "tekst": "1 : 16"
       },
       {
         "oznaka": "c",
-        "tekst": "2,4,6-trinitro-fenol"
+        "tekst": "1 : 18"
       },
       {
         "oznaka": "d",
-        "tekst": "orto-nitro-fenol"
-      }
-    ],
-    "tacan_odgovor": [
-      "c"
-    ]
-  },
-  {
-    "id": 114,
-    "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji fenola sa hloridom kiseline dobija se:",
-    "tip": "visestruki_izbor",
-    "opcije": [
-      {
-        "oznaka": "a",
-        "tekst": "etar"
-      },
-      {
-        "oznaka": "b",
-        "tekst": "estar"
-      },
-      {
-        "oznaka": "c",
-        "tekst": "so"
-      },
-      {
-        "oznaka": "d",
-        "tekst": "anhidrid"
+        "tekst": "1 : 2"
       }
     ],
     "tacan_odgovor": [
@@ -3078,30 +3047,57 @@
     ]
   },
   {
-    "id": 115,
+    "id": 114,
     "kategorija": "Opšta i neorganska hemija",
-    "pitanje": "U reakciji fenola sa natrijum-hidroksidom nastaje:",
+    "pitanje": "Odnos masa elemenata u fosfor(V)-oksidu je (P=31):",
     "tip": "visestruki_izbor",
     "opcije": [
       {
         "oznaka": "a",
-        "tekst": "so"
+        "tekst": "31 : 40"
       },
       {
         "oznaka": "b",
-        "tekst": "etar"
+        "tekst": "1 : 5"
       },
       {
         "oznaka": "c",
-        "tekst": "estar"
+        "tekst": "62 : 80"
       },
       {
         "oznaka": "d",
-        "tekst": "reakcija je nemoguća"
+        "tekst": "2 : 5"
       }
     ],
     "tacan_odgovor": [
       "a"
+    ]
+  },
+  {
+    "id": 115,
+    "kategorija": "Opšta i neorganska hemija",
+    "pitanje": "Odnos masa vodonika i kiseonika u vodonik-peroksidu je 1 : 16. Procentni sastav ovog jedinjenja je:",
+    "tip": "visestruki_izbor",
+    "opcije": [
+      {
+        "oznaka": "a",
+        "tekst": "12,5%H, 87,5%O"
+      },
+      {
+        "oznaka": "b",
+        "tekst": "6,25%H, 93,75%O"
+      },
+      {
+        "oznaka": "c",
+        "tekst": "11,11%H, 88,89%O"
+      },
+      {
+        "oznaka": "d",
+        "tekst": "5,88%H, 94,12%O"
+      }
+    ],
+    "tacan_odgovor": [
+      "d"
     ]
   },
   {
